@@ -1,0 +1,1503 @@
+Order ID,Order Date,Customer Name,Segment,Region,State,Category,Sub-Category,Product Name,Quantity,Discount,Sales,Profit
+ORD-10001,2025-10-16,Customer 142,Home Office,East,Bihar,Office Supplies,Art,Pens,3,0.1,6177.82,273.34
+ORD-10002,2024-04-24,Customer 191,Corporate,West,Gujarat,Office Supplies,Paper,A4 Paper,10,0.1,17789.04,-1143.6
+ORD-10003,2024-01-26,Customer 152,Corporate,West,Gujarat,Furniture,Bookcases,Wooden Bookcase,8,0.0,38621.12,3893.97
+ORD-10004,2026-01-29,Customer 040,Consumer,North,Punjab,Technology,Accessories,Keyboard,1,0.1,3275.97,765.06
+ORD-10005,2024-10-08,Customer 098,Corporate,West,Gujarat,Office Supplies,Art,Pens,2,0.2,6837.84,1568.35
+ORD-10006,2024-09-07,Customer 192,Consumer,West,Rajasthan,Technology,Accessories,Headphones,4,0.05,12132.22,3385.78
+ORD-10007,2024-08-16,Customer 012,Corporate,West,Maharashtra,Furniture,Bookcases,Wooden Bookcase,8,0.05,6955.44,1705.7
+ORD-10008,2024-05-22,Customer 203,Consumer,North,Punjab,Office Supplies,Storage,Storage Box,3,0.1,3500.74,433.16
+ORD-10009,2026-01-24,Customer 037,Consumer,South,Karnataka,Technology,Accessories,Keyboard,10,0.1,31026.24,7713.7
+ORD-10010,2024-04-14,Customer 174,Home Office,West,Rajasthan,Office Supplies,Storage,Storage Box,1,0.1,4054.18,990.99
+ORD-10011,2025-11-23, Customer 011 ,Corporate,South,Karnataka,Office Supplies,Storage,Storage Box,7,0.1,21940.0,4921.35
+ORD-10012,2026-01-28,Customer 213,Home Office,West,Maharashtra,Technology,Laptops,Business Laptop,10,0.2,12398.16,325.86
+ORD-10013,2026-07-02,Customer 074,Consumer,West,Gujarat,Technology,Accessories,Mouse,1,0.2,3649.62,360.66
+ORD-10014,2025-07-12,Customer 175,Consumer,Central,Chhattisgarh,Technology,Accessories,Headphones,10,0.2,10624.56,2085.49
+ORD-10015,2024-03-30,Customer 024,Corporate,North,Haryana,Furniture,Chairs,Ergonomic Chair,8,0.05,2002.52,367.76
+ORD-10016,2025-08-27,Customer 070,Consumer,East,Bihar,Office Supplies,Paper,A4 Paper,3,0.05,11268.64,1252.02
+ORD-10017,2025-03-08,Customer 058,Home Office,East,Odisha,Office Supplies,Art,Pens,2,0.0,4789.64,-140.47
+ORD-10018,2024-02-02,Customer 173,Home Office,West,Rajasthan,Office Supplies,Paper,Notebook,1,0.0,1395.85,116.86
+ORD-10019,2024-01-31,Customer 144,Corporate,East,Bihar,Office Supplies,Art,Pens,2,0.1,6132.06,-435.32
+ORD-10020,2024-04-05,Customer 010,Corporate,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,5,0.0,16406.35,-486.94
+ORD-10021,2024-08-11,Customer 179,Home Office,West,Maharashtra,Technology,Phones,Smartphone,7,0.2,13007.96,3405.19
+ORD-10022,2024-08-26,Customer 072,Consumer,West,Rajasthan,Furniture,Bookcases,Wooden Bookcase,7,0.1,20847.46,2952.73
+ORD-10023,2025-06-01,Customer 166,Corporate,East,West Bengal,Office Supplies,Storage,File Cabinet,6,0.2,2816.83,147.15
+ORD-10024,2025-09-08,Customer 153,Consumer,North,Punjab,Office Supplies,Paper,A4 Paper,8,0.0,4393.6,663.49
+ORD-10025,2024-01-28,Customer 056,Consumer,North,Punjab,Technology,Phones,Smartphone,2,0.15,7082.39,-38.41
+ORD-10026,2025-07-28,Customer 045,Consumer,East,West Bengal,Furniture,Chairs,Ergonomic Chair,3,0.15,,128.91
+ORD-10027,2024-07-22,Customer 033,Home Office,North,Delhi,Technology,Laptops,Gaming Laptop,10,0.0,16864.8,261.95
+ORD-10028,2026-01-03,Customer 028,Corporate,West,Rajasthan,Technology,Accessories,Headphones,8,0.05,17453.78,1828.56
+ORD-10029,2025-10-27,Customer 123,Corporate,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,8,0.0,26018.96,-1511.78
+ORD-10030,2025-12-19,Customer 017,Consumer,West,Rajasthan,Technology,Laptops,Business Laptop,2,0.05,8562.18,1190.03
+ORD-10031,2025-07-12,Customer 130,Home Office,East,Bihar,Furniture,Bookcases,Metal Bookcase,7,0.15,29593.4,774.26
+ORD-10032,2025-03-05,Customer 212,Corporate,West,Maharashtra,Furniture,Chairs,Office Chair,7,0.0,16188.34,1116.56
+ORD-10033,2024-08-13,Customer 040,Home Office,West,Gujarat,Furniture,Chairs,Ergonomic Chair,7,0.05,10848.61,593.94
+ORD-10034,2025-04-04,Customer 034,Home Office,West,Maharashtra,Technology,Phones,Smartphone,7,0.2,3209.75,173.82
+ORD-10035,2025-08-26,Customer 109,Home Office,North,Haryana,Furniture,Bookcases,Metal Bookcase,2,0.2,3380.74,874.96
+ORD-10036,2024-10-11,Customer 124,Consumer,North,Punjab,Furniture,Tables,Conference Table,2,0.0,5863.6,-142.47
+ORD-10037,2026-04-08,Customer 197,Home Office,North,Punjab,Furniture,Tables,Study Table,5,0.1,13108.91,2939.75
+ORD-10038,2026-06-09,Customer 087,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,1,0.2,787.23,153.09
+ORD-10039,2024-01-07,Customer 008,Consumer,North,Delhi,Technology,Accessories,Mouse,7,0.2,2469.43,365.33
+ORD-10040,2026-02-16,Customer 199,Home Office,Central,Madhya Pradesh,Office Supplies,Storage,Storage Box,6,0.05,4966.47,892.84
+ORD-10041,2026-04-05,Customer 170,Corporate,Central,Madhya Pradesh,Technology,Phones,Smartphone,10,0.0,3438.4,
+ORD-10042,2024-06-12,Customer 029,Corporate,West,Rajasthan,Office Supplies,Storage,Storage Box,4,0.0,15196.88,672.65
+ORD-10043,2025-12-15,Customer 053,Corporate,Central,Chhattisgarh,Furniture,Bookcases,Metal Bookcase,1,0.15,1003.46,-60.49
+ORD-10044,2025-03-08,Customer 034,Corporate,South,Karnataka,Office Supplies,Storage,Storage Box,2,0.2,220.61,16.55
+ORD-10045,2024-12-14,Customer 005,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,2,0.2,3273.04,-212.0
+ORD-10046,2024-10-11,Customer 084,Consumer,North,Punjab,Furniture,Tables,Conference Table,7,0.1,9567.31,-693.55
+ORD-10047,2024-06-08,Customer 103,Home Office,Central,Chhattisgarh,Furniture,Tables,Study Table,7,0.0,29665.79,2279.62
+ORD-10048,2024-08-08,Customer 163,Consumer,North,Punjab,Office Supplies,Art,Pens,4,0.0,6928.16,-363.75
+ORD-10049,2026-02-20,Customer 155,Consumer,Central,Madhya Pradesh,Office Supplies,Storage,File Cabinet,4,0.05,2294.21,-20.61
+ORD-10050,2024-12-10,Customer 145,Home Office,North,Delhi,Furniture,Tables,Conference Table,10,0.1,34410.6,5684.91
+ORD-10051,2024-04-14,Customer 204,Corporate,Central,Chhattisgarh,Furniture,Tables,Study Table,8,0.1,3129.12,460.92
+ORD-10052,2024-04-04,Customer 213,Corporate,Central,Madhya Pradesh,Office Supplies,Art,Markers,5,0.0,11812.7,-703.09
+ORD-10053,2025-01-24,Customer 203,Home Office,North,Haryana,Technology,Accessories,Mouse,9,0.15,15177.29,1814.5
+ORD-10054,2024-04-09,Customer 016,Corporate,North,Punjab,Furniture,Bookcases,Wooden Bookcase,6,0.15,15629.1,-401.51
+ORD-10055,2025-01-02,Customer 135,Home Office,North,Punjab,Furniture,Chairs,Office Chair,1,0.1,1182.55,327.28
+ORD-10056,2026-05-17,Customer 014,Home Office,Central,Madhya Pradesh,Office Supplies,Storage,Storage Box,7,0.05,13984.75,2299.14
+ORD-10057,2024-12-18,Customer 155,Consumer,East,West Bengal,Office Supplies,Paper,Notebook,5,0.2,5339.12,1426.55
+ORD-10058,2025-09-10,Customer 101,Consumer,East,West Bengal,Furniture,Bookcases,Wooden Bookcase,6,0.2,7776.67,1333.33
+ORD-10059,2024-09-27,Customer 190,Home Office,Central,Madhya Pradesh,Office Supplies,Art,Pens,6,0.2,19606.13,3392.24
+ORD-10060,2026-04-06,Customer 055,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,9,0.05,16013.81,499.5
+ORD-10061,2024-02-14,Customer 139,Home Office,West,Maharashtra,Technology,Phones,Smartphone,2,0.0,3098.76,318.45
+ORD-10062,2026-01-17,Customer 178,Home Office,Central,Madhya Pradesh,Furniture,Tables,Study Table,10,0.0,19459.3,-289.86
+ORD-10063,2025-04-15,Customer 157,Corporate,South,Telangana,Office Supplies,Paper,Notebook,6,0.0,20485.08,5511.55
+ORD-10064,2025-07-03,Customer 147,Corporate,West,Maharashtra,Furniture,Chairs,Ergonomic Chair,8,0.0,36235.76,1899.58
+ORD-10065,2024-05-07,Customer 065,Consumer,West,Gujarat,Office Supplies,Art,Pens,3,0.15,10462.06,-315.71
+ORD-10066,2026-08-02,Customer 132,Consumer,West,Gujarat,Furniture,Chairs,Office Chair,5,0.0,2554.95,46.51
+ORD-10067,2025-01-22,Customer 061,Corporate,West,Maharashtra,Technology,Laptops,Business Laptop,1,0.1,1919.69,193.36
+ORD-10068,2024-03-21,Customer 038,Consumer,North,Punjab,Technology,Phones,Feature Phone,2,0.2,6739.14,274.31
+ORD-10069,2025-07-19,Customer 005,Corporate,North,Punjab,Office Supplies,Art,Markers,8,0.0,18385.2,4524.76
+ORD-10070,2024-10-27,Customer 013,Consumer,South,Karnataka,Furniture,Bookcases,Metal Bookcase,2,0.0,7806.5,221.82
+ORD-10071,2026-04-29,Customer 005,Home Office,West,Rajasthan,Furniture,Tables,Study Table,2,0.1,7559.59,1019.23
+ORD-10072,2025-10-05,Customer 107,Consumer,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,7,0.05,716.01,4.73
+ORD-10073,2025-09-25,Customer 096,Corporate,North,Haryana,Office Supplies,Paper,A4 Paper,7,0.0,30655.24,4562.77
+ORD-10074,2026-06-25,Customer 035,Consumer,North,Punjab,Technology,Laptops,Gaming Laptop,2,0.2,6208.58,1194.56
+ORD-10075,2026-06-01,Customer 208,Consumer,East,Bihar,Office Supplies,Art,Markers,8,0.1,35323.27,5207.53
+ORD-10076,2025-01-05,Customer 081,Corporate,North,Haryana,Office Supplies,Paper,Notebook,4,0.0,1258.6,300.66
+ORD-10077,2025-08-14,Customer 200,Consumer,Central,Chhattisgarh,Furniture,Tables,Conference Table,1,0.0,3791.13,87.2
+ORD-10078,2024-07-15,Customer 048,Corporate,East,Odisha,Technology,Laptops,Business Laptop,7,0.1,23575.92,991.44
+ORD-10079,2025-12-22,Customer 047,Home Office,West,Gujarat,Furniture,Tables,Study Table,7,0.15,2896.1,805.8
+ORD-10080,2024-03-12,Customer 043,Home Office,East,Odisha,Technology,Phones,Feature Phone,5,0.15,6807.78,1214.23
+ORD-10081,2024-02-16,Customer 203,Consumer,West,Gujarat,Office Supplies,Paper,Notebook,10,0.05,47413.93,7122.0
+ORD-10082,2025-11-08,Customer 008,Consumer,North,Haryana,Furniture,Tables,Conference Table,9,0.2,28982.66,-649.35
+ORD-10083,2024-08-21,Customer 146,Consumer,Central,Chhattisgarh,Technology,Phones,Smartphone,4,0.05,14875.97,749.37
+ORD-10084,2026-03-02,Customer 136,Corporate,Central,Madhya Pradesh,Furniture,Tables,Conference Table,6,0.0,13651.8,1728.48
+ORD-10085,2024-10-23,Customer 100,Home Office,West,Gujarat,Furniture,Tables,Study Table,2,0.0,453.96,45.24
+ORD-10086,2024-03-22,Customer 126,Consumer,North,Punjab,Office Supplies,Art,Pens,4,0.05,18932.32,3215.33
+ORD-10087,2026-05-25,Customer 082,Home Office,North,Delhi,Technology,Laptops,Gaming Laptop,8,0.2,31914.18,8563.28
+ORD-10088,2024-08-26,Customer 180,Home Office,East,Bihar,Technology,Accessories,Mouse,5,0.0,22337.65,3937.04
+ORD-10089,2026-06-06,Customer 007,Corporate,South,Tamil Nadu,Furniture,Chairs,Office Chair,4,0.0,15924.48,3257.1
+ORD-10090,2024-04-13,Customer 184,Home Office,Central,Chhattisgarh,Office Supplies,Art,Markers,10,0.0,44328.1,1389.45
+ORD-10091,2025-01-24,Customer 120,Home Office,West,Rajasthan,Office Supplies,Storage,File Cabinet,3,0.2,11675.18,-622.29
+ORD-10092,2024-10-11,Customer 015,Consumer,Central,Chhattisgarh,Technology,Accessories,Mouse,10,0.0,9916.2,751.08
+ORD-10093,2025-04-09,Customer 133,Corporate,Central,Madhya Pradesh,Office Supplies,Paper,A4 Paper,6,0.0,28081.32,1251.54
+ORD-10094,2025-10-12,Customer 024,Home Office,North,Punjab,Technology,Accessories,Mouse,5,0.05,3388.32,478.41
+ORD-10095,2026-05-04,Customer 145,Consumer,South,Telangana,Furniture,Chairs,Office Chair,10,0.15,30864.35,1282.2
+ORD-10096,2025-01-08,Customer 164,Consumer,North,Delhi,Technology,Accessories,Mouse,5,0.15,13984.8,978.53
+ORD-10097,2024-06-15,Customer 117,Consumer,West,Rajasthan,Furniture,Tables,Conference Table,8,0.2,8319.36,550.69
+ORD-10098,2025-01-14,Customer 184,Corporate,North,Delhi,Office Supplies,Storage,Storage Box,8,0.15,7478.03,-211.47
+ORD-10099,2024-12-29,Customer 064,Consumer,East,Odisha,Technology,Laptops,Gaming Laptop,6,0.0,7707.12,125.55
+ORD-10100,2024-08-02,Customer 148,Home Office,North,Delhi,Office Supplies,Storage,Storage Box,4,0.0,19268.64,4101.37
+ORD-10101,2025-11-17,Customer 101,Home Office,East,West Bengal,Technology,Laptops,Business Laptop,8,0.1,31733.78,-2273.93
+ORD-10102,2024-09-30,Customer 216,Home Office,West,Maharashtra,Technology,Accessories,Keyboard,1,0.1,312.88,42.27
+ORD-10103,2025-12-19,Customer 196,Corporate,West,Gujarat,Furniture,Chairs,Office Chair,7,0.05,5029.26,914.84
+ORD-10104,2025-11-30,Customer 116,Home Office,East,West Bengal,Office Supplies,Paper,A4 Paper,6,0.0,16864.74,996.46
+ORD-10105,2025-10-25,Customer 087,Home Office,East,Bihar,Furniture,Bookcases,Wooden Bookcase,3,0.1,13170.36,715.83
+ORD-10106,2024-03-14,Customer 183,Corporate,East,West Bengal,Technology,Accessories,Mouse,7,0.0,17852.66,-1178.11
+ORD-10107,2025-09-15,Customer 158,Home Office,West,Rajasthan,Office Supplies,Paper,A4 Paper,6,0.05,26583.15,-571.52
+ORD-10108,2025-10-12,Customer 173,Consumer,East,Bihar,Office Supplies,Art,Pens,10,0.0,15689.7,825.42
+ORD-10109,2024-06-24,Customer 199,Home Office,West,Rajasthan,Office Supplies,Art,Markers,10,0.2,19403.92,3916.59
+ORD-10110,2025-06-30,Customer 216,Corporate,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,3,0.2,6404.98,916.58
+ORD-10111,2026-01-16,Customer 106,Home Office,South,Telangana,Technology,Phones,Smartphone,4,0.05,732.6,51.84
+ORD-10112,2024-09-07,Customer 084,Home Office,South,Tamil Nadu,Furniture,Bookcases,Metal Bookcase,1,0.15,3024.56,-16.2
+ORD-10113,2024-06-16,Customer 174,Home Office,West,Rajasthan,Office Supplies,Storage,File Cabinet,8,0.05,34727.52,4051.26
+ORD-10114,2025-04-18,Customer 077,Corporate,East,Bihar,Office Supplies,Paper,A4 Paper,5,0.0,14173.1,3669.91
+ORD-10115,2025-01-23,Customer 032,Home Office,South,Telangana,Furniture,Tables,Conference Table,8,0.2,11578.5,213.56
+ORD-10116,2024-10-03,Customer 114,Home Office,Central,Chhattisgarh,Office Supplies,Storage,File Cabinet,5,0.2,1224.52,-63.12
+ORD-10117,2026-08-05,Customer 036,Consumer,East,Bihar,Office Supplies,Paper,A4 Paper,9,0.15,10928.41,1864.62
+ORD-10118,2025-10-17,Customer 121,Consumer,Central,Madhya Pradesh,Technology,Phones,Smartphone,4,0.1,1285.96,50.03
+ORD-10119,2025-12-05,Customer 074,Corporate,South,Karnataka,Furniture,Chairs,Ergonomic Chair,8,0.0,19516.0,3749.57
+ORD-10120,2025-07-24,Customer 045,Corporate,East,Bihar,Technology,Phones,Smartphone,9,0.0,33476.04,8327.59
+ORD-10121,2024-08-12,Customer 155,Consumer,South,Karnataka,Office Supplies,Storage,File Cabinet,5,0.0,21980.2,602.72
+ORD-10122,2025-12-02,Customer 208,Consumer,East,Odisha,Office Supplies,Art,Pens,3,0.1,11529.51,210.08
+ORD-10123,2024-11-28,Customer 146,Home Office,East,West Bengal,Furniture,Tables,Conference Table,3,0.05,481.68,98.59
+ORD-10124,2026-05-13,Customer 025,Consumer,South,Karnataka,Furniture,Bookcases,Metal Bookcase,7,0.0,18374.16,1181.46
+ORD-10125,2026-02-25,Customer 085,Corporate,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,5,0.1,8907.8,1704.53
+ORD-10126,2026-03-05,Customer 041,Corporate,Central,Madhya Pradesh,Office Supplies,Art,Pens,4,0.0,1617.64,141.61
+ORD-10127,2024-02-27,Customer 123,Consumer,Central,Chhattisgarh,Furniture,Chairs,Ergonomic Chair,6,0.0,18669.96,4941.0
+ORD-10128,2024-08-22,Customer 212,Consumer,West,Rajasthan,Furniture,Tables,Conference Table,9,0.15,34981.15,7301.2
+ORD-10129,2026-04-21,Customer 029,Consumer,South,Telangana,Furniture,Chairs,Ergonomic Chair,9,0.0,31936.05,7990.66
+ORD-10130,2024-02-02,Customer 175,Consumer,Central,Madhya Pradesh,Furniture,Bookcases,Wooden Bookcase,3,0.15,4354.84,344.3
+ORD-10131,2026-04-04,Customer 145,Consumer,Central,Chhattisgarh,Technology,Accessories,Keyboard,1,0.15,1973.55,137.27
+ORD-10132,2024-11-19,Customer 149,Consumer,Central,Chhattisgarh,Furniture,Tables,Study Table,7,0.0,9427.88,1777.06
+ORD-10133,2025-02-14,Customer 121,Consumer,North,Punjab,Office Supplies,Art,Markers,9,0.0,44740.89,12304.17
+ORD-10134,2024-10-01,Customer 097,Corporate,East,Odisha,Technology,Phones,Feature Phone,6,0.1,26811.0,2184.38
+ORD-10135,2024-03-08,Customer 033,Home Office,North,Haryana,Furniture,Bookcases,Wooden Bookcase,6,0.15,3474.63,213.69
+ORD-10136,2024-08-04,Customer 064,Corporate,South,Karnataka,Technology,Laptops,Business Laptop,9,0.1,17643.66,3818.26
+ORD-10137,2026-07-24,Customer 005,Consumer,East,West Bengal,Office Supplies,Paper,A4 Paper,1,0.1,3659.8,517.39
+ORD-10138,2025-08-03,Customer 063,Home Office,South,Karnataka,Technology,Accessories,Headphones,8,0.2,19386.56,4536.39
+ORD-10139,2026-06-16,Customer 188,Home Office,North,Punjab,Office Supplies,Paper,A4 Paper,1,0.05,747.33,3.21
+ORD-10140,2026-01-05,Customer 134,Consumer,East,Bihar,Furniture,Bookcases,Metal Bookcase,4,0.0,6314.6,1735.57
+ORD-10141,2024-11-18,Customer 165,Home Office,West,Gujarat,Office Supplies,Paper,A4 Paper,7,0.0,19765.69,5337.22
+ORD-10142,2024-08-05,Customer 138,Corporate,West,Rajasthan,Office Supplies,Art,Pens,7,0.1,5236.37,-72.28
+ORD-10143,2025-11-02,Customer 107,Home Office,South,Karnataka,Office Supplies,Art,Markers,8,0.15,31159.16,2136.39
+ORD-10144,2025-05-26,Customer 217,Corporate,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,4,0.0,6873.16,1732.05
+ORD-10145,2025-02-09,Customer 019,Consumer,North,Haryana,Furniture,Chairs,Office Chair,5,0.15,8279.51,1134.72
+ORD-10146,2026-06-24,Customer 049,Home Office,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,5,0.0,23947.0,-89.78
+ORD-10147,2026-07-25,Customer 073,Corporate,North,Haryana,Office Supplies,Paper,A4 Paper,7,0.15,27275.51,975.96
+ORD-10148,2025-10-20,Customer 206,Home Office,West,Rajasthan,Furniture,Tables,Conference Table,5,0.1,8380.17,735.46
+ORD-10149,2025-04-14,Customer 005,Corporate,West,Gujarat,Technology,Laptops,Business Laptop,7,0.0,2268.07,423.79
+ORD-10150,2024-05-26,Customer 128,Home Office,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper,6,0.15,6258.16,1376.86
+ORD-10151,2024-09-28,Customer 185,Home Office,East,Odisha,Office Supplies,Art,Pens,8,0.05,7024.98,-133.93
+ORD-10152,2024-05-22,Customer 172,Consumer,West,Maharashtra,Furniture,Bookcases,Wooden Bookcase,9,0.0,2391.66,622.47
+ORD-10153,2024-09-09,Customer 117,Corporate,North,Punjab,Technology,Accessories,Headphones,2,0.0,7130.26,-8.99
+ORD-10154,2026-02-01,Customer 004,Consumer,North,Haryana,Furniture,Bookcases,Metal Bookcase,8,0.15,1204.21,142.81
+ORD-10155,2025-07-28,Customer 046,Consumer,Central,Chhattisgarh,Furniture,Tables,Study Table,9,0.2,29408.18,2205.8
+ORD-10156,2025-07-05,Customer 102,Consumer,North,Haryana,Technology,Phones,Smartphone,10,0.05,25456.49,413.33
+ORD-10157,2024-09-26,Customer 220,Home Office,East,Odisha,Office Supplies,Art,Markers,4,0.0,6279.52,975.49
+ORD-10158,2026-02-03,Customer 044,Consumer,North,Delhi,Office Supplies,Storage,Storage Box,9,0.2,17513.42,-1341.49
+ORD-10159,2025-08-21,Customer 178,Home Office,West,Gujarat,Furniture,Tables,Study Table,9,0.0,41434.65,-161.17
+ORD-10160,2025-03-14,Customer 218,Corporate,West,Gujarat,Technology,Phones,Feature Phone,9,0.0,25750.8,-397.4
+ORD-10161,2026-07-08,Customer 214,Corporate,North,Delhi,Furniture,Chairs,Ergonomic Chair,2,0.15,2662.98,17.5
+ORD-10162,2025-08-20,Customer 112,Consumer,Central,Chhattisgarh,Office Supplies,Art,Markers,2,0.05,4852.37,-294.39
+ORD-10163,2025-02-12,Customer 116,Corporate,North,Punjab,Furniture,Bookcases,Metal Bookcase,6,0.05,1397.47,282.4
+ORD-10164,2025-01-05,Customer 198,Home Office,South,Tamil Nadu,Furniture,Tables,Conference Table,3,0.2,8233.2,467.86
+ORD-10165,2024-08-12,Customer 040,Home Office,East,West Bengal,Furniture,Chairs,Office Chair,5,0.2,3422.72,692.08
+ORD-10166,2024-05-21,Customer 070,Consumer,West,Gujarat,Office Supplies,Paper,A4 Paper,1,0.1,4248.46,210.6
+ORD-10167,2025-06-05,Customer 023,Corporate,South,Karnataka,Technology,Laptops,Business Laptop,9,0.1,22827.66,-977.36
+ORD-10168,2025-05-20,Customer 022,Home Office,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,7,0.1,1010.96,60.26
+ORD-10169,2024-04-03,Customer 127,Consumer,Central,Madhya Pradesh,Furniture,Bookcases,Wooden Bookcase,7,0.05,6188.22,175.79
+ORD-10170,2026-02-12,Customer 064,Home Office,North,Delhi,Office Supplies,Storage,Storage Box,5,0.0,12363.65,618.24
+ORD-10171,2024-02-18,Customer 086,Home Office,West,Rajasthan,Furniture,Chairs,Ergonomic Chair,2,0.0,1527.8,399.64
+ORD-10172,2026-05-31,Customer 178,Consumer,West,Gujarat,Office Supplies,Storage,Storage Box,10,0.05,7286.6,999.4
+ORD-10173,2024-04-22,Customer 148,Consumer,West,Gujarat,Technology,Laptops,Business Laptop,5,0.2,14803.52,1432.43
+ORD-10174,2024-06-05,Customer 140,Consumer,East,Odisha,Office Supplies,Storage,Storage Box,2,0.0,9334.26,1243.34
+ORD-10175,2025-10-04,Customer 218,Corporate,Central,Madhya Pradesh,Furniture,Tables,Study Table,8,0.2,25655.42,-1413.69
+ORD-10176,2024-06-12,Customer 097,Consumer,West,Maharashtra,Furniture,Tables,Study Table,5,0.2,13309.8,962.65
+ORD-10177,2026-03-22,Customer 010,Corporate,West,Rajasthan,Office Supplies,Art,Pens,9,0.2,18593.28,1312.47
+ORD-10178,2025-11-27,Customer 166,Home Office,Central,Madhya Pradesh,Technology,Phones,Feature Phone,3,0.0,9810.9,1204.38
+ORD-10179,2025-03-08,Customer 143,Home Office,West,Gujarat,Office Supplies,Paper,A4 Paper,2,0.15,2325.29,439.17
+ORD-10180,2025-09-02,Customer 039,Corporate,Central,Madhya Pradesh,Office Supplies,Storage,Storage Box,8,0.15,26414.46,4452.35
+ORD-10181,2024-03-06,Customer 080,Corporate,North,Punjab,Technology,Laptops,Business Laptop,2,0.2,1069.98,-31.03
+ORD-10182,2025-01-29,Customer 082,Consumer,West,Maharashtra,Furniture,Tables,Conference Table,8,0.2,3701.44,632.33
+ORD-10183,2025-01-25,Customer 190,Consumer,East,West Bengal,Furniture,Chairs,Office Chair,6,0.2,15720.24,3270.09
+ORD-10184,2025-09-02,Customer 104,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,9,0.1,17732.6,61.5
+ORD-10185,2025-04-24,Customer 116,Home Office,South,Karnataka,Furniture,Bookcases,Metal Bookcase,7,0.15,1446.09,344.05
+ORD-10186,2025-06-25,Customer 017,Home Office,West,Gujarat,Technology,Accessories,Headphones,4,0.2,4684.45,989.09
+ORD-10187,2024-09-14,Customer 126,Home Office,North,Haryana,Technology,Laptops,Business Laptop,4,0.05,8899.6,1436.86
+ORD-10188,2025-07-20,Customer 159,Consumer,East,Bihar,Office Supplies,Art,Pens,10,0.05,6267.53,1406.35
+ORD-10189,2026-05-31,Customer 096,Home Office,East,Bihar,Furniture,Chairs,Office Chair,6,0.05,3861.86,-146.36
+ORD-10190,2024-01-12,Customer 138,Home Office,South,Telangana,Office Supplies,Storage,File Cabinet,10,0.0,19801.8,1885.16
+ORD-10191,2025-11-27,Customer 092,Consumer,South,Telangana,Technology,Laptops,Business Laptop,3,0.1,2745.31,392.55
+ORD-10192,2026-01-08,Customer 114,Corporate,West,Maharashtra,Technology,Laptops,Business Laptop,7,0.1,21766.56,3823.32
+ORD-10193,2024-04-27,Customer 044,Corporate,South,Karnataka,Furniture,Chairs,Office Chair,5,0.0,1301.05,147.72
+ORD-10194,2025-11-29,Customer 094,Home Office,Central,Chhattisgarh,Furniture,Bookcases,Wooden Bookcase,10,0.15,5606.69,1213.19
+ORD-10195,2026-06-25,Customer 077,Consumer,North,Haryana,Office Supplies,Art,Markers,7,0.2,3370.3,641.99
+ORD-10196,2025-07-03,Customer 189,Home Office,West,Gujarat,Office Supplies,Paper,Notebook,2,0.0,7801.2,-34.67
+ORD-10197,2026-02-07,Customer 207,Consumer,East,Bihar,Furniture,Bookcases,Metal Bookcase,3,0.0,9357.42,1991.92
+ORD-10198,2024-09-30,Customer 069,Home Office,Central,Chhattisgarh,Furniture,Tables,Study Table,6,0.05,27913.47,674.39
+ORD-10199,2026-02-26,Customer 183,Corporate,North,Delhi,Office Supplies,Paper,Notebook,3,0.0,10610.97,104.88
+ORD-10200,2025-10-18,Customer 116,Consumer,South,Telangana,Office Supplies,Storage,File Cabinet,10,0.2,25590.16,1768.82
+ORD-10201,2024-12-14,Customer 001,Home Office,North,Punjab,Furniture,Bookcases,Metal Bookcase,6,0.1,12571.25,475.5
+ORD-10202,2024-04-24,Customer 110,Consumer,North,Haryana,Office Supplies,Art,Pens,2,0.1,7197.88,-11.38
+ORD-10203,2024-10-27,Customer 202,Corporate,West,Gujarat,Office Supplies,Storage,Storage Box,9,0.15,22428.81,5088.47
+ORD-10204,2025-03-21,Customer 001,Corporate,North,Delhi,Technology,Accessories,Keyboard,1,0.0,708.76,55.89
+ORD-10205,2024-06-10,Customer 093,Corporate,South,Telangana,Technology,Accessories,Keyboard,3,0.05,12496.31,-579.8
+ORD-10206,2025-04-09,Customer 194,Consumer,North,Punjab,Furniture,Bookcases,Wooden Bookcase,1,0.05,1939.97,351.82
+ORD-10207,2024-01-04,Customer 058,Home Office,West,Rajasthan,Technology,Accessories,Headphones,1,0.0,1145.76,-36.93
+ORD-10208,2026-01-09,Customer 123,Consumer,West,Maharashtra,Technology,Accessories,Keyboard,2,0.1,8895.53,1510.92
+ORD-10209,2026-06-15,Customer 199,Consumer,South,Tamil Nadu,Technology,Accessories,Headphones,2,0.05,3107.3,-95.19
+ORD-10210,2026-01-06,Customer 055,Home Office,South,Karnataka,Furniture,Bookcases,Wooden Bookcase,10,0.1,29565.9,1372.67
+ORD-10211,2024-09-26,Customer 032,Home Office,South,Tamil Nadu,Furniture,Bookcases,Metal Bookcase,4,0.0,2099.08,-62.12
+ORD-10212,2025-05-27,Customer 154,Home Office,West,Gujarat,Office Supplies,Storage,File Cabinet,4,0.0,5828.56,54.44
+ORD-10213,2026-02-19,Customer 101,Corporate,Central,Chhattisgarh,Furniture,Chairs,Ergonomic Chair,4,0.15,8965.7,-108.37
+ORD-10214,2024-07-01,Customer 004,Corporate,North,Delhi,Office Supplies,Storage,File Cabinet,4,0.15,8663.03,-471.58
+ORD-10215,2025-06-03,Customer 198,Consumer,East,West Bengal,Office Supplies,Art,Pens,6,0.0,16662.9,3242.29
+ORD-10216,2026-07-23,Customer 102,Home Office,North,Haryana,Technology,Phones,Feature Phone,4,0.0,1180.6,308.76
+ORD-10217,2024-04-18,Customer 138,Home Office,East,Bihar,Furniture,Bookcases,Metal Bookcase,7,0.0,24772.09,3730.51
+ORD-10218,2026-06-10,Customer 101,Home Office,South,Tamil Nadu,Technology,Laptops,Gaming Laptop,9,0.0,41512.77,4695.11
+ORD-10219,2025-10-02,Customer 157,Home Office,North,Punjab,Furniture,Tables,Study Table,1,0.1,1168.15,-44.68
+ORD-10220,2024-11-01,Customer 042,Corporate,North,Punjab,Furniture,Bookcases,Wooden Bookcase,2,0.0,324.12,55.92
+ORD-10221,2026-05-11,Customer 069,Home Office,East,Bihar,Furniture,Bookcases,Metal Bookcase,3,0.2,4613.18,928.19
+ORD-10222,2025-10-16,Customer 161,Consumer,North,Delhi,Office Supplies,Storage,Storage Box,9,0.2,2973.38,805.84
+ORD-10223,2025-06-03,Customer 066,Consumer,West,Gujarat,Furniture,Tables,Study Table,8,0.0,34486.88,1806.0
+ORD-10224,2025-09-15,Customer 121,Corporate,Central,Madhya Pradesh,Technology,Accessories,Mouse,1,0.0,315.79,2.54
+ORD-10225,2024-07-22,Customer 082,Corporate,West,Maharashtra,Technology,Phones,Feature Phone,4,0.1,6036.59,1507.38
+ORD-10226,2024-06-05,Customer 103,Consumer,North,Haryana,Office Supplies,Paper,A4 Paper,3,0.15,3043.71,831.87
+ORD-10227,2025-01-17,Customer 145,Corporate,West,Gujarat,Office Supplies,Storage,File Cabinet,9,0.05,19990.41,-155.09
+ORD-10228,2026-02-19,Customer 063,Consumer,Central,Madhya Pradesh,Office Supplies,Storage,Storage Box,4,0.15,12542.84,2430.47
+ORD-10229,2024-06-14,Customer 097,Home Office,North,Punjab,Technology,Phones,Feature Phone,1,0.0,4759.85,919.67
+ORD-10230,2025-07-06,Customer 037,Home Office,East,West Bengal,Technology,Accessories,Headphones,7,0.0,17576.58,4747.81
+ORD-10231,2026-03-08,Customer 025,Home Office,East,West Bengal,Technology,Phones,Feature Phone,6,0.2,11262.91,-556.78
+ORD-10232,2026-08-02,Customer 067,Corporate,South,Telangana,Office Supplies,Paper,A4 Paper,7,0.0,23421.86,122.68
+ORD-10233,2025-06-27,Customer 035,Home Office,West,Rajasthan,Furniture,Tables,Conference Table,8,0.0,11460.64,2976.1
+ORD-10234,2026-07-29,Customer 198,Consumer,North,Delhi,Technology,Phones,Feature Phone,8,0.0,13110.08,1480.56
+ORD-10235,2024-01-01,Customer 181,Home Office,West,Gujarat,Office Supplies,Storage,File Cabinet,2,0.2,1395.71,41.2
+ORD-10236,2025-09-05,Customer 013,Home Office,Central,Madhya Pradesh,Technology,Laptops,Gaming Laptop,2,0.05,6810.87,426.69
+ORD-10237,2024-11-27,Customer 119,Consumer,East,Odisha,Technology,Phones,Feature Phone,8,0.15,19204.36,191.02
+ORD-10238,2025-05-15,Customer 162,Home Office,South,Karnataka,Technology,Phones,Smartphone,3,0.1,2891.29,156.15
+ORD-10239,2024-01-20,Customer 114,Consumer,North,Haryana,Furniture,Tables,Study Table,1,0.0,4986.09,1221.09
+ORD-10240,2024-04-24,Customer 186,Corporate,North,Punjab,Technology,Phones,Feature Phone,1,0.15,784.68,59.59
+ORD-10241,2026-08-09,Customer 115,Consumer,West,Maharashtra,Office Supplies,Art,Pens,3,0.0,5502.96,104.52
+ORD-10242,2025-01-06,Customer 023,Corporate,North,Haryana,Furniture,Bookcases,Wooden Bookcase,5,0.15,10814.42,999.81
+ORD-10243,2026-06-18,Customer 092,Corporate,West,Maharashtra,Office Supplies,Paper,A4 Paper,9,0.1,32357.48,6519.7
+ORD-10244,2026-05-01,Customer 057,Consumer,Central,Chhattisgarh,Office Supplies,Art,Pens,7,0.0,9975.91,347.12
+ORD-10245,2026-04-06,Customer 169,Consumer,East,West Bengal,Office Supplies,Art,Pens,10,0.0,49980.7,-2196.73
+ORD-10246,2024-11-10,Customer 215,Consumer,East,Bihar,Furniture,Chairs,Office Chair,10,0.1,38230.83,1824.74
+ORD-10247,2024-09-02,Customer 146,Home Office,South,Karnataka,Furniture,Tables,Conference Table,10,0.2,1905.68,88.82
+ORD-10248,2024-02-29,Customer 155,Consumer,South,Telangana,Technology,Laptops,Business Laptop,3,0.0,7509.42,-448.91
+ORD-10249,2024-09-03,Customer 046,Corporate,North,Haryana,Office Supplies,Paper,Notebook,10,0.0,10871.8,463.94
+ORD-10250,2026-06-18,Customer 019,Corporate,North,Delhi,Technology,Accessories,Mouse,3,0.15,9930.72,2282.49
+ORD-10251,2025-08-03,Customer 112,Home Office,West,Rajasthan,Technology,Laptops,Business Laptop,6,0.0,4611.66,846.92
+ORD-10252,2024-03-21,Customer 188,Home Office,West,Rajasthan,Office Supplies,Paper,Notebook,4,0.0,13444.44,755.82
+ORD-10253,2024-03-28,Customer 155,Corporate,East,West Bengal,Technology,Accessories,Headphones,10,0.15,17160.22,-1172.77
+ORD-10254,2026-01-19,Customer 089,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Wooden Bookcase,8,0.2,5050.56,-262.58
+ORD-10255,2025-05-12,Customer 178,Consumer,South,Telangana,Technology,Accessories,Mouse,6,0.05,13044.39,-58.88
+ORD-10256,2026-04-15,Customer 043,Corporate,East,Odisha,Technology,Accessories,Headphones,1,0.2,1592.87,113.21
+ORD-10257,2024-03-11,Customer 176,Consumer,West,Gujarat,Office Supplies,Art,Pens,2,0.15,7073.95,1091.86
+ORD-10258,2026-02-17,Customer 044,Corporate,South,Tamil Nadu,Technology,Phones,Feature Phone,1,0.0,1661.71,-88.55
+ORD-10259,2025-06-29,Customer 181,Consumer,South,Telangana,Technology,Accessories,Headphones,6,0.15,15354.82,3709.13
+ORD-10260,2026-02-23,Customer 049,Corporate,West,Rajasthan,Technology,Accessories,Keyboard,3,0.05,1032.9,-6.2
+ORD-10261,2024-05-08,Customer 216,Corporate,Central,Chhattisgarh,Furniture,Tables,Conference Table,4,0.1,2051.96,258.21
+ORD-10262,2024-05-11,Customer 123,Consumer,South,Karnataka,Office Supplies,Paper,Notebook,2,0.2,2469.26,358.12
+ORD-10263,2025-11-06,Customer 102,Corporate,North,Delhi,Technology,Phones,Feature Phone,2,0.0,4841.0,150.11
+ORD-10264,2025-05-01,Customer 115,Consumer,West,Rajasthan,Office Supplies,Paper,Notebook,3,0.1,5178.6,274.39
+ORD-10265,2025-07-16,Customer 171,Consumer,East,Odisha,Office Supplies,Storage,File Cabinet,5,0.0,14324.05,2733.1
+ORD-10266,2024-06-18,Customer 210,Home Office,North,Haryana,Office Supplies,Art,Pens,10,0.0,12148.1,2705.22
+ORD-10267,2024-09-28,Customer 183,Consumer,West,Rajasthan,Furniture,Tables,Study Table,8,0.1,11263.54,2759.56
+ORD-10268,2025-06-24,Customer 109,Consumer,Central,Madhya Pradesh,Technology,Laptops,Gaming Laptop,3,0.0,14590.83,-504.45
+ORD-10269,2026-06-12,Customer 143,Corporate,West,Maharashtra,Furniture,Chairs,Ergonomic Chair,6,0.0,27377.64,-1332.47
+ORD-10270,2025-09-13,Customer 201,Corporate,Central,Chhattisgarh,Office Supplies,Art,Pens,1,0.15,3360.98,442.06
+ORD-10271,2025-03-09,Customer 138,Corporate,North,Punjab,Technology,Phones,Smartphone,2,0.0,5714.3,1159.25
+ORD-10272,2024-08-04,Customer 104,Consumer,West,Gujarat,Office Supplies,Art,Pens,10,0.0,30839.1,-555.35
+ORD-10273,2026-08-09,Customer 096,Consumer,Central,Chhattisgarh,Technology,Laptops,Business Laptop,4,0.1,1229.51,309.22
+ORD-10274,2025-07-06,Customer 191,Corporate,East,Odisha,Office Supplies,Storage,Storage Box,2,0.0,9730.46,-307.69
+ORD-10275,2026-02-12,Customer 195,Home Office,East,Odisha,Furniture,Tables,Study Table,4,0.1,8151.88,1522.28
+ORD-10276,2026-01-17,Customer 218,Home Office,East,West Bengal,Furniture,Chairs,Office Chair,5,0.1,16096.01,-501.65
+ORD-10277,2025-12-07,Customer 093,Home Office,Central,Madhya Pradesh,Technology,Phones,Smartphone,1,0.1,1190.25,-73.56
+ORD-10278,2024-07-24,Customer 153,Corporate,South,Tamil Nadu,Office Supplies,Storage,Storage Box,2,0.0,6875.5,371.88
+ORD-10279,2025-12-31,Customer 177,Consumer,South,Tamil Nadu,Furniture,Bookcases,Metal Bookcase,6,0.05,5136.95,974.1
+ORD-10280,2024-11-15,Customer 166,Consumer,East,West Bengal,Office Supplies,Paper,A4 Paper,10,0.0,39211.7,8962.23
+ORD-10281,2025-02-12,Customer 154,Consumer,South,Tamil Nadu,Furniture,Tables,Study Table,1,0.0,2423.08,370.86
+ORD-10282,2025-11-18,Customer 056,Corporate,South,Tamil Nadu,Furniture,Tables,Conference Table,7,0.05,29844.34,2543.91
+ORD-10283,2025-10-27,Customer 216,Corporate,East,Bihar,Furniture,Bookcases,Metal Bookcase,10,0.15,5111.31,1430.12
+ORD-10284,2025-01-17,Customer 071,Corporate,Central,Chhattisgarh,Office Supplies,Art,Markers,8,0.05,3137.28,472.52
+ORD-10285,2025-03-24,Customer 082,Home Office,East,West Bengal,Technology,Accessories,Headphones,1,0.15,3439.62,225.21
+ORD-10286,2026-07-10,Customer 189,Consumer,South,Telangana,Technology,Accessories,Keyboard,5,0.1,6170.36,405.12
+ORD-10287,2025-06-13,Customer 172,Corporate,Central,Madhya Pradesh,Office Supplies,Art,Markers,9,0.1,26144.69,6440.73
+ORD-10288,2025-04-07,Customer 067,Home Office,Central,Chhattisgarh,Technology,Accessories,Mouse,3,0.1,4156.76,-141.08
+ORD-10289,2024-05-03,Customer 108,Corporate,Central,Madhya Pradesh,Furniture,Tables,Study Table,4,0.2,5890.85,1376.78
+ORD-10290,2024-09-10,Customer 159,Consumer,East,Odisha,Furniture,Tables,Conference Table,2,0.2,3849.01,500.71
+ORD-10291,2024-08-18,Customer 039,Consumer,West,Maharashtra,Furniture,Chairs,Ergonomic Chair,9,0.0,14057.46,3282.5
+ORD-10292,2024-03-06,Customer 021,Corporate,South,Tamil Nadu,Office Supplies,Art,Pens,3,0.2,3960.67,-59.69
+ORD-10293,2024-12-12,Customer 044,Home Office,East,Bihar,Technology,Laptops,Gaming Laptop,1,0.0,2315.06,449.19
+ORD-10294,2024-01-22,Customer 010,Home Office,South,Tamil Nadu,Technology,Phones,Feature Phone,7,0.1,13082.77,758.72
+ORD-10295,2025-08-25,Customer 188,Consumer,South,Telangana,Office Supplies,Paper,Notebook,9,0.2,7443.58,-584.44
+ORD-10296,2025-07-21,Customer 017,Consumer,South,Telangana,Office Supplies,Storage,File Cabinet,2,0.15,3364.98,101.63
+ORD-10297,2024-08-23,Customer 126,Corporate,East,Odisha,Office Supplies,Art,Pens,7,0.0,31157.49,1351.73
+ORD-10298,2025-08-25,Customer 006,Home Office,South,Karnataka,Office Supplies,Paper,A4 Paper,4,0.0,14652.52,-58.19
+ORD-10299,2024-08-13,Customer 160,Consumer,Central,Madhya Pradesh,Technology,Laptops,Gaming Laptop,7,0.05,29227.22,5776.76
+ORD-10300,2024-01-08,Customer 032,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,1,0.1,3131.79,250.4
+ORD-10301,2024-03-13,Customer 134,Corporate,East,Odisha,Furniture,Chairs,Office Chair,1,0.2,1260.38,-55.01
+ORD-10302,2025-12-25,Customer 156,Consumer,Central,Madhya Pradesh,Office Supplies,Paper,A4 Paper,5,0.0,3293.3,326.65
+ORD-10303,2025-10-08,Customer 054,Home Office,East,Bihar,Technology,Laptops,Business Laptop,5,0.15,3764.78,371.54
+ORD-10304,2024-03-01,Customer 039,Consumer,West,Gujarat,Technology,Phones,Smartphone,2,0.15,7724.31,1242.44
+ORD-10305,2024-08-22,Customer 076,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Wooden Bookcase,5,0.1,14657.62,4044.33
+ORD-10306,2024-03-10,Customer 190,Consumer,West,Maharashtra,Technology,Phones,Smartphone,5,0.2,7460.2,243.01
+ORD-10307,2026-07-16,Customer 069,Home Office,North,Delhi,Technology,Phones,Smartphone,6,0.1,10000.15,2638.36
+ORD-10308,2024-02-02,Customer 099,Home Office,North,Punjab,Office Supplies,Paper,A4 Paper,7,0.1,12985.75,231.92
+ORD-10309,2026-05-30,Customer 217,Consumer,West,Gujarat,Furniture,Chairs,Office Chair,3,0.0,10533.69,2879.54
+ORD-10310,2024-12-04,Customer 176,Home Office,North,Punjab,Furniture,Tables,Conference Table,3,0.05,8822.12,1235.88
+ORD-10311,2024-03-13,Customer 004,Home Office,South,Tamil Nadu,Office Supplies,Paper,Notebook,8,0.05,2471.98,385.11
+ORD-10312,2025-06-10,Customer 170,Home Office,Central,Madhya Pradesh,Furniture,Tables,Study Table,7,0.0,23396.73,2187.47
+ORD-10313,2024-08-31,Customer 121,Corporate,West,Maharashtra,Furniture,Bookcases,Wooden Bookcase,1,0.0,3252.65,331.78
+ORD-10314,2024-10-12,Customer 141,Home Office,South,Karnataka,Office Supplies,Storage,File Cabinet,6,0.0,29122.26,2984.87
+ORD-10315,2025-11-16,Customer 128,Corporate,West,Gujarat,Technology,Phones,Feature Phone,8,0.1,28988.5,-1400.52
+ORD-10316,2025-05-12,Customer 001,Consumer,East,West Bengal,Office Supplies,Art,Markers,2,0.0,4153.7,500.8
+ORD-10317,2024-08-07,Customer 210,Consumer,Central,Chhattisgarh,Furniture,Bookcases,Wooden Bookcase,8,0.05,36151.22,7848.86
+ORD-10318,2025-07-06,Customer 169,Consumer,West,Gujarat,Furniture,Bookcases,Metal Bookcase,6,0.0,21647.88,-972.48
+ORD-10319,2024-05-15,Customer 043,Corporate,North,Punjab,Office Supplies,Art,Pens,9,0.2,19135.66,-798.42
+ORD-10320,2026-01-10,Customer 219,Corporate,South,Telangana,Furniture,Bookcases,Metal Bookcase,2,0.0,2692.04,-33.61
+ORD-10321,2026-08-15,Customer 215,Home Office,South,Tamil Nadu,Technology,Accessories,Keyboard,2,0.0,7620.06,1932.34
+ORD-10322,2026-06-22,Customer 111,Home Office,Central,Madhya Pradesh,Office Supplies,Storage,File Cabinet,8,0.2,776.0,-48.51
+ORD-10323,2025-08-07,Customer 169,Home Office,West,Rajasthan,Technology,Accessories,Mouse,3,0.0,11038.26,-471.56
+ORD-10324,2025-08-13,Customer 088,Corporate,Central,Chhattisgarh,Furniture,Tables,Conference Table,10,0.0,45879.6,848.52
+ORD-10325,2025-04-29,Customer 142,Home Office,West,Maharashtra,Technology,Laptops,Business Laptop,9,0.2,31085.78,5758.79
+ORD-10326,2024-09-05,Customer 182,Home Office,South,Karnataka,Technology,Accessories,Mouse,5,0.2,13857.6,-446.74
+ORD-10327,2026-03-14,Customer 147,Home Office,South,Telangana,Furniture,Bookcases,Metal Bookcase,2,0.15,6507.26,604.74
+ORD-10328,2025-04-29,Customer 098,Consumer,West,Rajasthan,Furniture,Bookcases,Metal Bookcase,7,0.15,24161.11,-1006.81
+ORD-10329,2026-04-06,Customer 215,Consumer,North,Haryana,Technology,Phones,Feature Phone,3,0.2,11806.34,120.45
+ORD-10330,2025-02-20,Customer 058,Home Office,East,West Bengal,Furniture,Chairs,Ergonomic Chair,8,0.2,3853.76,717.64
+ORD-10331,2024-07-13,Customer 100,Corporate,Central,Chhattisgarh,Technology,Accessories,Mouse,5,0.0,17476.95,4431.01
+ORD-10332,2024-04-06,Customer 163,Home Office,East,Bihar,Technology,Phones,Feature Phone,4,0.1,11306.7,2473.84
+ORD-10333,2024-04-09,Customer 020,Consumer,East,Bihar,Furniture,Bookcases,Wooden Bookcase,4,0.0,6165.88,1689.72
+ORD-10334,2025-11-05,Customer 042,Home Office,South,Telangana,Furniture,Chairs,Ergonomic Chair,1,0.15,1869.74,28.28
+ORD-10335,2025-03-17,Customer 199,Home Office,East,West Bengal,Office Supplies,Storage,File Cabinet,1,0.05,810.49,109.32
+ORD-10336,2024-12-28,Customer 048,Home Office,Central,Chhattisgarh,Office Supplies,Art,Pens,2,0.05,7489.32,817.4
+ORD-10337,2025-03-09,Customer 085,Corporate,North,Haryana,Technology,Laptops,Business Laptop,2,0.0,3624.14,575.51
+ORD-10338,2025-02-24,Customer 172,Corporate,East,West Bengal,Furniture,Bookcases,Metal Bookcase,9,0.2,29779.7,-2287.99
+ORD-10339,2025-04-23,Customer 204,Consumer,West,Maharashtra,Furniture,Bookcases,Wooden Bookcase,1,0.05,3272.27,187.48
+ORD-10340,2026-06-03,Customer 131,Corporate,West,Gujarat,Furniture,Bookcases,Metal Bookcase,1,0.05,4337.27,456.07
+ORD-10341,2026-01-16,Customer 198,Home Office,West,Maharashtra,Office Supplies,Art,Markers,6,0.0,15708.48,-310.05
+ORD-10342,2024-02-25,Customer 053,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,4,0.1,15617.74,3449.01
+ORD-10343,2025-11-20,Customer 023,Consumer,West,Rajasthan,Technology,Accessories,Mouse,3,0.2,519.34,20.47
+ORD-10344,2025-10-31,Customer 116,Home Office,North,Delhi,Office Supplies,Art,Markers,10,0.05,39196.33,2616.27
+ORD-10345,2025-10-23,Customer 017,Home Office,West,Gujarat,Office Supplies,Paper,Notebook,2,0.2,4353.1,780.52
+ORD-10346,2024-04-10,Customer 023,Corporate,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,9,0.2,4464.43,127.17
+ORD-10347,2024-03-03,Customer 101,Home Office,West,Gujarat,Office Supplies,Art,Markers,8,0.0,6927.92,-214.09
+ORD-10348,2025-02-16,Customer 011,Consumer,East,Bihar,Technology,Laptops,Business Laptop,1,0.15,2390.43,-69.57
+ORD-10349,2026-01-15,Customer 089,Consumer,Central,Chhattisgarh,Furniture,Bookcases,Wooden Bookcase,5,0.2,4517.04,1107.92
+ORD-10350,2024-12-13,Customer 047,Home Office,West,Rajasthan,Furniture,Chairs,Office Chair,3,0.05,3368.3,-33.83
+ORD-10351,2026-03-30,Customer 186,Home Office,Central,Madhya Pradesh,Furniture,Tables,Study Table,5,0.05,16108.49,-719.2
+ORD-10352,2026-06-01,Customer 082,Corporate,West,Gujarat,Office Supplies,Paper,A4 Paper,2,0.0,2994.34,730.75
+ORD-10353,2024-04-21,Customer 081,Corporate,West,Gujarat,Furniture,Bookcases,Metal Bookcase,10,0.15,7197.29,368.63
+ORD-10354,2024-09-11,Customer 188,Corporate,South,Karnataka,Office Supplies,Paper,A4 Paper,7,0.05,9680.6,-306.39
+ORD-10355,2024-07-15,Customer 021,Corporate,West,Gujarat,Office Supplies,Storage,Storage Box,8,0.0,22425.52,3417.62
+ORD-10356,2024-07-13,Customer 209,Home Office,South,Telangana,Technology,Laptops,Gaming Laptop,2,0.15,7601.24,1120.31
+ORD-10357,2025-07-03,Customer 199,Consumer,Central,Chhattisgarh,Furniture,Chairs,Office Chair,9,0.15,10534.2,947.63
+ORD-10358,2025-04-04,Customer 102,Corporate,East,Odisha,Technology,Accessories,Mouse,5,0.15,3213.09,333.35
+ORD-10359,2024-05-23,Customer 145,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,9,0.0,7090.38,-109.96
+ORD-10360,2025-03-08,Customer 068,Corporate,South,Telangana,Furniture,Tables,Conference Table,1,0.1,1054.99,3.62
+ORD-10361,2024-07-06,Customer 011,Home Office,South,Karnataka,Furniture,Chairs,Ergonomic Chair,7,0.1,15128.82,3590.96
+ORD-10362,2024-10-12,Customer 168,Corporate,East,West Bengal,Furniture,Bookcases,Metal Bookcase,5,0.15,12474.98,-217.24
+ORD-10363,2025-04-18,Customer 091,Corporate,East,Bihar,Furniture,Chairs,Ergonomic Chair,7,0.0,34062.7,3607.03
+ORD-10364,2024-09-12,Customer 072,Consumer,West,Gujarat,Furniture,Chairs,Office Chair,8,0.0,7291.76,767.35
+ORD-10365,2026-06-14,Customer 124,Home Office,South,Karnataka,Technology,Laptops,Gaming Laptop,4,0.05,8100.12,1452.29
+ORD-10366,2026-08-03,Customer 152,Consumer,West,Gujarat,Technology,Accessories,Headphones,7,0.0,1469.93,-49.92
+ORD-10367,2024-03-18,Customer 104,Home Office,South,Telangana,Furniture,Chairs,Office Chair,1,0.0,915.07,96.99
+ORD-10368,2025-03-29,Customer 124,Consumer,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,2,0.15,1974.23,547.65
+ORD-10369,2026-04-07,Customer 176,Corporate,South,Tamil Nadu,Furniture,Chairs,Office Chair,10,0.05,31656.66,-621.11
+ORD-10370,2026-06-01,Customer 134,Home Office,West,Rajasthan,Furniture,Chairs,Office Chair,7,0.0,13921.32,-1030.7
+ORD-10371,2026-05-26,Customer 201,Home Office,West,Maharashtra,Furniture,Chairs,Office Chair,8,0.15,30721.58,-2025.99
+ORD-10372,2025-07-17,Customer 199,Home Office,Central,Madhya Pradesh,Technology,Laptops,Gaming Laptop,10,0.0,27425.0,6661.77
+ORD-10373,2024-04-10,Customer 098,Corporate,West,Rajasthan,Office Supplies,Storage,File Cabinet,9,0.1,17835.31,3642.68
+ORD-10374,2024-02-21,Customer 140,Corporate,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,8,0.0,30821.68,677.34
+ORD-10375,2025-10-29,Customer 097,Home Office,East,West Bengal,Technology,Accessories,Mouse,1,0.0,2932.14,314.07
+ORD-10376,2025-07-07,Customer 067,Home Office,South,Telangana,Office Supplies,Storage,Storage Box,2,0.2,1373.47,179.56
+ORD-10377,2026-05-06,Customer 143,Corporate,West,Rajasthan,Office Supplies,Art,Pens,7,0.1,23935.97,2842.58
+ORD-10378,2024-01-16,Customer 181,Corporate,South,Tamil Nadu,Furniture,Bookcases,Metal Bookcase,5,0.15,21010.68,923.8
+ORD-10379,2024-04-05,Customer 131,Corporate,South,Telangana,Technology,Accessories,Headphones,8,0.0,31497.92,-1382.75
+ORD-10380,2026-08-06,Customer 024,Consumer,East,Bihar,Furniture,Bookcases,Wooden Bookcase,3,0.2,4815.86,-376.1
+ORD-10381,2026-02-10,Customer 186,Corporate,West,Rajasthan,Office Supplies,Paper,A4 Paper,5,0.0,5933.35,826.22
+ORD-10382,2026-05-19,Customer 113,Consumer,West,Rajasthan,Furniture,Bookcases,Metal Bookcase,10,0.0,3815.7,574.28
+ORD-10383,2024-08-30,Customer 060,Home Office,South,Telangana,Furniture,Tables,Study Table,1,0.15,3350.19,354.09
+ORD-10384,2024-06-19,Customer 200,Corporate,South,Telangana,Technology,Laptops,Gaming Laptop,1,0.0,4880.66,1360.99
+ORD-10385,2025-02-20,Customer 024,Home Office,East,Bihar,Office Supplies,Storage,File Cabinet,9,0.2,1262.16,-69.79
+ORD-10386,2025-05-12,Customer 050,Corporate,East,Bihar,Furniture,Bookcases,Metal Bookcase,6,0.05,27474.63,40.29
+ORD-10387,2025-05-07,Customer 076,Corporate,West,Rajasthan,Technology,Laptops,Gaming Laptop,7,0.15,15354.39,-828.23
+ORD-10388,2024-08-06,Customer 063,Corporate,North,Haryana,Office Supplies,Art,Pens,8,0.15,32868.96,3093.19
+ORD-10389,2026-06-04,Customer 202,Consumer,West,Rajasthan,Office Supplies,Art,Markers,8,0.0,5357.68,309.47
+ORD-10390,2025-02-14,Customer 192,Corporate,South,Tamil Nadu,Office Supplies,Storage,File Cabinet,5,0.0,6582.3,418.73
+ORD-10391,2026-07-13,Customer 192,Home Office,North,Haryana,Technology,Laptops,Business Laptop,6,0.15,5971.95,100.73
+ORD-10392,2024-03-01,Customer 214,Consumer,South,Tamil Nadu,Furniture,Chairs,Office Chair,4,0.0,17505.76,44.02
+ORD-10393,2024-06-17,Customer 002,Home Office,Central,Chhattisgarh,Technology,Phones,Smartphone,2,0.2,5458.37,531.42
+ORD-10394,2025-01-23,Customer 126,Consumer,North,Punjab,Office Supplies,Art,Pens,8,0.15,30605.37,7123.61
+ORD-10395,2024-01-03,Customer 139,Consumer,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper,1,0.1,2408.49,222.05
+ORD-10396,2025-02-03,Customer 081,Home Office,Central,Chhattisgarh,Office Supplies,Art,Markers,8,0.2,31263.3,3331.22
+ORD-10397,2024-09-28,Customer 067,Consumer,North,Delhi,Furniture,Chairs,Ergonomic Chair,10,0.05,5639.77,792.95
+ORD-10398,2026-08-06,Customer 054,Corporate,Central,Chhattisgarh,Technology,Laptops,Business Laptop,10,0.0,17811.7,1773.28
+ORD-10399,2026-03-13,Customer 209,Consumer,East,Odisha,Office Supplies,Storage,Storage Box,3,0.15,7394.77,1234.66
+ORD-10400,2026-03-14,Customer 207,Consumer,East,West Bengal,Furniture,Tables,Conference Table,4,0.2,2606.82,-68.2
+ORD-10401,2025-04-10,Customer 013,Corporate,South,Tamil Nadu,Office Supplies,Paper,Notebook,8,0.15,10677.16,2445.72
+ORD-10402,2024-10-19,Customer 191,Corporate,North,Haryana,Technology,Phones,Smartphone,5,0.2,9740.16,-441.53
+ORD-10403,2025-03-09,Customer 174,Home Office,East,Odisha,Office Supplies,Art,Pens,6,0.0,1183.14,54.89
+ORD-10404,2025-12-14,Customer 199,Home Office,South,Telangana,Furniture,Bookcases,Wooden Bookcase,5,0.2,7360.12,763.69
+ORD-10405,2026-01-18,Customer 164,Corporate,West,Maharashtra,Office Supplies,Art,Pens,8,0.0,25563.12,5945.29
+ORD-10406,2026-03-13,Customer 082,Home Office,West,Rajasthan,Furniture,Bookcases,Metal Bookcase,2,0.05,926.53,2.0
+ORD-10407,2025-07-23,Customer 134,Corporate,East,Bihar,Office Supplies,Art,Pens,5,0.05,21136.03,3999.83
+ORD-10408,2025-11-08,Customer 021,Consumer,West,Maharashtra,Technology,Phones,Smartphone,4,0.2,10700.51,1843.17
+ORD-10409,2026-01-05,Customer 135,Consumer,South,Tamil Nadu,Technology,Phones,Smartphone,8,0.0,22298.64,4404.79
+ORD-10410,2025-05-13,Customer 114,Home Office,North,Punjab,Furniture,Chairs,Office Chair,7,0.0,11311.44,2098.65
+ORD-10411,2024-06-07,Customer 120,Home Office,South,Karnataka,Furniture,Chairs,Office Chair,1,0.05,3183.82,735.87
+ORD-10412,2024-07-13,Customer 145,Corporate,East,Bihar,Office Supplies,Paper,A4 Paper,10,0.2,24225.28,4593.31
+ORD-10413,2024-10-30,Customer 040,Corporate,Central,Chhattisgarh,Office Supplies,Storage,File Cabinet,2,0.05,4303.73,294.35
+ORD-10414,2024-08-10,Customer 126,Corporate,North,Delhi,Furniture,Chairs,Ergonomic Chair,5,0.0,11995.35,2010.39
+ORD-10415,2024-02-29,Customer 144,Corporate,East,West Bengal,Office Supplies,Storage,File Cabinet,1,0.0,2786.24,190.09
+ORD-10416,2025-08-16,Customer 109,Home Office,West,Maharashtra,Technology,Accessories,Mouse,7,0.0,29115.03,427.2
+ORD-10417,2026-01-23,Customer 106,Consumer,South,Telangana,Furniture,Bookcases,Metal Bookcase,5,0.15,13929.12,2941.43
+ORD-10418,2025-07-09,Customer 126,Consumer,North,Delhi,Technology,Laptops,Gaming Laptop,8,0.05,23764.21,4091.49
+ORD-10419,2024-03-03,Customer 184,Corporate,East,West Bengal,Technology,Phones,Smartphone,3,0.05,13863.63,234.44
+ORD-10420,2026-02-04,Customer 205,Corporate,North,Delhi,Technology,Phones,Smartphone,8,0.1,8382.38,269.64
+ORD-10421,2024-11-17,Customer 199,Corporate,East,Odisha,Furniture,Chairs,Ergonomic Chair,2,0.0,8466.76,-506.53
+ORD-10422,2024-02-28,Customer 197,Home Office,North,Haryana,Office Supplies,Paper,A4 Paper,5,0.0,20522.65,-740.74
+ORD-10423,2024-02-21,Customer 054,Corporate,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,4,0.0,9432.36,1015.02
+ORD-10424,2025-08-21,Customer 065,Corporate,West,Rajasthan,Office Supplies,Storage,File Cabinet,1,0.15,3186.78,342.69
+ORD-10425,2025-05-03,Customer 043,Corporate,East,West Bengal,Office Supplies,Paper,A4 Paper,2,0.1,2261.21,83.27
+ORD-10426,2025-05-29,Customer 153,Consumer,Central,Madhya Pradesh,Office Supplies,Paper,A4 Paper,1,0.2,2357.82,214.79
+ORD-10427,2026-07-30,Customer 195,Home Office,East,West Bengal,Technology,Phones,Feature Phone,2,0.05,6576.15,1677.61
+ORD-10428,2026-05-23,Customer 082,Home Office,North,Delhi,Office Supplies,Art,Markers,9,0.0,35803.62,3423.67
+ORD-10429,2025-06-27,Customer 011,Corporate,East,Odisha,Furniture,Chairs,Office Chair,7,0.0,12985.14,133.11
+ORD-10430,2024-06-10,Customer 188,Corporate,West,Rajasthan,Office Supplies,Art,Pens,4,0.15,9781.26,441.71
+ORD-10431,2024-02-28,Customer 139,Corporate,East,Bihar,Furniture,Chairs,Office Chair,9,0.05,7349.75,1580.13
+ORD-10432,2025-06-04,Customer 199,Home Office,West,Maharashtra,Furniture,Bookcases,Metal Bookcase,3,0.15,11287.24,2578.67
+ORD-10433,2024-03-23,Customer 040,Home Office,South,Tamil Nadu,Furniture,Chairs,Ergonomic Chair,4,0.1,9604.58,1879.27
+ORD-10434,2026-05-21,Customer 214,Consumer,East,Odisha,Office Supplies,Art,Pens,2,0.2,914.66,-51.22
+ORD-10435,2024-07-09,Customer 100,Home Office,South,Karnataka,Technology,Phones,Feature Phone,4,0.15,1985.23,299.83
+ORD-10436,2024-03-11,Customer 004,Consumer,West,Rajasthan,Furniture,Bookcases,Metal Bookcase,1,0.15,1610.86,287.42
+ORD-10437,2025-09-01,Customer 204,Home Office,West,Maharashtra,Office Supplies,Art,Markers,6,0.1,15305.22,3304.85
+ORD-10438,2024-03-10,Customer 133,Consumer,North,Haryana,Office Supplies,Art,Markers,2,0.0,8377.68,2178.68
+ORD-10439,2025-11-22,Customer 161,Consumer,North,Haryana,Technology,Accessories,Keyboard,4,0.2,3348.13,31.99
+ORD-10440,2026-06-01,Customer 043,Consumer,Central,Chhattisgarh,Furniture,Chairs,Ergonomic Chair,8,0.1,25506.0,6065.75
+ORD-10441,2024-08-28,Customer 081,Home Office,Central,Chhattisgarh,Furniture,Tables,Study Table,9,0.1,40437.79,10354.79
+ORD-10442,2025-02-17,Customer 097,Home Office,East,Odisha,Office Supplies,Art,Pens,6,0.15,15714.27,1829.54
+ORD-10443,2024-05-02,Customer 133,Consumer,East,Odisha,Office Supplies,Storage,Storage Box,1,0.05,3475.99,467.43
+ORD-10444,2026-06-30,Customer 142,Home Office,East,West Bengal,Office Supplies,Paper,A4 Paper,6,0.2,990.43,213.97
+ORD-10445,2025-08-06,Customer 150,Consumer,Central,Madhya Pradesh,Technology,Phones,Feature Phone,6,0.05,4930.04,257.1
+ORD-10446,2024-09-09,Customer 084,Corporate,South,Tamil Nadu,Office Supplies,Paper,Notebook,10,0.2,36780.96,-1920.24
+ORD-10447,2025-08-15,Customer 148,Corporate,South,Tamil Nadu,Furniture,Bookcases,Wooden Bookcase,10,0.0,32470.5,5944.83
+ORD-10448,2025-08-31,Customer 059,Home Office,North,Delhi,Office Supplies,Storage,Storage Box,7,0.0,32607.47,7601.56
+ORD-10449,2024-02-10,Customer 145,Consumer,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,1,0.0,1593.44,55.7
+ORD-10450,2025-09-26,Customer 193,Home Office,East,Bihar,Furniture,Chairs,Office Chair,1,0.1,3060.73,825.09
+ORD-10451,2024-03-24,Customer 147,Home Office,Central,Madhya Pradesh,Technology,Laptops,Business Laptop,7,0.05,5487.98,-275.96
+ORD-10452,2025-03-05,Customer 035,Corporate,North,Haryana,Office Supplies,Storage,File Cabinet,7,0.2,14330.01,-473.82
+ORD-10453,2025-11-04,Customer 063,Consumer,Central,Madhya Pradesh,Office Supplies,Storage,File Cabinet,9,0.2,22452.34,2441.23
+ORD-10454,2025-08-20,Customer 049,Corporate,East,Odisha,Office Supplies,Art,Markers,2,0.1,6104.81,314.38
+ORD-10455,2025-08-01,Customer 206,Corporate,East,Bihar,Furniture,Chairs,Ergonomic Chair,3,0.15,12595.7,2717.78
+ORD-10456,2025-06-19,Customer 219,Consumer,Central,Madhya Pradesh,Office Supplies,Paper,A4 Paper,4,0.0,13833.04,2666.79
+ORD-10457,2024-11-19,Customer 079,Corporate,North,Haryana,Technology,Phones,Smartphone,5,0.2,669.16,140.22
+ORD-10458,2026-08-15,Customer 160,Home Office,West,Maharashtra,Office Supplies,Paper,A4 Paper,4,0.05,10554.42,1240.86
+ORD-10459,2024-09-24,Customer 066,Consumer,South,Telangana,Furniture,Bookcases,Wooden Bookcase,7,0.2,16557.63,1815.51
+ORD-10460,2024-07-28,Customer 018,Corporate,North,Punjab,Technology,Accessories,Mouse,5,0.2,1440.48,374.9
+ORD-10461,2025-11-16,Customer 098,Home Office,East,Bihar,Furniture,Tables,Study Table,1,0.2,1226.58,72.55
+ORD-10462,2026-01-03,Customer 183,Consumer,North,Punjab,Office Supplies,Art,Markers,3,0.1,2901.12,353.49
+ORD-10463,2024-11-17,Customer 176,Corporate,North,Delhi,Furniture,Tables,Conference Table,8,0.0,16221.28,-1190.41
+ORD-10464,2024-09-01,Customer 209,Consumer,East,Bihar,Office Supplies,Paper,Notebook,1,0.1,2849.74,685.49
+ORD-10465,2024-09-28,Customer 134,Home Office,Central,Chhattisgarh,Technology,Phones,Feature Phone,7,0.0,23232.79,4246.03
+ORD-10466,2025-02-09,Customer 139,Consumer,Central,Madhya Pradesh,Office Supplies,Paper,A4 Paper,7,0.15,28891.0,1113.53
+ORD-10467,2024-05-14,Customer 135,Consumer,South,Telangana,Technology,Accessories,Mouse,4,0.05,16441.38,2760.04
+ORD-10468,2025-11-18,Customer 031,Consumer,West,Maharashtra,Furniture,Bookcases,Wooden Bookcase,6,0.15,2204.68,576.52
+ORD-10469,2025-10-22,Customer 211,Home Office,East,West Bengal,Furniture,Chairs,Ergonomic Chair,7,0.05,31985.57,2542.26
+ORD-10470,2024-11-03,Customer 156,Home Office,East,West Bengal,Technology,Phones,Smartphone,3,0.15,582.34,82.75
+ORD-10471,2025-04-13,Customer 035,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,1,0.2,1488.3,298.76
+ORD-10472,2024-11-19,Customer 042,Consumer,Central,Chhattisgarh,Furniture,Bookcases,Metal Bookcase,3,0.1,11543.66,1045.68
+ORD-10473,2026-08-09,Customer 194,Consumer,South,Karnataka,Office Supplies,Paper,Notebook,7,0.2,6666.91,1838.52
+ORD-10474,2026-02-08,Customer 199,Consumer,North,Delhi,Office Supplies,Art,Pens,6,0.0,26083.2,1928.07
+ORD-10475,2024-03-15,Customer 135,Home Office,Central,Chhattisgarh,Furniture,Tables,Conference Table,10,0.15,39965.13,5346.14
+ORD-10476,2024-01-10,Customer 102,Home Office,North,Haryana,Technology,Laptops,Business Laptop,1,0.0,4401.12,469.74
+ORD-10477,2025-04-14,Customer 199,Corporate,North,Haryana,Office Supplies,Art,Markers,4,0.1,5496.41,1310.25
+ORD-10478,2025-09-28,Customer 116,Consumer,West,Maharashtra,Office Supplies,Storage,File Cabinet,9,0.1,36676.88,8023.5
+ORD-10479,2025-07-30,Customer 007,Consumer,Central,Madhya Pradesh,Technology,Accessories,Mouse,9,0.1,6180.3,225.25
+ORD-10480,2024-04-12,Customer 183,Consumer,West,Rajasthan,Furniture,Chairs,Ergonomic Chair,2,0.2,2120.64,325.49
+ORD-10481,2024-03-16,Customer 203,Home Office,North,Delhi,Technology,Accessories,Keyboard,6,0.2,2486.4,144.89
+ORD-10482,2025-07-04,Customer 169,Consumer,Central,Madhya Pradesh,Office Supplies,Art,Pens,1,0.05,3671.26,453.68
+ORD-10483,2024-08-06,Customer 115,Corporate,South,Karnataka,Technology,Accessories,Headphones,7,0.2,9013.2,1772.96
+ORD-10484,2025-06-02,Customer 219,Corporate,South,Karnataka,Technology,Phones,Smartphone,10,0.0,38504.4,3277.16
+ORD-10485,2024-09-28,Customer 114,Consumer,Central,Madhya Pradesh,Furniture,Tables,Study Table,4,0.1,10747.55,895.76
+ORD-10486,2024-05-15,Customer 038,Consumer,Central,Madhya Pradesh,Technology,Accessories,Keyboard,10,0.0,31803.1,-1984.17
+ORD-10487,2026-08-13,Customer 046,Consumer,East,West Bengal,Technology,Phones,Feature Phone,6,0.0,27659.34,-1128.51
+ORD-10488,2024-12-23,Customer 024,Corporate,East,Bihar,Furniture,Bookcases,Wooden Bookcase,8,0.05,28665.22,7319.17
+ORD-10489,2026-06-21,Customer 178,Corporate,East,Odisha,Office Supplies,Paper,Notebook,9,0.1,3386.93,-106.9
+ORD-10490,2024-03-11,Customer 162,Home Office,East,Bihar,Office Supplies,Art,Markers,4,0.0,12396.24,1558.11
+ORD-10491,2026-06-19,Customer 148,Home Office,North,Punjab,Furniture,Bookcases,Metal Bookcase,7,0.05,20504.21,276.35
+ORD-10492,2024-09-07,Customer 047,Home Office,East,West Bengal,Furniture,Bookcases,Metal Bookcase,9,0.1,29751.38,2894.86
+ORD-10493,2025-01-13,Customer 189,Consumer,South,Telangana,Office Supplies,Paper,A4 Paper,2,0.2,348.06,71.99
+ORD-10494,2024-10-18,Customer 164,Consumer,Central,Chhattisgarh,Office Supplies,Paper,Notebook,6,0.2,13660.99,-48.61
+ORD-10495,2024-06-10,Customer 086,Corporate,East,Odisha,Technology,Laptops,Business Laptop,9,0.0,25154.73,-981.51
+ORD-10496,2025-03-24,Customer 123,Corporate,West,Rajasthan,Furniture,Bookcases,Wooden Bookcase,3,0.05,2994.44,754.66
+ORD-10497,2026-05-03,Customer 119,Corporate,North,Haryana,Technology,Laptops,Gaming Laptop,8,0.15,30403.41,7373.87
+ORD-10498,2025-07-10,Customer 085,Corporate,North,Haryana,Office Supplies,Art,Pens,9,0.0,24532.56,3136.81
+ORD-10499,2025-12-21,Customer 100,Consumer,North,Delhi,Office Supplies,Paper,Notebook,7,0.0,22189.3,2785.94
+ORD-10500,2024-11-05,Customer 061,Corporate,Central,Madhya Pradesh,Office Supplies,Art,Pens,1,0.0,1430.34,141.52
+ORD-10501,2025-09-18,Customer 024,Corporate,West,Gujarat,Technology,Accessories,Keyboard,3,0.0,1949.79,389.97
+ORD-10502,2026-04-06,Customer 135,Corporate,Central,Madhya Pradesh,Office Supplies,Art,Markers,4,0.1,6359.65,1168.13
+ORD-10503,2025-10-31,Customer 183,Home Office,East,West Bengal,Technology,Accessories,Mouse,3,0.0,3316.26,283.12
+ORD-10504,2025-06-25,Customer 197,Home Office,North,Delhi,Office Supplies,Paper,A4 Paper,6,0.0,14326.14,-614.35
+ORD-10505,2024-01-09,Customer 082,Corporate,East,West Bengal,Furniture,Tables,Study Table,6,0.05,6171.5,120.92
+ORD-10506,2025-11-14,Customer 027,Consumer,North,Punjab,Technology,Phones,Feature Phone,2,0.15,297.09,36.09
+ORD-10507,2026-04-16,Customer 044,Consumer,Central,Chhattisgarh,Furniture,Tables,Conference Table,3,0.05,13457.87,1704.71
+ORD-10508,2025-07-21,Customer 013,Consumer,East,Bihar,Office Supplies,Art,Pens,1,0.1,663.62,162.71
+ORD-10509,2024-11-02,Customer 177,Home Office,West,Maharashtra,Technology,Laptops,Business Laptop,3,0.15,9059.95,1328.27
+ORD-10510,2026-08-12,Customer 021,Corporate,West,Rajasthan,Office Supplies,Storage,Storage Box,4,0.2,11498.24,2430.13
+ORD-10511,2025-11-10,Customer 197,Corporate,Central,Madhya Pradesh,Technology,Accessories,Keyboard,2,0.2,3731.78,567.2
+ORD-10512,2024-04-16,Customer 085,Corporate,West,Maharashtra,Technology,Phones,Feature Phone,6,0.2,9701.66,2427.5
+ORD-10513,2026-06-18,Customer 073,Corporate,West,Gujarat,Technology,Phones,Feature Phone,2,0.1,3279.71,736.22
+ORD-10514,2024-05-17,Customer 078,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,2,0.2,2714.82,-147.87
+ORD-10515,2024-09-27,Customer 099,Consumer,West,Gujarat,Furniture,Tables,Study Table,10,0.0,12940.9,3501.82
+ORD-10516,2024-04-28,Customer 061,Consumer,East,West Bengal,Furniture,Bookcases,Metal Bookcase,7,0.05,19147.54,2221.68
+ORD-10517,2026-06-30,Customer 025,Corporate,North,Haryana,Furniture,Bookcases,Metal Bookcase,2,0.1,5402.88,200.64
+ORD-10518,2024-04-19,Customer 166,Home Office,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,10,0.1,34916.22,1322.17
+ORD-10519,2026-01-30,Customer 100,Home Office,North,Delhi,Technology,Phones,Smartphone,3,0.1,9013.46,1002.77
+ORD-10520,2025-07-20,Customer 112,Home Office,Central,Chhattisgarh,Technology,Phones,Feature Phone,5,0.2,11577.4,343.13
+ORD-10521,2024-06-08,Customer 141,Consumer,East,West Bengal,Furniture,Chairs,Ergonomic Chair,3,0.0,12831.84,679.06
+ORD-10522,2024-10-05,Customer 152,Corporate,North,Haryana,Furniture,Tables,Study Table,5,0.0,21709.15,1637.25
+ORD-10523,2024-10-15,Customer 036,Consumer,East,Bihar,Office Supplies,Storage,Storage Box,7,0.2,15518.05,-272.69
+ORD-10524,2025-09-11,Customer 003,Consumer,Central,Chhattisgarh,Office Supplies,Storage,File Cabinet,5,0.2,19950.12,-694.31
+ORD-10525,2024-08-03,Customer 117,Home Office,North,Delhi,Furniture,Tables,Conference Table,3,0.2,1235.64,259.66
+ORD-10526,2026-01-04,Customer 058,Consumer,Central,Chhattisgarh,Furniture,Chairs,Ergonomic Chair,9,0.1,17643.5,1032.1
+ORD-10527,2024-12-17,Customer 140,Home Office,West,Rajasthan,Technology,Accessories,Keyboard,4,0.05,13639.87,926.17
+ORD-10528,2024-07-27,Customer 021,Consumer,East,West Bengal,Technology,Accessories,Keyboard,6,0.1,3534.35,940.93
+ORD-10529,2025-12-04,Customer 162,Home Office,Central,Chhattisgarh,Office Supplies,Art,Markers,9,0.0,40145.31,332.53
+ORD-10530,2025-10-11,Customer 003,Corporate,North,Haryana,Furniture,Bookcases,Metal Bookcase,10,0.05,3406.6,383.62
+ORD-10531,2026-05-23,Customer 010,Home Office,West,Rajasthan,Office Supplies,Art,Pens,7,0.05,12164.71,293.35
+ORD-10532,2024-09-27,Customer 014,Home Office,Central,Chhattisgarh,Furniture,Bookcases,Metal Bookcase,1,0.15,2706.03,-51.77
+ORD-10533,2025-06-01,Customer 201,Corporate,East,Bihar,Furniture,Chairs,Ergonomic Chair,8,0.15,3429.24,-179.45
+ORD-10534,2025-05-15,Customer 152,Home Office,East,West Bengal,Furniture,Tables,Conference Table,5,0.0,847.95,116.49
+ORD-10535,2024-09-14,Customer 205,Home Office,South,Telangana,Office Supplies,Storage,File Cabinet,5,0.0,19671.95,1860.39
+ORD-10536,2026-07-16,Customer 061,Home Office,North,Punjab,Technology,Phones,Smartphone,8,0.1,27277.42,5382.72
+ORD-10537,2026-07-18,Customer 068,Consumer,West,Rajasthan,Furniture,Chairs,Office Chair,10,0.05,35134.51,-2123.63
+ORD-10538,2026-05-16,Customer 175,Home Office,North,Delhi,Office Supplies,Storage,Storage Box,5,0.15,10343.23,42.59
+ORD-10539,2024-02-22,Customer 081,Home Office,West,Gujarat,Office Supplies,Paper,Notebook,1,0.1,1363.57,78.43
+ORD-10540,2024-04-04,Customer 086,Corporate,North,Delhi,Furniture,Bookcases,Metal Bookcase,7,0.2,17311.73,3964.53
+ORD-10541,2025-10-11,Customer 173,Home Office,East,West Bengal,Office Supplies,Art,Pens,8,0.2,24886.02,175.37
+ORD-10542,2025-03-09,Customer 018,Consumer,South,Telangana,Office Supplies,Art,Markers,6,0.2,13359.84,-1028.02
+ORD-10543,2026-04-29,Customer 009,Consumer,West,Maharashtra,Furniture,Chairs,Ergonomic Chair,6,0.05,6698.3,71.56
+ORD-10544,2024-10-10,Customer 031,Consumer,Central,Madhya Pradesh,Technology,Accessories,Mouse,4,0.2,15223.68,-550.42
+ORD-10545,2024-02-15,Customer 170,Consumer,Central,Madhya Pradesh,Office Supplies,Art,Markers,2,0.05,6666.53,173.63
+ORD-10546,2024-01-04,Customer 016,Corporate,West,Gujarat,Office Supplies,Art,Pens,5,0.0,4468.15,88.57
+ORD-10547,2024-12-07,Customer 052,Home Office,West,Gujarat,Technology,Laptops,Business Laptop,3,0.1,6098.81,1662.49
+ORD-10548,2026-02-28,Customer 165,Consumer,West,Maharashtra,Furniture,Tables,Study Table,3,0.1,7422.57,-10.25
+ORD-10549,2024-05-13,Customer 115,Consumer,West,Rajasthan,Office Supplies,Paper,A4 Paper,2,0.2,712.03,7.27
+ORD-10550,2025-10-14,Customer 085,Corporate,West,Maharashtra,Furniture,Bookcases,Wooden Bookcase,1,0.05,3188.74,-81.06
+ORD-10551,2024-09-25,Customer 202,Consumer,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,8,0.2,14314.75,2879.23
+ORD-10552,2024-06-14,Customer 078,Corporate,Central,Madhya Pradesh,Technology,Laptops,Business Laptop,2,0.05,5471.05,219.05
+ORD-10553,2026-01-29,Customer 118,Corporate,North,Haryana,Furniture,Chairs,Ergonomic Chair,9,0.05,36605.8,-1868.2
+ORD-10554,2025-03-28,Customer 162,Home Office,South,Karnataka,Furniture,Chairs,Ergonomic Chair,4,0.1,5632.06,1367.05
+ORD-10555,2025-07-18,Customer 152,Consumer,East,Odisha,Technology,Accessories,Keyboard,4,0.0,3142.88,-222.73
+ORD-10556,2025-12-23,Customer 005,Consumer,West,Gujarat,Technology,Accessories,Mouse,5,0.1,11468.02,3073.05
+ORD-10557,2025-03-13,Customer 118,Home Office,East,West Bengal,Office Supplies,Art,Markers,7,0.2,3803.07,609.38
+ORD-10558,2025-07-28,Customer 005,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Wooden Bookcase,2,0.0,561.4,53.9
+ORD-10559,2024-01-10,Customer 079,Consumer,Central,Madhya Pradesh,Technology,Accessories,Mouse,3,0.2,408.94,-25.36
+ORD-10560,2024-04-24,Customer 057,Consumer,West,Rajasthan,Technology,Accessories,Headphones,2,0.15,1121.12,232.86
+ORD-10561,2024-03-18,Customer 036,Corporate,South,Tamil Nadu,Office Supplies,Art,Pens,6,0.2,3321.26,422.96
+ORD-10562,2026-06-23,Customer 044,Home Office,South,Karnataka,Furniture,Chairs,Ergonomic Chair,2,0.0,1383.3,266.59
+ORD-10563,2025-12-08,Customer 162,Home Office,East,Bihar,Technology,Laptops,Gaming Laptop,10,0.0,2994.2,613.15
+ORD-10564,2026-07-14,Customer 152,Corporate,West,Maharashtra,Technology,Laptops,Gaming Laptop,1,0.0,135.4,23.62
+ORD-10565,2024-06-01,Customer 106,Consumer,West,Rajasthan,Office Supplies,Art,Markers,4,0.05,3044.29,329.73
+ORD-10566,2025-07-12,Customer 201,Corporate,South,Telangana,Furniture,Chairs,Office Chair,8,0.0,24792.32,3614.45
+ORD-10567,2024-02-06,Customer 159,Corporate,East,Odisha,Technology,Accessories,Headphones,4,0.15,2297.69,624.16
+ORD-10568,2026-05-04,Customer 176,Corporate,Central,Madhya Pradesh,Office Supplies,Art,Markers,5,0.0,1800.2,372.25
+ORD-10569,2025-01-13,Customer 065,Corporate,West,Maharashtra,Technology,Accessories,Headphones,1,0.05,3096.83,-14.08
+ORD-10570,2025-08-19,Customer 030,Consumer,Central,Chhattisgarh,Technology,Phones,Smartphone,9,0.0,8656.65,819.11
+ORD-10571,2025-07-19,Customer 059,Consumer,South,Telangana,Office Supplies,Art,Pens,7,0.2,6013.73,1463.83
+ORD-10572,2024-05-31,Customer 150,Corporate,East,West Bengal,Technology,Phones,Feature Phone,4,0.0,7760.44,-415.41
+ORD-10573,2025-03-16,Customer 050,Home Office,North,Punjab,Technology,Phones,Feature Phone,3,0.0,5993.76,508.19
+ORD-10574,2024-05-10,Customer 029,Corporate,East,Odisha,Technology,Laptops,Gaming Laptop,1,0.0,3491.83,73.39
+ORD-10575,2024-02-12,Customer 044,Home Office,West,Gujarat,Technology,Laptops,Gaming Laptop,5,0.2,12231.28,3216.75
+ORD-10576,2024-11-11,Customer 187,Corporate,Central,Madhya Pradesh,Technology,Laptops,Business Laptop,4,0.1,10795.5,221.32
+ORD-10577,2025-01-08,Customer 107,Consumer,South,Karnataka,Office Supplies,Storage,File Cabinet,10,0.15,40261.44,9798.45
+ORD-10578,2026-07-09,Customer 179,Consumer,North,Punjab,Furniture,Bookcases,Wooden Bookcase,7,0.1,17025.75,3600.91
+ORD-10579,2026-08-13,Customer 062,Home Office,West,Gujarat,Technology,Phones,Smartphone,7,0.0,33282.76,1631.72
+ORD-10580,2026-03-26,Customer 007,Corporate,North,Delhi,Office Supplies,Art,Pens,3,0.15,9042.78,1709.3
+ORD-10581,2026-05-31,Customer 161,Consumer,West,Maharashtra,Furniture,Tables,Study Table,6,0.2,15222.58,2253.32
+ORD-10582,2024-02-10,Customer 157,Home Office,West,Rajasthan,Office Supplies,Art,Markers,5,0.05,10387.87,1779.44
+ORD-10583,2026-07-09,Customer 014,Consumer,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,1,0.2,2097.77,107.06
+ORD-10584,2025-01-01,Customer 018,Home Office,West,Gujarat,Office Supplies,Art,Markers,6,0.2,9098.5,1102.42
+ORD-10585,2024-08-03,Customer 180,Consumer,South,Karnataka,Office Supplies,Paper,A4 Paper,8,0.15,25249.49,5898.47
+ORD-10586,2025-11-29,Customer 125,Home Office,South,Tamil Nadu,Office Supplies,Storage,Storage Box,5,0.05,1742.54,77.16
+ORD-10587,2024-09-12,Customer 208,Consumer,Central,Madhya Pradesh,Office Supplies,Art,Pens,8,0.2,20113.02,5236.05
+ORD-10588,2025-11-13,Customer 071,Consumer,South,Tamil Nadu,Technology,Phones,Feature Phone,3,0.0,4539.09,-184.42
+ORD-10589,2024-04-15,Customer 034,Corporate,South,Tamil Nadu,Technology,Phones,Smartphone,5,0.2,8564.12,984.16
+ORD-10590,2024-12-28,Customer 060,Home Office,East,Odisha,Office Supplies,Art,Markers,5,0.0,5132.0,1200.1
+ORD-10591,2026-03-09,Customer 141,Corporate,East,Odisha,Furniture,Tables,Conference Table,8,0.2,19247.68,2133.79
+ORD-10592,2025-07-27,Customer 074,Consumer,West,Gujarat,Furniture,Chairs,Ergonomic Chair,3,0.0,11902.23,1122.71
+ORD-10593,2026-06-24,Customer 047,Consumer,South,Tamil Nadu,Office Supplies,Storage,File Cabinet,10,0.2,37026.0,4173.35
+ORD-10594,2026-06-14,Customer 048,Consumer,South,Karnataka,Technology,Phones,Smartphone,6,0.1,15741.92,216.4
+ORD-10595,2025-02-20,Customer 137,Corporate,Central,Madhya Pradesh,Furniture,Tables,Conference Table,3,0.15,4914.56,1332.67
+ORD-10596,2025-09-27,Customer 190,Home Office,North,Delhi,Office Supplies,Storage,File Cabinet,8,0.0,37170.24,-2916.16
+ORD-10597,2026-02-06,Customer 205,Home Office,Central,Chhattisgarh,Furniture,Bookcases,Metal Bookcase,8,0.15,30533.97,4887.87
+ORD-10598,2024-06-07,Customer 007,Corporate,West,Gujarat,Furniture,Chairs,Ergonomic Chair,1,0.15,665.69,-25.25
+ORD-10599,2026-08-05,Customer 135,Consumer,Central,Madhya Pradesh,Office Supplies,Storage,File Cabinet,6,0.2,1774.37,-17.29
+ORD-10600,2026-08-10,Customer 082,Home Office,East,West Bengal,Technology,Phones,Feature Phone,2,0.1,8786.9,-87.85
+ORD-10601,2024-08-30,Customer 096,Consumer,Central,Madhya Pradesh,Furniture,Tables,Conference Table,3,0.1,9742.19,516.99
+ORD-10602,2026-06-04,Customer 190,Corporate,East,Odisha,Office Supplies,Storage,Storage Box,9,0.2,3810.46,913.02
+ORD-10603,2024-06-15,Customer 037,Consumer,West,Gujarat,Technology,Accessories,Keyboard,7,0.15,4664.09,630.85
+ORD-10604,2026-03-30,Customer 164,Corporate,East,Odisha,Furniture,Tables,Study Table,10,0.0,38049.6,-2953.3
+ORD-10605,2026-04-10,Customer 126,Consumer,West,Maharashtra,Furniture,Tables,Study Table,4,0.1,3641.15,88.14
+ORD-10606,2024-06-30,Customer 077,Home Office,East,Bihar,Office Supplies,Storage,Storage Box,4,0.0,926.08,-22.74
+ORD-10607,2026-06-21,Customer 008,Consumer,West,Maharashtra,Furniture,Bookcases,Metal Bookcase,7,0.2,5481.95,833.93
+ORD-10608,2025-02-26,Customer 067,Home Office,East,Odisha,Technology,Accessories,Mouse,6,0.15,15030.82,1157.14
+ORD-10609,2024-01-26,Customer 119,Home Office,West,Rajasthan,Technology,Laptops,Gaming Laptop,5,0.0,4489.75,-122.98
+ORD-10610,2024-07-02,Customer 075,Home Office,South,Tamil Nadu,Technology,Phones,Feature Phone,6,0.05,12287.03,-767.48
+ORD-10611,2026-01-24,Customer 081,Home Office,North,Haryana,Technology,Accessories,Headphones,2,0.0,6067.88,702.27
+ORD-10612,2026-08-04,Customer 004,Consumer,East,Odisha,Furniture,Bookcases,Metal Bookcase,2,0.05,5165.45,1117.77
+ORD-10613,2024-12-06,Customer 040,Home Office,Central,Chhattisgarh,Office Supplies,Storage,Storage Box,6,0.0,27674.7,-1193.6
+ORD-10614,2026-03-12,Customer 034,Consumer,South,Karnataka,Furniture,Bookcases,Wooden Bookcase,7,0.0,16494.87,-627.4
+ORD-10615,2026-08-11,Customer 088,Consumer,West,Gujarat,Office Supplies,Art,Pens,3,0.15,10463.9,1133.49
+ORD-10616,2025-02-25,Customer 079,Consumer,East,West Bengal,Furniture,Chairs,Office Chair,3,0.0,12895.17,2162.48
+ORD-10617,2026-04-01,Customer 011,Consumer,South,Karnataka,Technology,Laptops,Gaming Laptop,2,0.1,345.87,66.63
+ORD-10618,2025-11-16,Customer 078,Home Office,North,Delhi,Furniture,Bookcases,Wooden Bookcase,8,0.05,5188.67,-334.25
+ORD-10619,2026-06-03,Customer 008,Consumer,North,Delhi,Technology,Accessories,Headphones,10,0.0,45157.6,7289.17
+ORD-10620,2026-01-22,Customer 157,Consumer,South,Telangana,Office Supplies,Art,Pens,6,0.15,4522.32,909.39
+ORD-10621,2026-04-10,Customer 044,Home Office,Central,Madhya Pradesh,Technology,Accessories,Headphones,9,0.0,10469.61,2796.8
+ORD-10622,2024-09-11,Customer 028,Consumer,North,Haryana,Technology,Phones,Feature Phone,6,0.0,21125.1,1653.67
+ORD-10623,2024-09-30,Customer 029,Home Office,East,Odisha,Office Supplies,Paper,A4 Paper,7,0.05,4342.05,-154.14
+ORD-10624,2024-06-12,Customer 030,Corporate,South,Tamil Nadu,Office Supplies,Art,Pens,9,0.0,32746.23,1248.34
+ORD-10625,2026-03-17,Customer 219,Corporate,East,Odisha,Furniture,Bookcases,Metal Bookcase,8,0.1,8688.82,213.85
+ORD-10626,2025-12-19,Customer 027,Corporate,South,Karnataka,Office Supplies,Art,Pens,3,0.2,390.36,37.86
+ORD-10627,2024-04-20,Customer 027,Home Office,West,Rajasthan,Furniture,Bookcases,Wooden Bookcase,2,0.1,1444.5,245.87
+ORD-10628,2025-01-26,Customer 215,Corporate,South,Karnataka,Office Supplies,Paper,Notebook,4,0.1,10855.12,-388.67
+ORD-10629,2026-06-12,Customer 104,Corporate,West,Gujarat,Furniture,Bookcases,Metal Bookcase,7,0.2,10331.33,1416.83
+ORD-10630,2024-02-09,Customer 035,Consumer,Central,Chhattisgarh,Technology,Laptops,Gaming Laptop,2,0.1,2391.08,7.4
+ORD-10631,2026-05-29,Customer 084,Consumer,North,Haryana,Technology,Phones,Feature Phone,1,0.1,4376.84,602.47
+ORD-10632,2025-04-26,Customer 170,Corporate,East,Bihar,Furniture,Chairs,Office Chair,9,0.1,31274.91,-228.45
+ORD-10633,2024-08-15,Customer 031,Corporate,West,Rajasthan,Office Supplies,Art,Pens,9,0.0,25005.96,6918.05
+ORD-10634,2024-07-23,Customer 200,Corporate,West,Gujarat,Office Supplies,Storage,Storage Box,1,0.15,221.86,34.92
+ORD-10635,2026-04-16,Customer 126,Home Office,South,Tamil Nadu,Office Supplies,Paper,Notebook,7,0.0,17419.71,2173.77
+ORD-10636,2026-07-29,Customer 097,Home Office,Central,Chhattisgarh,Office Supplies,Art,Markers,9,0.05,3190.09,312.91
+ORD-10637,2025-04-16,Customer 190,Home Office,East,Odisha,Office Supplies,Paper,A4 Paper,10,0.05,3050.26,139.08
+ORD-10638,2024-12-24,Customer 015,Home Office,North,Haryana,Office Supplies,Storage,File Cabinet,7,0.05,11911.48,813.49
+ORD-10639,2024-11-08,Customer 079,Consumer,South,Karnataka,Technology,Accessories,Keyboard,10,0.2,4129.68,-233.0
+ORD-10640,2026-04-20,Customer 108,Corporate,East,West Bengal,Technology,Accessories,Keyboard,1,0.1,2122.61,264.26
+ORD-10641,2026-03-25,Customer 026,Corporate,North,Haryana,Office Supplies,Art,Markers,6,0.1,10534.91,380.01
+ORD-10642,2026-06-11,Customer 158,Corporate,North,Haryana,Furniture,Chairs,Ergonomic Chair,8,0.2,16406.85,692.93
+ORD-10643,2024-08-21,Customer 147,Corporate,East,Odisha,Technology,Laptops,Gaming Laptop,9,0.05,9823.86,-617.81
+ORD-10644,2024-08-16,Customer 136,Corporate,South,Telangana,Furniture,Chairs,Office Chair,10,0.0,17505.1,2169.13
+ORD-10645,2024-01-25,Customer 081,Consumer,West,Maharashtra,Office Supplies,Paper,Notebook,9,0.1,32725.78,5198.31
+ORD-10646,2025-11-06,Customer 133,Consumer,West,Gujarat,Office Supplies,Art,Pens,9,0.0,8864.46,1294.42
+ORD-10647,2024-07-16,Customer 158,Corporate,Central,Chhattisgarh,Technology,Accessories,Mouse,8,0.2,9042.5,1010.76
+ORD-10648,2025-02-12,Customer 196,Corporate,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,8,0.0,6591.52,1243.93
+ORD-10649,2024-12-02,Customer 066,Home Office,West,Gujarat,Office Supplies,Paper,A4 Paper,7,0.05,9363.07,1428.57
+ORD-10650,2024-10-12,Customer 080,Corporate,Central,Madhya Pradesh,Office Supplies,Paper,A4 Paper,3,0.0,3121.17,645.88
+ORD-10651,2026-06-04,Customer 203,Corporate,West,Rajasthan,Office Supplies,Storage,File Cabinet,4,0.0,3523.44,-244.91
+ORD-10652,2024-03-12,Customer 077,Consumer,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,1,0.0,371.1,12.25
+ORD-10653,2026-03-02,Customer 061,Consumer,West,Gujarat,Furniture,Bookcases,Wooden Bookcase,7,0.2,26440.34,5906.51
+ORD-10654,2024-10-12,Customer 198,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,8,0.0,35474.96,4822.31
+ORD-10655,2024-12-25,Customer 071,Corporate,East,Bihar,Furniture,Tables,Study Table,7,0.0,8177.68,-138.57
+ORD-10656,2025-10-18,Customer 109,Corporate,West,Gujarat,Furniture,Chairs,Ergonomic Chair,9,0.0,17424.45,591.32
+ORD-10657,2025-06-05,Customer 156,Consumer,South,Tamil Nadu,Technology,Laptops,Business Laptop,6,0.0,24748.14,3770.21
+ORD-10658,2025-02-13,Customer 093,Home Office,North,Haryana,Furniture,Chairs,Ergonomic Chair,9,0.2,14291.86,3788.12
+ORD-10659,2025-11-26,Customer 066,Corporate,North,Haryana,Technology,Laptops,Business Laptop,1,0.1,4102.17,1041.55
+ORD-10660,2026-05-13,Customer 009,Corporate,North,Delhi,Office Supplies,Paper,A4 Paper,8,0.2,20439.23,1354.38
+ORD-10661,2025-07-03,Customer 179,Corporate,North,Punjab,Office Supplies,Art,Pens,6,0.0,21691.14,4702.3
+ORD-10662,2024-12-05,Customer 048,Home Office,Central,Madhya Pradesh,Office Supplies,Storage,Storage Box,8,0.0,28052.24,4232.92
+ORD-10663,2024-01-29,Customer 029,Consumer,West,Rajasthan,Technology,Phones,Feature Phone,4,0.05,12078.87,1537.54
+ORD-10664,2024-04-28,Customer 189,Consumer,South,Telangana,Furniture,Bookcases,Wooden Bookcase,10,0.05,32871.81,2713.12
+ORD-10665,2026-06-17,Customer 101,Corporate,East,West Bengal,Furniture,Bookcases,Metal Bookcase,5,0.1,4830.53,252.81
+ORD-10666,2024-09-24,Customer 219,Consumer,Central,Madhya Pradesh,Technology,Phones,Smartphone,2,0.0,9746.46,138.81
+ORD-10667,2024-07-01,Customer 146,Consumer,North,Punjab,Furniture,Tables,Conference Table,3,0.05,1528.74,-28.67
+ORD-10668,2025-08-17,Customer 209,Corporate,North,Haryana,Furniture,Tables,Conference Table,8,0.2,4356.54,-29.92
+ORD-10669,2024-09-28,Customer 211,Corporate,East,Bihar,Office Supplies,Storage,File Cabinet,7,0.15,25561.5,-61.25
+ORD-10670,2024-02-09,Customer 116,Consumer,South,Tamil Nadu,Technology,Laptops,Gaming Laptop,1,0.05,1445.85,6.9
+ORD-10671,2024-04-21,Customer 178,Corporate,East,Bihar,Furniture,Bookcases,Metal Bookcase,2,0.0,301.14,70.38
+ORD-10672,2025-09-02,Customer 014,Corporate,South,Telangana,Office Supplies,Art,Pens,10,0.0,13555.1,1633.66
+ORD-10673,2025-03-20,Customer 102,Home Office,South,Tamil Nadu,Office Supplies,Art,Markers,1,0.15,1141.48,65.22
+ORD-10674,2024-12-19,Customer 120,Consumer,East,West Bengal,Furniture,Chairs,Office Chair,5,0.1,4195.57,1069.53
+ORD-10675,2026-01-16,Customer 033,Corporate,North,Punjab,Furniture,Bookcases,Metal Bookcase,3,0.05,3921.57,-251.38
+ORD-10676,2026-03-16,Customer 112,Consumer,East,Bihar,Office Supplies,Storage,Storage Box,5,0.05,14740.96,1564.17
+ORD-10677,2024-11-17,Customer 010,Corporate,East,Bihar,Office Supplies,Paper,Notebook,1,0.0,1025.71,2.82
+ORD-10678,2025-03-22,Customer 092,Home Office,East,West Bengal,Furniture,Tables,Conference Table,2,0.1,8957.68,-585.07
+ORD-10679,2025-09-12,Customer 073,Consumer,Central,Chhattisgarh,Office Supplies,Storage,File Cabinet,3,0.0,2117.73,-14.1
+ORD-10680,2025-06-07,Customer 147,Consumer,South,Telangana,Furniture,Tables,Study Table,10,0.0,49902.2,5457.58
+ORD-10681,2024-04-28,Customer 032,Corporate,West,Maharashtra,Technology,Laptops,Gaming Laptop,6,0.2,1090.61,298.04
+ORD-10682,2025-01-29,Customer 117,Home Office,East,Bihar,Technology,Laptops,Gaming Laptop,1,0.2,397.77,62.62
+ORD-10683,2026-07-10,Customer 188,Home Office,East,Bihar,Furniture,Chairs,Ergonomic Chair,1,0.1,2983.72,110.31
+ORD-10684,2025-08-13,Customer 155,Corporate,Central,Madhya Pradesh,Technology,Phones,Feature Phone,6,0.2,19252.42,-1050.01
+ORD-10685,2024-07-13,Customer 200,Corporate,North,Punjab,Office Supplies,Paper,A4 Paper,7,0.0,3759.14,-80.23
+ORD-10686,2024-09-17,Customer 080,Home Office,East,Bihar,Furniture,Chairs,Office Chair,5,0.1,11273.13,2084.63
+ORD-10687,2024-02-15,Customer 100,Corporate,Central,Madhya Pradesh,Office Supplies,Art,Markers,6,0.1,14104.8,1133.45
+ORD-10688,2025-12-26,Customer 162,Corporate,East,Bihar,Furniture,Tables,Study Table,7,0.15,24239.53,-312.98
+ORD-10689,2025-03-22,Customer 127,Home Office,North,Delhi,Furniture,Tables,Conference Table,4,0.2,10474.53,-253.22
+ORD-10690,2024-01-02,Customer 033,Home Office,Central,Madhya Pradesh,Office Supplies,Storage,Storage Box,2,0.1,8181.58,230.24
+ORD-10691,2025-06-16,Customer 132,Consumer,East,West Bengal,Furniture,Tables,Conference Table,10,0.0,3338.7,835.44
+ORD-10692,2026-08-05,Customer 021,Home Office,Central,Chhattisgarh,Office Supplies,Paper,Notebook,10,0.05,38786.98,455.73
+ORD-10693,2026-04-05,Customer 107,Home Office,North,Delhi,Furniture,Bookcases,Metal Bookcase,3,0.1,10671.13,-679.82
+ORD-10694,2025-07-05,Customer 208,Consumer,East,Odisha,Furniture,Bookcases,Metal Bookcase,8,0.05,23990.69,1028.73
+ORD-10695,2025-12-04,Customer 005,Consumer,South,Karnataka,Technology,Accessories,Mouse,5,0.0,21854.6,1664.61
+ORD-10696,2026-01-06,Customer 155,Home Office,West,Maharashtra,Technology,Phones,Feature Phone,8,0.2,22335.04,5978.85
+ORD-10697,2026-01-29,Customer 004,Consumer,West,Gujarat,Furniture,Bookcases,Metal Bookcase,7,0.0,28299.18,-989.56
+ORD-10698,2026-01-24,Customer 112,Home Office,North,Delhi,Furniture,Chairs,Office Chair,4,0.0,9829.88,1512.88
+ORD-10699,2025-11-17,Customer 040,Home Office,Central,Madhya Pradesh,Technology,Laptops,Business Laptop,3,0.0,7267.65,-276.71
+ORD-10700,2024-07-20,Customer 214,Corporate,West,Gujarat,Office Supplies,Paper,Notebook,10,0.05,12244.45,1530.49
+ORD-10701,2025-01-07,Customer 188,Home Office,North,Punjab,Technology,Phones,Feature Phone,7,0.2,23846.03,3059.88
+ORD-10702,2025-03-17,Customer 210,Corporate,East,West Bengal,Office Supplies,Storage,Storage Box,9,0.15,22920.09,5883.61
+ORD-10703,2024-03-12,Customer 166,Corporate,South,Telangana,Technology,Accessories,Headphones,7,0.15,17400.06,-994.17
+ORD-10704,2025-11-11,Customer 186,Consumer,West,Maharashtra,Office Supplies,Art,Pens,8,0.0,28142.56,-616.88
+ORD-10705,2026-07-31,Customer 219,Home Office,West,Gujarat,Office Supplies,Paper,A4 Paper,10,0.05,43267.18,10895.75
+ORD-10706,2024-12-04,Customer 093,Corporate,West,Maharashtra,Office Supplies,Art,Pens,7,0.2,23419.76,3627.72
+ORD-10707,2025-09-30,Customer 126,Consumer,South,Telangana,Technology,Laptops,Gaming Laptop,8,0.0,5860.56,-139.05
+ORD-10708,2024-11-17,Customer 067,Corporate,West,Gujarat,Office Supplies,Paper,A4 Paper,9,0.0,2974.86,146.25
+ORD-10709,2025-11-10,Customer 144,Consumer,South,Karnataka,Furniture,Chairs,Office Chair,6,0.15,11271.2,18.13
+ORD-10710,2026-05-18,Customer 132,Home Office,West,Gujarat,Office Supplies,Storage,File Cabinet,9,0.0,12696.39,2884.96
+ORD-10711,2024-05-07,Customer 220,Consumer,North,Haryana,Technology,Laptops,Business Laptop,2,0.15,8288.91,1156.1
+ORD-10712,2026-01-07,Customer 075,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,2,0.05,8297.79,-194.73
+ORD-10713,2026-07-10,Customer 032,Consumer,West,Rajasthan,Office Supplies,Art,Markers,3,0.05,9321.67,2003.21
+ORD-10714,2024-11-03,Customer 096,Home Office,West,Gujarat,Technology,Phones,Feature Phone,6,0.0,9030.72,-445.36
+ORD-10715,2025-06-03,Customer 059,Consumer,West,Gujarat,Furniture,Bookcases,Wooden Bookcase,3,0.15,9666.31,694.23
+ORD-10716,2024-11-12,Customer 133,Consumer,West,Gujarat,Office Supplies,Storage,Storage Box,1,0.0,2268.64,404.6
+ORD-10717,2025-11-13,Customer 165,Consumer,North,Punjab,Office Supplies,Storage,File Cabinet,7,0.0,2808.33,442.77
+ORD-10718,2025-02-22,Customer 078,Home Office,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,7,0.2,11590.94,1996.94
+ORD-10719,2024-11-30,Customer 160,Home Office,East,Odisha,Technology,Laptops,Gaming Laptop,7,0.0,16004.31,3833.49
+ORD-10720,2025-02-16,Customer 086,Corporate,West,Rajasthan,Office Supplies,Art,Pens,4,0.0,17667.12,-1178.23
+ORD-10721,2025-12-14,Customer 194,Home Office,South,Telangana,Furniture,Tables,Study Table,2,0.05,4953.66,533.41
+ORD-10722,2024-10-29,Customer 130,Consumer,South,Karnataka,Technology,Accessories,Mouse,5,0.05,6092.16,1105.99
+ORD-10723,2025-07-21,Customer 115,Corporate,North,Punjab,Office Supplies,Art,Pens,2,0.2,534.22,138.3
+ORD-10724,2024-05-10,Customer 217,Home Office,Central,Madhya Pradesh,Office Supplies,Storage,File Cabinet,10,0.2,22971.44,3665.95
+ORD-10725,2024-07-15,Customer 133,Home Office,South,Tamil Nadu,Office Supplies,Storage,File Cabinet,7,0.0,18524.59,-780.22
+ORD-10726,2025-03-06,Customer 109,Consumer,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,7,0.0,29115.38,-1362.32
+ORD-10727,2025-11-11,Customer 102,Corporate,West,Maharashtra,Office Supplies,Paper,Notebook,9,0.15,15862.2,1694.4
+ORD-10728,2025-01-23,Customer 037,Home Office,Central,Chhattisgarh,Furniture,Tables,Conference Table,8,0.1,26534.95,5746.73
+ORD-10729,2025-11-24,Customer 117,Corporate,South,Tamil Nadu,Furniture,Tables,Study Table,9,0.0,38970.27,6625.31
+ORD-10730,2026-02-05,Customer 095,Home Office,North,Haryana,Technology,Accessories,Keyboard,2,0.1,5486.11,-220.97
+ORD-10731,2026-07-13,Customer 125,Consumer,East,West Bengal,Furniture,Chairs,Office Chair,6,0.05,9086.54,265.09
+ORD-10732,2024-06-27,Customer 190,Corporate,South,Karnataka,Furniture,Tables,Study Table,5,0.0,22281.9,-314.0
+ORD-10733,2025-09-22,Customer 116,Corporate,North,Delhi,Furniture,Tables,Study Table,1,0.15,1824.2,57.45
+ORD-10734,2025-08-05,Customer 171,Corporate,West,Gujarat,Furniture,Bookcases,Wooden Bookcase,3,0.1,6948.02,1349.34
+ORD-10735,2024-11-04,Customer 012,Home Office,South,Telangana,Office Supplies,Paper,Notebook,7,0.1,7817.23,328.63
+ORD-10736,2025-02-19,Customer 198,Home Office,West,Rajasthan,Office Supplies,Art,Markers,3,0.15,9091.57,1335.0
+ORD-10737,2025-07-15,Customer 014,Home Office,East,Bihar,Furniture,Chairs,Office Chair,4,0.15,16253.09,2075.0
+ORD-10738,2026-05-03,Customer 005,Corporate,Central,Madhya Pradesh,Office Supplies,Art,Markers,2,0.15,5653.26,-86.45
+ORD-10739,2024-01-01,Customer 151,Consumer,South,Karnataka,Furniture,Bookcases,Metal Bookcase,2,0.15,6891.65,243.66
+ORD-10740,2024-11-07,Customer 066,Consumer,West,Maharashtra,Office Supplies,Storage,File Cabinet,7,0.15,1296.39,44.41
+ORD-10741,2024-10-20,Customer 105,Home Office,North,Delhi,Furniture,Chairs,Ergonomic Chair,3,0.0,2985.24,-73.07
+ORD-10742,2024-08-03,Customer 082,Consumer,South,Karnataka,Furniture,Tables,Study Table,1,0.05,3415.41,206.22
+ORD-10743,2025-03-16,Customer 127,Home Office,West,Gujarat,Office Supplies,Storage,File Cabinet,1,0.15,928.66,121.63
+ORD-10744,2026-03-15,Customer 008,Corporate,Central,Chhattisgarh,Technology,Laptops,Gaming Laptop,6,0.1,12839.26,-724.58
+ORD-10745,2025-08-16,Customer 078,Home Office,South,Karnataka,Office Supplies,Art,Markers,4,0.2,12283.49,2489.58
+ORD-10746,2025-09-13,Customer 044,Consumer,West,Gujarat,Technology,Accessories,Mouse,4,0.0,15744.48,856.34
+ORD-10747,2025-11-01,Customer 043,Consumer,Central,Chhattisgarh,Furniture,Tables,Study Table,1,0.15,3469.66,83.72
+ORD-10748,2024-11-25,Customer 216,Home Office,North,Punjab,Office Supplies,Art,Pens,7,0.2,27979.22,-95.37
+ORD-10749,2025-04-21,Customer 032,Consumer,East,West Bengal,Technology,Accessories,Mouse,10,0.0,4426.8,275.83
+ORD-10750,2025-03-28,Customer 063,Home Office,Central,Chhattisgarh,Office Supplies,Paper,Notebook,6,0.2,15419.18,1279.46
+ORD-10751,2025-03-28,Customer 001,Home Office,East,Odisha,Technology,Laptops,Business Laptop,1,0.0,4578.69,699.26
+ORD-10752,2025-11-22,Customer 196,Corporate,West,Maharashtra,Technology,Accessories,Headphones,7,0.2,15810.87,2738.25
+ORD-10753,2024-08-06,Customer 032,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Wooden Bookcase,9,0.2,1811.81,145.42
+ORD-10754,2025-06-07,Customer 114,Consumer,West,Rajasthan,Office Supplies,Storage,File Cabinet,1,0.05,675.77,173.71
+ORD-10755,2025-04-29,Customer 207,Home Office,South,Telangana,Technology,Laptops,Business Laptop,4,0.15,1838.86,266.79
+ORD-10756,2026-03-23,Customer 054,Consumer,South,Karnataka,Office Supplies,Storage,File Cabinet,5,0.2,10059.64,1755.49
+ORD-10757,2026-07-11,Customer 169,Home Office,South,Telangana,Office Supplies,Paper,Notebook,10,0.0,25516.0,3027.29
+ORD-10758,2026-03-26,Customer 134,Home Office,Central,Madhya Pradesh,Technology,Accessories,Headphones,2,0.15,1231.5,280.75
+ORD-10759,2026-01-23,Customer 165,Home Office,East,West Bengal,Furniture,Chairs,Ergonomic Chair,9,0.0,39844.8,10265.64
+ORD-10760,2024-06-22,Customer 133,Consumer,North,Punjab,Office Supplies,Storage,Storage Box,2,0.1,6179.13,608.07
+ORD-10761,2025-11-05,Customer 147,Consumer,South,Karnataka,Office Supplies,Storage,Storage Box,6,0.0,751.68,30.44
+ORD-10762,2024-03-27,Customer 161,Consumer,South,Telangana,Office Supplies,Paper,A4 Paper,4,0.05,3442.65,-197.53
+ORD-10763,2024-10-17,Customer 088,Consumer,North,Punjab,Office Supplies,Paper,Notebook,5,0.1,5899.73,34.27
+ORD-10764,2025-06-11,Customer 016,Consumer,East,Bihar,Technology,Phones,Feature Phone,2,0.15,5379.16,-188.61
+ORD-10765,2025-11-10,Customer 157,Home Office,West,Gujarat,Furniture,Chairs,Office Chair,1,0.1,4143.3,-249.74
+ORD-10766,2025-10-10,Customer 159,Corporate,West,Maharashtra,Technology,Accessories,Headphones,9,0.1,2881.98,186.19
+ORD-10767,2025-09-26,Customer 159,Consumer,South,Telangana,Furniture,Bookcases,Wooden Bookcase,8,0.1,14264.71,3377.57
+ORD-10768,2024-12-09,Customer 004,Home Office,East,Bihar,Furniture,Chairs,Ergonomic Chair,9,0.0,15373.35,-632.12
+ORD-10769,2024-04-05,Customer 159,Corporate,North,Haryana,Technology,Accessories,Headphones,9,0.1,10981.98,1024.66
+ORD-10770,2026-04-18,Customer 167,Corporate,South,Karnataka,Technology,Phones,Smartphone,3,0.1,4393.36,460.1
+ORD-10771,2026-02-08,Customer 003,Home Office,East,Bihar,Furniture,Chairs,Office Chair,8,0.05,12255.0,303.72
+ORD-10772,2024-08-28,Customer 052,Consumer,Central,Madhya Pradesh,Technology,Phones,Smartphone,7,0.0,12492.9,1881.43
+ORD-10773,2025-11-19,Customer 086,Home Office,East,West Bengal,Furniture,Tables,Conference Table,10,0.15,29689.06,3675.35
+ORD-10774,2024-11-13,Customer 001,Home Office,East,Odisha,Office Supplies,Paper,A4 Paper,8,0.0,35143.36,3462.85
+ORD-10775,2024-08-18,Customer 097,Consumer,South,Telangana,Technology,Laptops,Gaming Laptop,4,0.05,9331.51,1965.38
+ORD-10776,2026-04-05,Customer 075,Corporate,West,Maharashtra,Technology,Laptops,Gaming Laptop,2,0.15,3151.19,-121.42
+ORD-10777,2024-07-22,Customer 068,Home Office,South,Telangana,Furniture,Tables,Study Table,1,0.05,1021.91,-17.69
+ORD-10778,2024-05-30,Customer 006,Home Office,South,Tamil Nadu,Furniture,Chairs,Office Chair,4,0.05,780.18,193.35
+ORD-10779,2024-01-26,Customer 096,Home Office,South,Tamil Nadu,Furniture,Chairs,Ergonomic Chair,4,0.0,6379.4,338.56
+ORD-10780,2024-02-17,Customer 050,Home Office,South,Telangana,Furniture,Tables,Study Table,2,0.0,1615.44,333.04
+ORD-10781,2024-09-07,Customer 219,Home Office,West,Rajasthan,Office Supplies,Storage,Storage Box,4,0.15,15684.1,2061.48
+ORD-10782,2025-05-01,Customer 126,Consumer,East,West Bengal,Office Supplies,Paper,A4 Paper,5,0.15,18602.12,4996.87
+ORD-10783,2025-09-17,Customer 096,Corporate,North,Punjab,Furniture,Bookcases,Wooden Bookcase,3,0.2,6221.3,1184.59
+ORD-10784,2026-05-20,Customer 122,Corporate,Central,Chhattisgarh,Technology,Laptops,Business Laptop,9,0.2,25222.32,6660.48
+ORD-10785,2026-02-25,Customer 061,Corporate,Central,Chhattisgarh,Furniture,Bookcases,Wooden Bookcase,4,0.0,4702.72,389.14
+ORD-10786,2024-03-15,Customer 022,Corporate,South,Tamil Nadu,Office Supplies,Storage,File Cabinet,6,0.0,8083.14,-255.76
+ORD-10787,2025-04-11,Customer 120,Corporate,West,Rajasthan,Office Supplies,Paper,A4 Paper,8,0.05,19836.61,1455.94
+ORD-10788,2025-02-28,Customer 166,Consumer,West,Gujarat,Office Supplies,Storage,Storage Box,7,0.1,1393.06,5.8
+ORD-10789,2026-06-26,Customer 093,Consumer,East,West Bengal,Office Supplies,Art,Markers,5,0.0,23201.85,-865.62
+ORD-10790,2025-10-06,Customer 049,Home Office,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,5,0.2,6333.24,1420.93
+ORD-10791,2025-08-12,Customer 201,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,1,0.05,3679.7,794.93
+ORD-10792,2024-07-18,Customer 059,Consumer,West,Rajasthan,Furniture,Chairs,Ergonomic Chair,9,0.0,44527.05,10311.03
+ORD-10793,2026-01-05,Customer 088,Consumer,South,Tamil Nadu,Technology,Accessories,Mouse,9,0.2,27448.85,5851.63
+ORD-10794,2025-12-14,Customer 036,Home Office,East,West Bengal,Office Supplies,Art,Pens,4,0.15,7648.44,-528.99
+ORD-10795,2025-01-28,Customer 193,Corporate,South,Tamil Nadu,Furniture,Chairs,Ergonomic Chair,6,0.1,9531.7,698.28
+ORD-10796,2025-05-21,Customer 085,Home Office,Central,Chhattisgarh,Office Supplies,Art,Markers,10,0.0,39482.5,-974.08
+ORD-10797,2025-02-13,Customer 085,Home Office,Central,Chhattisgarh,Office Supplies,Paper,Notebook,2,0.0,5438.0,494.42
+ORD-10798,2024-09-06,Customer 177,Home Office,West,Rajasthan,Office Supplies,Paper,A4 Paper,2,0.0,6813.88,-466.47
+ORD-10799,2024-05-31,Customer 135,Consumer,West,Maharashtra,Technology,Phones,Smartphone,7,0.0,10434.97,258.77
+ORD-10800,2025-11-02,Customer 029,Consumer,West,Maharashtra,Office Supplies,Art,Markers,3,0.1,4593.19,279.26
+ORD-10801,2025-12-05,Customer 053,Corporate,Central,Chhattisgarh,Office Supplies,Art,Markers,7,0.0,33459.79,-1111.68
+ORD-10802,2024-01-06,Customer 129,Home Office,West,Rajasthan,Furniture,Tables,Study Table,10,0.05,27720.52,3645.17
+ORD-10803,2026-07-03,Customer 064,Home Office,West,Gujarat,Technology,Phones,Smartphone,8,0.1,2976.84,410.05
+ORD-10804,2026-02-07,Customer 117,Corporate,East,Bihar,Office Supplies,Storage,Storage Box,10,0.0,2915.2,68.94
+ORD-10805,2026-05-31,Customer 118,Corporate,East,Odisha,Furniture,Chairs,Ergonomic Chair,4,0.15,3331.76,612.94
+ORD-10806,2026-02-27,Customer 161,Home Office,South,Telangana,Furniture,Chairs,Ergonomic Chair,1,0.0,1274.51,23.65
+ORD-10807,2026-06-25,Customer 142,Consumer,East,Bihar,Technology,Accessories,Mouse,4,0.1,16390.12,4544.33
+ORD-10808,2024-04-19,Customer 012,Corporate,East,West Bengal,Technology,Accessories,Keyboard,7,0.05,15358.77,-82.11
+ORD-10809,2026-03-08,Customer 102,Consumer,North,Delhi,Furniture,Bookcases,Metal Bookcase,7,0.1,11238.7,2563.3
+ORD-10810,2025-03-11,Customer 018,Consumer,North,Punjab,Technology,Accessories,Headphones,6,0.1,18276.03,1727.33
+ORD-10811,2024-08-12,Customer 005,Home Office,Central,Madhya Pradesh,Furniture,Tables,Study Table,8,0.0,32960.72,-612.67
+ORD-10812,2024-06-29,Customer 040,Corporate,North,Delhi,Office Supplies,Paper,Notebook,3,0.0,1440.51,236.04
+ORD-10813,2026-04-03,Customer 163,Home Office,East,West Bengal,Technology,Accessories,Headphones,9,0.2,8346.38,-524.22
+ORD-10814,2025-12-13,Customer 197,Consumer,North,Punjab,Furniture,Tables,Conference Table,1,0.0,3031.21,600.38
+ORD-10815,2025-06-14,Customer 050,Home Office,South,Tamil Nadu,Technology,Phones,Smartphone,1,0.0,2166.25,89.6
+ORD-10816,2025-04-20,Customer 084,Corporate,North,Delhi,Technology,Accessories,Headphones,3,0.15,804.93,-33.19
+ORD-10817,2024-02-21,Customer 083,Consumer,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,7,0.0,4843.58,-202.86
+ORD-10818,2025-07-24,Customer 209,Corporate,North,Punjab,Furniture,Tables,Study Table,7,0.0,7997.92,-449.76
+ORD-10819,2024-09-12,Customer 027,Home Office,Central,Chhattisgarh,Technology,Phones,Smartphone,7,0.15,9386.24,937.19
+ORD-10820,2026-07-28,Customer 045,Home Office,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,7,0.2,19161.58,-615.94
+ORD-10821,2026-05-18,Customer 131,Home Office,East,Bihar,Office Supplies,Paper,Notebook,1,0.15,2619.54,213.78
+ORD-10822,2024-05-04,Customer 189,Corporate,South,Telangana,Furniture,Bookcases,Wooden Bookcase,4,0.0,815.8,25.44
+ORD-10823,2025-04-12,Customer 053,Home Office,South,Telangana,Technology,Phones,Smartphone,6,0.0,15262.56,-387.65
+ORD-10824,2024-05-16,Customer 195,Consumer,North,Delhi,Furniture,Bookcases,Metal Bookcase,6,0.05,4320.09,655.34
+ORD-10825,2026-03-31,Customer 053,Home Office,Central,Chhattisgarh,Furniture,Tables,Study Table,4,0.05,16149.92,700.62
+ORD-10826,2025-04-20,Customer 047,Corporate,North,Haryana,Technology,Accessories,Mouse,4,0.1,11086.24,1194.32
+ORD-10827,2025-11-14,Customer 033,Consumer,North,Delhi,Office Supplies,Paper,A4 Paper,1,0.0,3208.4,827.06
+ORD-10828,2025-06-27,Customer 043,Home Office,South,Telangana,Furniture,Chairs,Office Chair,9,0.2,3477.67,306.55
+ORD-10829,2025-07-26,Customer 052,Corporate,South,Karnataka,Office Supplies,Paper,A4 Paper,5,0.1,6742.03,1809.43
+ORD-10830,2025-09-01,Customer 189,Corporate,West,Maharashtra,Office Supplies,Storage,Storage Box,3,0.1,6497.55,662.13
+ORD-10831,2024-11-20,Customer 040,Home Office,South,Tamil Nadu,Technology,Laptops,Business Laptop,2,0.05,7254.98,974.1
+ORD-10832,2026-02-12,Customer 019,Corporate,South,Tamil Nadu,Office Supplies,Storage,Storage Box,8,0.15,10117.11,1397.87
+ORD-10833,2026-07-01,Customer 096,Corporate,South,Telangana,Office Supplies,Paper,A4 Paper,4,0.15,409.63,74.93
+ORD-10834,2025-03-29,Customer 019,Corporate,West,Gujarat,Office Supplies,Art,Pens,7,0.2,13993.28,3855.26
+ORD-10835,2025-09-19,Customer 193,Home Office,North,Delhi,Office Supplies,Art,Markers,4,0.05,14586.15,2883.06
+ORD-10836,2026-04-14,Customer 063,Corporate,East,Bihar,Furniture,Tables,Conference Table,1,0.1,2960.5,547.22
+ORD-10837,2026-01-06,Customer 038,Corporate,North,Punjab,Furniture,Bookcases,Wooden Bookcase,3,0.1,3727.4,968.88
+ORD-10838,2026-07-02,Customer 099,Corporate,South,Telangana,Furniture,Bookcases,Wooden Bookcase,1,0.0,671.98,102.13
+ORD-10839,2025-05-31,Customer 129,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,3,0.05,11872.44,2007.17
+ORD-10840,2025-03-12,Customer 089,Consumer,West,Rajasthan,Office Supplies,Art,Pens,2,0.15,1080.25,215.63
+ORD-10841,2026-04-30,Customer 001,Consumer,East,Bihar,Technology,Accessories,Keyboard,5,0.0,657.3,140.6
+ORD-10842,2026-07-17,Customer 048,Home Office,North,Haryana,Office Supplies,Art,Pens,5,0.0,18459.55,-304.5
+ORD-10843,2025-07-15,Customer 016,Home Office,South,Karnataka,Office Supplies,Paper,A4 Paper,8,0.0,23030.0,-303.31
+ORD-10844,2025-04-01,Customer 076,Consumer,South,Karnataka,Office Supplies,Storage,Storage Box,10,0.2,5080.48,-102.6
+ORD-10845,2026-07-07,Customer 195,Consumer,West,Maharashtra,Office Supplies,Paper,Notebook,1,0.1,2672.7,253.02
+ORD-10846,2024-06-11,Customer 134,Corporate,North,Delhi,Office Supplies,Paper,A4 Paper,2,0.0,2268.46,125.31
+ORD-10847,2026-01-31,Customer 210,Consumer,West,Gujarat,Office Supplies,Art,Pens,6,0.05,10926.04,3057.11
+ORD-10848,2026-06-01,Customer 179,Corporate,East,Bihar,Office Supplies,Storage,File Cabinet,6,0.0,26268.48,-2072.31
+ORD-10849,2025-05-01,Customer 122,Home Office,South,Karnataka,Furniture,Chairs,Ergonomic Chair,4,0.15,6478.05,1082.01
+ORD-10850,2025-04-05,Customer 189,Corporate,West,Rajasthan,Technology,Phones,Feature Phone,1,0.0,3205.51,862.46
+ORD-10851,2024-09-22,Customer 122,Home Office,West,Maharashtra,Furniture,Tables,Conference Table,10,0.05,37908.89,2807.15
+ORD-10852,2026-02-08,Customer 184,Home Office,North,Haryana,Office Supplies,Storage,File Cabinet,3,0.15,11123.89,2253.15
+ORD-10853,2024-09-10,Customer 115,Consumer,North,Delhi,Office Supplies,Paper,Notebook,9,0.1,39992.78,-779.9
+ORD-10854,2026-05-10,Customer 028,Corporate,West,Rajasthan,Furniture,Chairs,Office Chair,4,0.2,2992.38,514.59
+ORD-10855,2025-10-14,Customer 172,Consumer,North,Delhi,Office Supplies,Storage,Storage Box,4,0.2,11596.67,1060.73
+ORD-10856,2024-10-10,Customer 148,Home Office,South,Telangana,Furniture,Bookcases,Metal Bookcase,2,0.05,7596.48,1776.81
+ORD-10857,2026-02-23,Customer 058,Corporate,North,Haryana,Office Supplies,Storage,Storage Box,9,0.1,39160.42,8264.46
+ORD-10858,2026-03-07,Customer 030,Home Office,North,Punjab,Technology,Phones,Smartphone,6,0.0,22373.1,4207.54
+ORD-10859,2025-06-17,Customer 100,Corporate,East,West Bengal,Office Supplies,Storage,File Cabinet,5,0.15,1713.77,-19.97
+ORD-10860,2025-05-11,Customer 081,Consumer,East,Odisha,Furniture,Chairs,Office Chair,2,0.15,3462.95,785.57
+ORD-10861,2025-10-03,Customer 218,Home Office,East,West Bengal,Office Supplies,Art,Pens,3,0.0,9141.54,1727.22
+ORD-10862,2024-09-01,Customer 162,Consumer,North,Haryana,Office Supplies,Storage,File Cabinet,5,0.2,19938.24,2524.78
+ORD-10863,2024-10-08,Customer 188,Consumer,West,Gujarat,Furniture,Tables,Study Table,6,0.2,4071.55,-17.02
+ORD-10864,2025-03-26,Customer 041,Consumer,North,Delhi,Office Supplies,Art,Pens,5,0.2,19694.04,4893.09
+ORD-10865,2024-03-20,Customer 187,Corporate,Central,Chhattisgarh,Office Supplies,Storage,Storage Box,6,0.1,20589.12,-1114.77
+ORD-10866,2025-12-31,Customer 149,Consumer,East,Bihar,Technology,Accessories,Mouse,7,0.05,3836.19,732.01
+ORD-10867,2024-10-19,Customer 054,Consumer,East,Odisha,Furniture,Chairs,Office Chair,8,0.05,26677.37,6482.56
+ORD-10868,2024-08-28,Customer 110,Home Office,South,Telangana,Furniture,Chairs,Ergonomic Chair,10,0.0,5995.4,333.1
+ORD-10869,2024-10-05,Customer 167,Corporate,South,Karnataka,Technology,Laptops,Business Laptop,3,0.0,14192.43,3873.11
+ORD-10870,2024-12-09,Customer 126,Corporate,Central,Chhattisgarh,Technology,Accessories,Mouse,7,0.0,9103.5,61.07
+ORD-10871,2024-11-23,Customer 162,Home Office,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,2,0.2,6257.41,360.15
+ORD-10872,2026-07-03,Customer 131,Consumer,West,Gujarat,Technology,Phones,Smartphone,2,0.2,1116.88,179.56
+ORD-10873,2025-07-07,Customer 047,Corporate,North,Haryana,Furniture,Bookcases,Metal Bookcase,5,0.0,17496.3,3603.6
+ORD-10874,2024-03-23,Customer 204,Home Office,West,Rajasthan,Furniture,Tables,Conference Table,10,0.05,6779.77,-387.4
+ORD-10875,2024-05-21,Customer 133,Home Office,South,Tamil Nadu,Furniture,Chairs,Ergonomic Chair,9,0.15,31407.61,3011.45
+ORD-10876,2024-06-03,Customer 143,Corporate,Central,Madhya Pradesh,Technology,Accessories,Headphones,3,0.2,10377.17,-157.97
+ORD-10877,2024-08-24,Customer 009,Consumer,East,West Bengal,Technology,Phones,Smartphone,3,0.05,1511.41,342.37
+ORD-10878,2025-01-27,Customer 077,Consumer,North,Haryana,Office Supplies,Storage,File Cabinet,7,0.2,27371.74,-2188.9
+ORD-10879,2025-12-11,Customer 091,Home Office,Central,Chhattisgarh,Furniture,Bookcases,Metal Bookcase,3,0.2,7026.36,229.46
+ORD-10880,2024-06-05,Customer 214,Consumer,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,4,0.0,1120.0,31.24
+ORD-10881,2025-12-24,Customer 141,Corporate,South,Telangana,Furniture,Chairs,Ergonomic Chair,5,0.15,3100.84,223.03
+ORD-10882,2024-08-07,Customer 178,Consumer,East,Odisha,Furniture,Chairs,Ergonomic Chair,8,0.05,3860.34,631.36
+ORD-10883,2024-03-06,Customer 183,Corporate,Central,Madhya Pradesh,Technology,Accessories,Mouse,5,0.2,19909.04,3034.25
+ORD-10884,2025-02-28,Customer 070,Consumer,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,7,0.15,11643.08,105.94
+ORD-10885,2025-02-21,Customer 086,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,2,0.0,3427.7,173.49
+ORD-10886,2024-12-04,Customer 027,Consumer,South,Karnataka,Office Supplies,Paper,A4 Paper,7,0.0,34296.36,1931.15
+ORD-10887,2025-07-09,Customer 073,Home Office,South,Telangana,Furniture,Tables,Conference Table,2,0.2,4307.04,542.59
+ORD-10888,2025-04-22,Customer 207,Home Office,East,Bihar,Technology,Phones,Smartphone,6,0.1,25584.66,-382.69
+ORD-10889,2025-03-01,Customer 169,Consumer,Central,Chhattisgarh,Office Supplies,Art,Markers,5,0.15,622.79,110.08
+ORD-10890,2024-03-04,Customer 182,Consumer,South,Tamil Nadu,Furniture,Bookcases,Metal Bookcase,1,0.2,3680.29,996.7
+ORD-10891,2024-07-30,Customer 071,Corporate,Central,Chhattisgarh,Furniture,Tables,Study Table,8,0.1,35514.79,3579.98
+ORD-10892,2026-05-02,Customer 163,Consumer,Central,Madhya Pradesh,Office Supplies,Art,Markers,5,0.05,9936.62,2228.67
+ORD-10893,2025-03-06,Customer 127,Consumer,North,Haryana,Technology,Phones,Smartphone,10,0.2,3050.56,69.88
+ORD-10894,2025-02-02,Customer 137,Home Office,West,Rajasthan,Furniture,Bookcases,Wooden Bookcase,8,0.2,16251.2,4538.37
+ORD-10895,2026-07-15,Customer 089,Consumer,North,Punjab,Technology,Accessories,Headphones,1,0.2,2879.5,323.53
+ORD-10896,2026-02-27,Customer 215,Consumer,Central,Madhya Pradesh,Furniture,Tables,Study Table,9,0.0,40757.49,-2158.35
+ORD-10897,2025-08-21,Customer 174,Consumer,Central,Chhattisgarh,Technology,Laptops,Business Laptop,7,0.0,6547.59,272.81
+ORD-10898,2025-12-13,Customer 146,Corporate,Central,Madhya Pradesh,Office Supplies,Storage,Storage Box,5,0.0,6986.4,1297.3
+ORD-10899,2024-01-21,Customer 002,Home Office,South,Tamil Nadu,Furniture,Bookcases,Wooden Bookcase,8,0.1,32207.18,-1909.92
+ORD-10900,2026-05-27,Customer 091,Consumer,West,Gujarat,Office Supplies,Storage,File Cabinet,1,0.2,1450.91,-18.84
+ORD-10901,2026-06-20,Customer 125,Consumer,North,Punjab,Office Supplies,Paper,A4 Paper,9,0.0,23581.44,1600.21
+ORD-10902,2026-02-22,Customer 047,Home Office,South,Telangana,Office Supplies,Paper,Notebook,7,0.05,12861.9,954.39
+ORD-10903,2025-08-12,Customer 092,Home Office,East,West Bengal,Office Supplies,Art,Pens,3,0.2,1884.91,143.68
+ORD-10904,2025-01-24,Customer 009,Consumer,South,Karnataka,Technology,Laptops,Gaming Laptop,3,0.2,4879.87,191.47
+ORD-10905,2025-05-03,Customer 183,Consumer,South,Tamil Nadu,Furniture,Tables,Study Table,7,0.1,15727.51,3270.3
+ORD-10906,2024-01-07,Customer 033,Consumer,East,Odisha,Furniture,Bookcases,Metal Bookcase,3,0.0,1913.07,392.9
+ORD-10907,2024-12-26,Customer 153,Home Office,East,Bihar,Technology,Accessories,Headphones,1,0.05,3252.53,242.9
+ORD-10908,2024-11-01,Customer 040,Home Office,North,Punjab,Office Supplies,Storage,Storage Box,8,0.1,3634.63,33.4
+ORD-10909,2026-02-10,Customer 110,Consumer,Central,Madhya Pradesh,Technology,Laptops,Gaming Laptop,5,0.0,24859.3,3974.48
+ORD-10910,2025-02-03,Customer 152,Home Office,West,Rajasthan,Technology,Accessories,Mouse,9,0.0,27849.51,7723.19
+ORD-10911,2026-05-23,Customer 110,Consumer,South,Karnataka,Technology,Phones,Feature Phone,1,0.0,1441.92,366.93
+ORD-10912,2026-07-02,Customer 060,Consumer,Central,Madhya Pradesh,Technology,Phones,Feature Phone,7,0.2,14965.22,2214.73
+ORD-10913,2026-05-05,Customer 090,Home Office,East,Odisha,Office Supplies,Paper,Notebook,1,0.05,1511.47,76.91
+ORD-10914,2025-03-05,Customer 055,Corporate,West,Maharashtra,Office Supplies,Paper,A4 Paper,1,0.2,82.1,15.44
+ORD-10915,2025-07-05,Customer 078,Consumer,West,Gujarat,Furniture,Chairs,Ergonomic Chair,3,0.1,3607.44,183.58
+ORD-10916,2026-02-04,Customer 191,Home Office,North,Haryana,Technology,Accessories,Mouse,3,0.2,4135.06,875.03
+ORD-10917,2026-01-22,Customer 034,Home Office,Central,Chhattisgarh,Technology,Accessories,Keyboard,4,0.0,11852.8,2837.44
+ORD-10918,2025-07-13,Customer 020,Home Office,Central,Madhya Pradesh,Technology,Accessories,Mouse,4,0.1,3763.22,952.77
+ORD-10919,2026-03-30,Customer 050,Corporate,Central,Chhattisgarh,Office Supplies,Art,Pens,4,0.0,10857.72,-697.37
+ORD-10920,2025-09-09,Customer 018,Corporate,Central,Chhattisgarh,Furniture,Tables,Conference Table,8,0.0,25490.72,6319.29
+ORD-10921,2026-07-08,Customer 145,Consumer,West,Rajasthan,Furniture,Chairs,Office Chair,10,0.0,14433.3,350.39
+ORD-10922,2024-08-13,Customer 200,Corporate,South,Telangana,Office Supplies,Storage,File Cabinet,3,0.15,5724.62,333.71
+ORD-10923,2025-05-14,Customer 003,Home Office,West,Rajasthan,Office Supplies,Paper,A4 Paper,1,0.0,884.01,117.72
+ORD-10924,2024-08-12,Customer 142,Consumer,West,Rajasthan,Furniture,Bookcases,Metal Bookcase,5,0.05,20316.37,3554.79
+ORD-10925,2024-10-06,Customer 072,Consumer,South,Karnataka,Technology,Accessories,Headphones,5,0.0,1457.7,377.74
+ORD-10926,2025-03-22,Customer 155,Corporate,East,West Bengal,Furniture,Chairs,Office Chair,9,0.2,4819.03,217.27
+ORD-10927,2025-05-12,Customer 015,Home Office,East,West Bengal,Furniture,Bookcases,Metal Bookcase,3,0.15,5357.24,140.16
+ORD-10928,2024-01-30,Customer 200,Home Office,North,Punjab,Technology,Accessories,Keyboard,3,0.0,4063.02,460.99
+ORD-10929,2025-02-02,Customer 053,Corporate,North,Haryana,Furniture,Bookcases,Metal Bookcase,5,0.2,17452.52,2400.82
+ORD-10930,2024-12-10,Customer 095,Consumer,South,Tamil Nadu,Office Supplies,Paper,Notebook,3,0.2,5485.61,995.44
+ORD-10931,2025-11-15,Customer 126,Home Office,West,Maharashtra,Office Supplies,Paper,Notebook,3,0.0,12289.29,-147.6
+ORD-10932,2025-11-26,Customer 049,Consumer,South,Telangana,Office Supplies,Paper,Notebook,3,0.1,11981.9,2006.39
+ORD-10933,2026-03-28,Customer 193,Consumer,South,Karnataka,Office Supplies,Paper,Notebook,7,0.15,3517.34,-107.54
+ORD-10934,2025-02-18,Customer 034,Consumer,Central,Madhya Pradesh,Office Supplies,Storage,File Cabinet,2,0.2,6640.26,1703.12
+ORD-10935,2026-01-11,Customer 028,Home Office,North,Punjab,Technology,Accessories,Mouse,1,0.0,3982.76,1054.41
+ORD-10936,2024-06-18,Customer 079,Corporate,East,Bihar,Technology,Phones,Smartphone,8,0.1,27521.21,5877.63
+ORD-10937,2026-05-10,Customer 076,Consumer,West,Maharashtra,Technology,Phones,Feature Phone,9,0.0,6327.63,-272.0
+ORD-10938,2025-04-23,Customer 168,Corporate,Central,Chhattisgarh,Technology,Phones,Smartphone,1,0.1,1089.64,-29.36
+ORD-10939,2026-07-30,Customer 073,Corporate,South,Telangana,Office Supplies,Art,Markers,8,0.0,7446.72,6.17
+ORD-10940,2024-05-10,Customer 110,Home Office,North,Haryana,Office Supplies,Paper,Notebook,2,0.15,7630.23,-195.36
+ORD-10941,2025-09-29,Customer 210,Corporate,East,Bihar,Technology,Accessories,Keyboard,3,0.2,10743.07,306.85
+ORD-10942,2025-06-30,Customer 202,Consumer,East,West Bengal,Office Supplies,Storage,Storage Box,5,0.2,16290.12,3380.62
+ORD-10943,2024-01-28,Customer 029,Home Office,South,Telangana,Technology,Laptops,Gaming Laptop,7,0.1,14419.5,3075.3
+ORD-10944,2026-07-17,Customer 091,Corporate,West,Rajasthan,Office Supplies,Paper,A4 Paper,6,0.0,29846.28,5859.21
+ORD-10945,2025-02-07,Customer 168,Consumer,West,Gujarat,Office Supplies,Art,Pens,10,0.05,37887.52,-1145.73
+ORD-10946,2025-08-29,Customer 149,Home Office,West,Gujarat,Furniture,Tables,Conference Table,9,0.0,24546.96,1435.16
+ORD-10947,2025-07-31,Customer 218,Consumer,West,Rajasthan,Furniture,Bookcases,Wooden Bookcase,2,0.0,2504.9,-17.08
+ORD-10948,2025-11-09,Customer 200,Consumer,East,Bihar,Office Supplies,Paper,A4 Paper,1,0.05,4337.39,978.3
+ORD-10949,2024-01-28,Customer 036,Consumer,East,Odisha,Technology,Accessories,Keyboard,4,0.0,4530.44,-271.32
+ORD-10950,2024-03-26,Customer 019,Corporate,South,Tamil Nadu,Furniture,Chairs,Ergonomic Chair,6,0.0,2190.06,347.32
+ORD-10951,2025-10-20,Customer 213,Corporate,Central,Madhya Pradesh,Technology,Phones,Feature Phone,3,0.0,1461.21,-110.33
+ORD-10952,2025-03-14,Customer 185,Corporate,South,Karnataka,Office Supplies,Art,Markers,9,0.05,30121.31,2688.82
+ORD-10953,2024-05-18,Customer 193,Consumer,West,Rajasthan,Furniture,Chairs,Ergonomic Chair,2,0.2,1382.16,-94.59
+ORD-10954,2026-06-06,Customer 129,Corporate,Central,Madhya Pradesh,Technology,Laptops,Business Laptop,8,0.05,21396.74,5368.32
+ORD-10955,2025-04-17,Customer 103,Home Office,South,Tamil Nadu,Technology,Laptops,Gaming Laptop,9,0.0,17550.45,3291.21
+ORD-10956,2024-07-05,Customer 212,Corporate,North,Delhi,Office Supplies,Paper,A4 Paper,8,0.2,15611.78,2358.64
+ORD-10957,2024-02-21,Customer 155,Corporate,South,Karnataka,Office Supplies,Art,Pens,4,0.0,5690.44,-295.84
+ORD-10958,2024-09-23,Customer 080,Consumer,North,Delhi,Office Supplies,Paper,A4 Paper,2,0.0,2276.72,437.92
+ORD-10959,2025-01-23,Customer 145,Corporate,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,5,0.15,2195.93,270.82
+ORD-10960,2024-12-01,Customer 129,Consumer,North,Delhi,Office Supplies,Paper,Notebook,1,0.05,4659.42,1235.43
+ORD-10961,2024-08-04,Customer 129,Consumer,East,Odisha,Furniture,Tables,Study Table,2,0.2,2757.54,279.31
+ORD-10962,2025-04-10,Customer 161,Consumer,North,Haryana,Office Supplies,Storage,File Cabinet,5,0.2,3559.96,308.71
+ORD-10963,2024-11-30,Customer 187,Home Office,South,Karnataka,Furniture,Bookcases,Wooden Bookcase,3,0.15,12667.74,1341.11
+ORD-10964,2024-12-11,Customer 183,Home Office,Central,Chhattisgarh,Office Supplies,Paper,Notebook,5,0.1,8394.98,-550.67
+ORD-10965,2026-02-18,Customer 128,Consumer,West,Maharashtra,Technology,Accessories,Mouse,2,0.15,8150.28,1189.98
+ORD-10966,2026-06-19,Customer 076,Consumer,North,Delhi,Office Supplies,Art,Markers,8,0.05,4264.82,-80.61
+ORD-10967,2025-01-23,Customer 067,Corporate,North,Punjab,Furniture,Tables,Conference Table,2,0.2,717.7,142.03
+ORD-10968,2024-10-11,Customer 103,Corporate,East,Odisha,Furniture,Chairs,Office Chair,10,0.05,23678.46,5428.08
+ORD-10969,2026-02-09,Customer 068,Home Office,Central,Madhya Pradesh,Office Supplies,Storage,Storage Box,6,0.1,2749.14,280.8
+ORD-10970,2026-05-01,Customer 041,Home Office,North,Haryana,Furniture,Chairs,Office Chair,9,0.0,1250.28,30.8
+ORD-10971,2025-03-07,Customer 210,Corporate,West,Maharashtra,Technology,Laptops,Business Laptop,2,0.1,3257.64,492.86
+ORD-10972,2024-09-15,Customer 017,Corporate,North,Delhi,Technology,Accessories,Headphones,7,0.0,27049.82,1745.99
+ORD-10973,2026-05-04,Customer 121,Consumer,East,Bihar,Office Supplies,Paper,Notebook,2,0.0,2928.08,340.33
+ORD-10974,2024-03-24,Customer 122,Consumer,South,Tamil Nadu,Furniture,Chairs,Ergonomic Chair,1,0.05,4454.22,909.74
+ORD-10975,2025-04-26,Customer 018,Corporate,North,Delhi,Technology,Accessories,Keyboard,5,0.0,6675.75,-333.17
+ORD-10976,2024-01-20,Customer 048,Consumer,West,Maharashtra,Office Supplies,Art,Pens,7,0.2,14959.9,3612.91
+ORD-10977,2026-02-06,Customer 138,Home Office,North,Punjab,Office Supplies,Storage,File Cabinet,4,0.1,6521.22,608.98
+ORD-10978,2025-07-06,Customer 186,Home Office,South,Telangana,Office Supplies,Storage,Storage Box,1,0.15,2421.18,-20.62
+ORD-10979,2024-02-23,Customer 128,Corporate,Central,Madhya Pradesh,Office Supplies,Art,Pens,1,0.1,753.73,193.09
+ORD-10980,2024-12-24,Customer 164,Home Office,North,Haryana,Office Supplies,Storage,File Cabinet,8,0.0,37778.32,5604.24
+ORD-10981,2024-08-17,Customer 056,Corporate,North,Delhi,Technology,Accessories,Headphones,7,0.0,24588.13,3352.34
+ORD-10982,2025-10-27,Customer 079,Home Office,South,Karnataka,Furniture,Bookcases,Wooden Bookcase,6,0.0,24525.12,703.87
+ORD-10983,2024-03-11,Customer 110,Home Office,North,Haryana,Office Supplies,Art,Pens,7,0.05,14037.49,3062.24
+ORD-10984,2026-03-10,Customer 112,Corporate,East,West Bengal,Technology,Laptops,Business Laptop,6,0.15,4930.63,-105.73
+ORD-10985,2025-10-29,Customer 207,Consumer,East,Bihar,Furniture,Bookcases,Metal Bookcase,5,0.0,17701.25,4926.8
+ORD-10986,2024-02-11,Customer 026,Home Office,North,Haryana,Technology,Accessories,Keyboard,2,0.15,4305.05,1092.63
+ORD-10987,2026-02-11,Customer 030,Consumer,West,Rajasthan,Furniture,Chairs,Ergonomic Chair,7,0.1,7170.47,850.21
+ORD-10988,2024-02-01,Customer 130,Corporate,West,Maharashtra,Office Supplies,Storage,Storage Box,7,0.05,912.85,184.02
+ORD-10989,2024-09-10,Customer 007,Consumer,East,Bihar,Office Supplies,Storage,Storage Box,4,0.1,433.33,-29.57
+ORD-10990,2024-07-23,Customer 062,Home Office,East,Bihar,Furniture,Bookcases,Metal Bookcase,6,0.15,4768.55,1322.88
+ORD-10991,2026-05-09,Customer 163,Corporate,West,Maharashtra,Furniture,Bookcases,Metal Bookcase,1,0.15,3422.55,254.9
+ORD-10992,2024-01-21,Customer 130,Consumer,South,Tamil Nadu,Office Supplies,Art,Markers,7,0.2,6897.8,1437.65
+ORD-10993,2025-09-28,Customer 003,Home Office,Central,Chhattisgarh,Furniture,Tables,Study Table,6,0.0,6590.64,-466.42
+ORD-10994,2024-06-05,Customer 007,Home Office,Central,Madhya Pradesh,Technology,Accessories,Mouse,9,0.0,41498.19,5222.37
+ORD-10995,2024-09-01,Customer 138,Consumer,South,Tamil Nadu,Furniture,Bookcases,Metal Bookcase,3,0.0,3823.92,102.83
+ORD-10996,2024-05-09,Customer 149,Consumer,West,Gujarat,Furniture,Chairs,Ergonomic Chair,2,0.2,7490.21,-536.82
+ORD-10997,2025-04-29,Customer 127,Corporate,North,Punjab,Furniture,Chairs,Office Chair,3,0.0,4452.21,-207.47
+ORD-10998,2025-11-16,Customer 176,Corporate,South,Tamil Nadu,Technology,Laptops,Gaming Laptop,7,0.2,2578.91,-135.46
+ORD-10999,2024-04-27,Customer 162,Home Office,West,Gujarat,Furniture,Tables,Study Table,3,0.0,4691.7,738.85
+ORD-11000,2025-07-31,Customer 190,Corporate,North,Delhi,Office Supplies,Storage,Storage Box,10,0.0,30399.7,-698.59
+ORD-11001,2024-08-11,Customer 094,Consumer,North,Delhi,Furniture,Chairs,Office Chair,9,0.0,23467.95,-49.98
+ORD-11002,2025-04-21,Customer 124,Consumer,South,Karnataka,Office Supplies,Paper,A4 Paper,2,0.0,7331.9,119.75
+ORD-11003,2025-12-17,Customer 103,Consumer,North,Punjab,Furniture,Bookcases,Metal Bookcase,8,0.1,27010.44,2079.33
+ORD-11004,2024-09-19,Customer 197,Home Office,East,West Bengal,Technology,Accessories,Mouse,5,0.0,24065.85,3131.29
+ORD-11005,2026-02-24,Customer 070,Corporate,East,West Bengal,Technology,Accessories,Keyboard,7,0.1,27883.8,3755.35
+ORD-11006,2025-01-12,Customer 210,Consumer,Central,Madhya Pradesh,Furniture,Tables,Conference Table,4,0.05,10940.2,2661.12
+ORD-11007,2024-06-20,Customer 166,Home Office,West,Maharashtra,Technology,Accessories,Keyboard,10,0.15,17918.51,3899.2
+ORD-11008,2025-09-12,Customer 019,Consumer,East,Odisha,Technology,Phones,Smartphone,6,0.0,13224.0,645.17
+ORD-11009,2025-09-13,Customer 055,Corporate,East,Odisha,Technology,Laptops,Gaming Laptop,1,0.0,1661.09,295.76
+ORD-11010,2026-02-04,Customer 027,Home Office,Central,Chhattisgarh,Technology,Accessories,Headphones,7,0.0,10427.97,1145.14
+ORD-11011,2026-01-05,Customer 112,Corporate,East,Bihar,Furniture,Bookcases,Wooden Bookcase,10,0.1,40266.45,6666.82
+ORD-11012,2024-04-27,Customer 032,Corporate,East,West Bengal,Technology,Phones,Feature Phone,8,0.05,2502.53,179.29
+ORD-11013,2026-03-07,Customer 201,Home Office,South,Telangana,Office Supplies,Art,Pens,4,0.05,11112.83,-817.67
+ORD-11014,2026-04-18,Customer 166,Consumer,North,Punjab,Office Supplies,Paper,Notebook,1,0.15,3816.13,-251.55
+ORD-11015,2024-06-16,Customer 143,Corporate,North,Punjab,Technology,Laptops,Business Laptop,5,0.05,7857.59,503.86
+ORD-11016,2024-11-14,Customer 032,Corporate,West,Rajasthan,Technology,Laptops,Business Laptop,8,0.2,16111.04,4320.58
+ORD-11017,2024-04-20,Customer 186,Corporate,Central,Madhya Pradesh,Technology,Phones,Smartphone,1,0.05,740.81,170.46
+ORD-11018,2025-08-15,Customer 067,Consumer,South,Karnataka,Technology,Phones,Feature Phone,9,0.2,35631.86,8283.89
+ORD-11019,2024-01-27,Customer 044,Consumer,North,Delhi,Office Supplies,Paper,Notebook,6,0.1,18742.43,321.78
+ORD-11020,2026-08-09,Customer 172,Consumer,Central,Chhattisgarh,Technology,Phones,Feature Phone,3,0.1,10232.65,1527.58
+ORD-11021,2024-11-15,Customer 024,Corporate,Central,Madhya Pradesh,Furniture,Tables,Conference Table,5,0.2,6709.48,629.18
+ORD-11022,2025-08-12,Customer 016,Consumer,East,Bihar,Technology,Laptops,Gaming Laptop,4,0.0,14021.32,3783.45
+ORD-11023,2025-11-24,Customer 152,Home Office,North,Haryana,Technology,Laptops,Business Laptop,4,0.05,9459.95,-46.18
+ORD-11024,2026-07-18,Customer 057,Corporate,Central,Chhattisgarh,Office Supplies,Art,Pens,3,0.0,12762.75,3179.01
+ORD-11025,2025-01-19,Customer 176,Corporate,West,Gujarat,Furniture,Bookcases,Wooden Bookcase,7,0.05,6789.45,490.97
+ORD-11026,2025-02-10,Customer 008,Corporate,Central,Madhya Pradesh,Technology,Laptops,Gaming Laptop,2,0.1,2301.77,-29.16
+ORD-11027,2026-01-02,Customer 102,Home Office,Central,Chhattisgarh,Office Supplies,Storage,File Cabinet,9,0.1,4146.63,-15.16
+ORD-11028,2024-07-22,Customer 188,Corporate,West,Rajasthan,Office Supplies,Paper,Notebook,5,0.0,9559.65,1467.44
+ORD-11029,2024-03-18,Customer 111,Consumer,South,Tamil Nadu,Technology,Laptops,Gaming Laptop,10,0.15,12342.34,1205.87
+ORD-11030,2025-08-29,Customer 062,Consumer,North,Haryana,Technology,Phones,Smartphone,2,0.0,720.76,91.6
+ORD-11031,2025-12-08,Customer 178,Corporate,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,7,0.0,14175.98,2611.4
+ORD-11032,2026-04-30,Customer 025,Consumer,West,Maharashtra,Technology,Phones,Feature Phone,5,0.05,16903.73,3113.63
+ORD-11033,2025-10-04,Customer 086,Corporate,Central,Chhattisgarh,Furniture,Tables,Study Table,3,0.0,4932.15,-98.68
+ORD-11034,2024-09-05,Customer 044,Home Office,South,Karnataka,Furniture,Tables,Conference Table,6,0.05,1151.69,273.24
+ORD-11035,2024-04-14,Customer 210,Consumer,North,Haryana,Office Supplies,Storage,File Cabinet,8,0.1,31527.14,-1280.67
+ORD-11036,2025-12-14,Customer 206,Home Office,Central,Chhattisgarh,Technology,Accessories,Mouse,3,0.0,11398.38,-501.56
+ORD-11037,2026-03-02,Customer 118,Consumer,East,Odisha,Office Supplies,Art,Pens,9,0.1,11023.78,124.27
+ORD-11038,2024-11-04,Customer 006,Consumer,East,Odisha,Furniture,Tables,Conference Table,2,0.15,2418.57,440.56
+ORD-11039,2026-05-20,Customer 111,Corporate,West,Maharashtra,Furniture,Chairs,Ergonomic Chair,8,0.15,1709.72,319.31
+ORD-11040,2025-12-01,Customer 116,Home Office,South,Telangana,Technology,Phones,Feature Phone,2,0.2,7729.15,1270.43
+ORD-11041,2025-09-06,Customer 011,Home Office,South,Tamil Nadu,Furniture,Tables,Conference Table,7,0.05,19862.35,622.81
+ORD-11042,2026-04-04,Customer 003,Corporate,Central,Chhattisgarh,Furniture,Chairs,Ergonomic Chair,8,0.05,21862.54,520.92
+ORD-11043,2024-05-03,Customer 074,Consumer,South,Tamil Nadu,Furniture,Chairs,Ergonomic Chair,10,0.0,28348.9,830.97
+ORD-11044,2026-03-26,Customer 079,Consumer,East,West Bengal,Office Supplies,Paper,A4 Paper,5,0.0,20724.05,-1261.07
+ORD-11045,2025-08-02,Customer 129,Home Office,West,Gujarat,Furniture,Chairs,Office Chair,5,0.05,3680.39,746.0
+ORD-11046,2026-03-12,Customer 021,Corporate,Central,Madhya Pradesh,Technology,Accessories,Keyboard,3,0.0,14939.94,1128.54
+ORD-11047,2024-02-12,Customer 078,Home Office,South,Karnataka,Office Supplies,Storage,File Cabinet,7,0.0,15193.92,3669.21
+ORD-11048,2024-12-21,Customer 107,Home Office,East,West Bengal,Furniture,Tables,Conference Table,10,0.0,7819.6,78.25
+ORD-11049,2025-06-29,Customer 097,Corporate,South,Tamil Nadu,Office Supplies,Paper,Notebook,10,0.1,41785.92,4868.02
+ORD-11050,2025-03-14,Customer 091,Corporate,North,Delhi,Furniture,Tables,Conference Table,9,0.2,33702.55,1642.03
+ORD-11051,2025-11-08,Customer 036,Home Office,West,Gujarat,Office Supplies,Storage,File Cabinet,9,0.1,1858.71,-89.53
+ORD-11052,2025-01-14,Customer 014,Corporate,East,West Bengal,Furniture,Bookcases,Metal Bookcase,3,0.15,8013.02,1891.15
+ORD-11053,2024-03-11,Customer 070,Home Office,South,Tamil Nadu,Furniture,Chairs,Ergonomic Chair,9,0.0,21195.72,-1049.67
+ORD-11054,2025-06-02,Customer 032,Home Office,North,Punjab,Furniture,Chairs,Ergonomic Chair,10,0.05,23362.31,5400.27
+ORD-11055,2025-10-25,Customer 173,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,9,0.1,30197.45,-932.95
+ORD-11056,2024-12-15,Customer 001,Consumer,South,Tamil Nadu,Furniture,Tables,Study Table,8,0.0,25247.6,-977.2
+ORD-11057,2024-01-13,Customer 114,Corporate,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,4,0.0,2430.68,534.22
+ORD-11058,2026-05-19,Customer 157,Home Office,North,Delhi,Office Supplies,Storage,Storage Box,3,0.15,10504.29,143.89
+ORD-11059,2025-03-06,Customer 191,Home Office,West,Rajasthan,Furniture,Chairs,Ergonomic Chair,3,0.0,9652.11,-279.84
+ORD-11060,2026-04-22,Customer 151,Corporate,South,Karnataka,Furniture,Bookcases,Wooden Bookcase,8,0.05,18652.6,2990.25
+ORD-11061,2025-05-16,Customer 073,Corporate,East,Bihar,Office Supplies,Storage,Storage Box,2,0.1,4272.16,-113.9
+ORD-11062,2024-04-18,Customer 011,Corporate,North,Haryana,Office Supplies,Paper,Notebook,1,0.2,2608.82,373.47
+ORD-11063,2025-03-19,Customer 129,Consumer,South,Tamil Nadu,Furniture,Tables,Conference Table,1,0.05,4665.06,467.58
+ORD-11064,2025-01-05,Customer 145,Corporate,East,Bihar,Furniture,Tables,Study Table,3,0.05,9444.9,1474.69
+ORD-11065,2025-10-12,Customer 121,Home Office,West,Rajasthan,Technology,Laptops,Business Laptop,7,0.2,2431.69,228.94
+ORD-11066,2026-07-01,Customer 090,Home Office,South,Telangana,Furniture,Bookcases,Metal Bookcase,3,0.15,8973.63,2367.87
+ORD-11067,2026-04-28,Customer 174,Corporate,Central,Chhattisgarh,Technology,Phones,Smartphone,3,0.2,2964.84,-123.81
+ORD-11068,2025-04-15,Customer 108,Consumer,East,West Bengal,Furniture,Chairs,Office Chair,3,0.1,9903.6,1902.41
+ORD-11069,2025-12-25,Customer 216,Consumer,North,Haryana,Office Supplies,Paper,A4 Paper,2,0.05,4300.63,595.0
+ORD-11070,2024-06-05,Customer 052,Consumer,South,Tamil Nadu,Technology,Accessories,Keyboard,7,0.2,4215.46,533.51
+ORD-11071,2025-03-21,Customer 136,Consumer,East,Odisha,Office Supplies,Art,Pens,4,0.0,4343.36,331.24
+ORD-11072,2024-06-29,Customer 093,Corporate,North,Haryana,Technology,Accessories,Mouse,2,0.0,2194.68,530.2
+ORD-11073,2026-01-21,Customer 129,Corporate,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,4,0.15,14207.82,3096.27
+ORD-11074,2025-06-18,Customer 146,Consumer,East,Bihar,Furniture,Chairs,Office Chair,8,0.1,15802.63,3707.8
+ORD-11075,2025-10-28,Customer 006,Consumer,South,Telangana,Office Supplies,Paper,A4 Paper,8,0.15,8362.71,958.31
+ORD-11076,2024-10-03,Customer 020,Home Office,East,Odisha,Office Supplies,Art,Pens,2,0.0,8749.94,2349.55
+ORD-11077,2025-09-22,Customer 029,Home Office,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,7,0.15,18631.59,3187.99
+ORD-11078,2026-04-07,Customer 196,Consumer,West,Gujarat,Furniture,Chairs,Office Chair,6,0.0,12989.34,525.22
+ORD-11079,2026-07-30,Customer 145,Home Office,South,Karnataka,Furniture,Bookcases,Metal Bookcase,1,0.0,1254.52,263.5
+ORD-11080,2025-07-05,Customer 011,Consumer,North,Punjab,Technology,Laptops,Gaming Laptop,9,0.0,22013.82,382.67
+ORD-11081,2026-03-04,Customer 015,Consumer,North,Punjab,Furniture,Chairs,Ergonomic Chair,7,0.0,17081.4,-1234.65
+ORD-11082,2025-05-10,Customer 179,Consumer,South,Telangana,Furniture,Tables,Study Table,9,0.1,19947.47,3902.63
+ORD-11083,2025-04-21,Customer 095,Corporate,West,Rajasthan,Office Supplies,Art,Markers,2,0.15,3818.15,1045.08
+ORD-11084,2025-03-22,Customer 192,Home Office,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,4,0.0,2203.0,3.89
+ORD-11085,2026-04-25,Customer 073,Consumer,Central,Madhya Pradesh,Technology,Accessories,Headphones,1,0.0,475.4,37.02
+ORD-11086,2026-01-18,Customer 032,Home Office,East,Odisha,Furniture,Bookcases,Wooden Bookcase,5,0.1,3310.25,305.64
+ORD-11087,2025-08-29,Customer 220,Consumer,North,Delhi,Office Supplies,Art,Markers,8,0.05,27023.7,6570.83
+ORD-11088,2024-10-01,Customer 139,Home Office,West,Rajasthan,Office Supplies,Storage,Storage Box,4,0.05,10189.85,354.5
+ORD-11089,2024-11-26,Customer 134,Consumer,North,Delhi,Office Supplies,Storage,Storage Box,5,0.0,2421.95,539.88
+ORD-11090,2026-05-22,Customer 061,Home Office,East,Bihar,Furniture,Chairs,Office Chair,6,0.0,21912.36,-1470.05
+ORD-11091,2024-09-08,Customer 099,Corporate,West,Rajasthan,Office Supplies,Paper,A4 Paper,8,0.05,31904.72,640.27
+ORD-11092,2026-04-30,Customer 012,Consumer,North,Delhi,Office Supplies,Art,Pens,8,0.1,1384.99,80.99
+ORD-11093,2026-08-15,Customer 196,Corporate,South,Tamil Nadu,Technology,Accessories,Keyboard,9,0.05,3044.4,-209.24
+ORD-11094,2024-03-29,Customer 110,Home Office,North,Haryana,Office Supplies,Storage,File Cabinet,1,0.15,1505.04,114.79
+ORD-11095,2024-10-12,Customer 197,Home Office,North,Delhi,Furniture,Tables,Conference Table,9,0.15,18139.37,3245.48
+ORD-11096,2026-06-21,Customer 071,Consumer,East,West Bengal,Office Supplies,Storage,File Cabinet,3,0.05,12961.2,2694.01
+ORD-11097,2025-04-06,Customer 065,Home Office,South,Telangana,Office Supplies,Storage,Storage Box,1,0.05,2960.37,49.58
+ORD-11098,2024-09-06,Customer 113,Consumer,Central,Madhya Pradesh,Technology,Laptops,Business Laptop,5,0.1,19139.4,1657.1
+ORD-11099,2026-02-07,Customer 157,Home Office,West,Maharashtra,Office Supplies,Storage,File Cabinet,7,0.0,2709.49,52.89
+ORD-11100,2025-04-20,Customer 162,Consumer,East,West Bengal,Office Supplies,Paper,Notebook,5,0.1,6172.88,-211.11
+ORD-11101,2025-08-06,Customer 113,Home Office,South,Telangana,Furniture,Chairs,Office Chair,2,0.0,6615.08,1100.74
+ORD-11102,2025-09-16,Customer 005,Home Office,East,West Bengal,Furniture,Bookcases,Wooden Bookcase,1,0.05,4525.18,1226.78
+ORD-11103,2025-11-15,Customer 131,Consumer,East,Bihar,Furniture,Chairs,Office Chair,6,0.15,3237.99,258.3
+ORD-11104,2025-01-23,Customer 037,Consumer,South,Karnataka,Office Supplies,Art,Pens,7,0.1,2833.93,666.84
+ORD-11105,2024-12-10,Customer 042,Corporate,East,Bihar,Office Supplies,Storage,Storage Box,6,0.05,13716.25,1973.63
+ORD-11106,2024-01-30,Customer 200,Home Office,North,Punjab,Technology,Accessories,Headphones,2,0.05,5860.15,608.79
+ORD-11107,2025-05-21,Customer 020,Consumer,Central,Chhattisgarh,Technology,Laptops,Gaming Laptop,3,0.2,4721.62,-244.39
+ORD-11108,2026-05-21,Customer 135,Home Office,Central,Chhattisgarh,Furniture,Bookcases,Wooden Bookcase,9,0.15,30685.76,2762.9
+ORD-11109,2024-11-28,Customer 081,Home Office,West,Gujarat,Office Supplies,Paper,Notebook,4,0.05,6500.09,20.28
+ORD-11110,2024-07-05,Customer 093,Home Office,North,Haryana,Technology,Laptops,Business Laptop,6,0.15,2501.45,255.23
+ORD-11111,2025-05-14,Customer 063,Corporate,West,Rajasthan,Technology,Laptops,Business Laptop,4,0.0,11559.12,2927.44
+ORD-11112,2024-08-05,Customer 130,Consumer,Central,Madhya Pradesh,Furniture,Tables,Conference Table,6,0.0,9827.04,659.01
+ORD-11113,2024-12-29,Customer 196,Home Office,Central,Chhattisgarh,Furniture,Chairs,Office Chair,8,0.0,1408.08,99.56
+ORD-11114,2026-03-27,Customer 034,Home Office,West,Rajasthan,Technology,Phones,Smartphone,7,0.0,1520.82,420.32
+ORD-11115,2024-09-21,Customer 031,Corporate,Central,Chhattisgarh,Office Supplies,Storage,File Cabinet,7,0.0,24604.65,4338.15
+ORD-11116,2024-12-14,Customer 105,Home Office,East,Bihar,Furniture,Bookcases,Wooden Bookcase,1,0.05,438.32,114.83
+ORD-11117,2024-10-13,Customer 210,Home Office,West,Rajasthan,Office Supplies,Storage,Storage Box,3,0.2,8865.29,1735.33
+ORD-11118,2026-06-20,Customer 113,Consumer,North,Delhi,Technology,Accessories,Mouse,6,0.1,18371.56,1039.37
+ORD-11119,2025-09-02,Customer 135,Home Office,Central,Chhattisgarh,Technology,Phones,Feature Phone,8,0.15,12046.0,1281.26
+ORD-11120,2025-12-19,Customer 189,Home Office,Central,Chhattisgarh,Office Supplies,Storage,Storage Box,6,0.0,22864.62,-1484.0
+ORD-11121,2026-06-20,Customer 071,Corporate,South,Tamil Nadu,Furniture,Tables,Conference Table,2,0.0,3603.98,-134.51
+ORD-11122,2024-10-09,Customer 037,Consumer,West,Maharashtra,Technology,Laptops,Business Laptop,10,0.0,37920.0,6064.02
+ORD-11123,2025-07-23,Customer 050,Consumer,South,Telangana,Furniture,Chairs,Office Chair,10,0.15,38440.82,4368.79
+ORD-11124,2024-01-11,Customer 213,Corporate,West,Maharashtra,Office Supplies,Paper,Notebook,10,0.1,19708.74,2119.12
+ORD-11125,2025-06-13,Customer 036,Corporate,East,West Bengal,Furniture,Bookcases,Wooden Bookcase,8,0.1,32079.67,471.58
+ORD-11126,2024-07-14,Customer 117,Home Office,North,Punjab,Technology,Accessories,Headphones,2,0.15,2894.88,117.88
+ORD-11127,2024-03-28,Customer 082,Consumer,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,1,0.2,1778.84,366.28
+ORD-11128,2024-09-04,Customer 057,Home Office,Central,Madhya Pradesh,Furniture,Bookcases,Wooden Bookcase,4,0.1,2774.48,649.12
+ORD-11129,2026-01-07,Customer 163,Consumer,South,Tamil Nadu,Office Supplies,Paper,Notebook,3,0.05,10529.18,-342.78
+ORD-11130,2025-02-20,Customer 010,Corporate,Central,Madhya Pradesh,Technology,Laptops,Gaming Laptop,8,0.0,22663.28,3979.59
+ORD-11131,2025-05-15,Customer 077,Consumer,East,Bihar,Office Supplies,Art,Markers,6,0.2,11869.15,3128.24
+ORD-11132,2025-07-22,Customer 057,Consumer,East,Bihar,Office Supplies,Storage,Storage Box,10,0.1,16649.37,438.71
+ORD-11133,2026-02-15,Customer 170,Consumer,East,Odisha,Office Supplies,Storage,File Cabinet,7,0.1,4205.31,1111.35
+ORD-11134,2024-09-03,Customer 176,Consumer,East,Bihar,Office Supplies,Art,Markers,8,0.1,30359.45,4140.46
+ORD-11135,2025-12-08,Customer 082,Corporate,North,Punjab,Office Supplies,Art,Markers,7,0.05,2646.3,37.52
+ORD-11136,2025-05-02,Customer 163,Consumer,West,Gujarat,Office Supplies,Storage,Storage Box,1,0.2,1131.8,-1.33
+ORD-11137,2025-10-23,Customer 158,Home Office,East,Odisha,Office Supplies,Paper,A4 Paper,9,0.2,7994.74,-322.08
+ORD-11138,2025-12-29,Customer 086,Corporate,East,West Bengal,Furniture,Bookcases,Wooden Bookcase,1,0.0,4031.82,810.22
+ORD-11139,2025-05-17,Customer 102,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,6,0.0,16342.92,3623.78
+ORD-11140,2025-04-03,Customer 004,Consumer,South,Tamil Nadu,Technology,Laptops,Business Laptop,7,0.2,6476.46,61.74
+ORD-11141,2026-03-22,Customer 059,Home Office,North,Haryana,Technology,Accessories,Keyboard,8,0.05,2334.72,66.6
+ORD-11142,2024-01-18,Customer 070,Consumer,South,Karnataka,Office Supplies,Art,Markers,7,0.0,23175.95,4973.25
+ORD-11143,2024-04-05,Customer 039,Consumer,North,Delhi,Furniture,Bookcases,Metal Bookcase,1,0.15,146.4,20.17
+ORD-11144,2024-10-28,Customer 071,Corporate,Central,Chhattisgarh,Technology,Accessories,Keyboard,6,0.2,10479.6,-749.97
+ORD-11145,2024-08-14,Customer 105,Home Office,South,Karnataka,Office Supplies,Art,Pens,7,0.0,10689.49,0.12
+ORD-11146,2025-02-18,Customer 096,Home Office,East,Odisha,Office Supplies,Art,Markers,7,0.1,1161.34,211.27
+ORD-11147,2025-12-09,Customer 145,Consumer,North,Punjab,Technology,Accessories,Headphones,7,0.1,24437.13,1298.49
+ORD-11148,2024-09-06,Customer 126,Home Office,East,Odisha,Technology,Accessories,Headphones,2,0.0,5696.68,1317.86
+ORD-11149,2024-11-09,Customer 016,Corporate,South,Karnataka,Technology,Laptops,Business Laptop,9,0.15,27867.88,5401.06
+ORD-11150,2025-11-10,Customer 105,Consumer,East,Odisha,Office Supplies,Art,Pens,3,0.2,669.36,82.67
+ORD-11151,2025-08-18,Customer 119,Home Office,East,Bihar,Technology,Accessories,Keyboard,9,0.2,18353.52,89.31
+ORD-11152,2025-01-12,Customer 194,Consumer,West,Rajasthan,Furniture,Bookcases,Wooden Bookcase,2,0.0,4371.88,241.53
+ORD-11153,2025-04-29,Customer 109,Corporate,South,Telangana,Furniture,Chairs,Office Chair,4,0.0,8977.0,-591.92
+ORD-11154,2025-07-20,Customer 112,Corporate,South,Telangana,Furniture,Tables,Study Table,9,0.0,19340.28,518.91
+ORD-11155,2025-06-27,Customer 176,Consumer,East,Bihar,Office Supplies,Art,Pens,10,0.0,32860.8,804.13
+ORD-11156,2024-12-18,Customer 185,Consumer,Central,Chhattisgarh,Furniture,Bookcases,Metal Bookcase,8,0.05,17997.64,4566.88
+ORD-11157,2025-03-11,Customer 002,Corporate,South,Telangana,Furniture,Tables,Study Table,6,0.0,12839.28,1147.54
+ORD-11158,2026-02-02,Customer 041,Consumer,South,Karnataka,Furniture,Chairs,Ergonomic Chair,6,0.15,2876.91,255.27
+ORD-11159,2025-07-17,Customer 110,Home Office,East,Bihar,Furniture,Chairs,Ergonomic Chair,1,0.05,4414.28,98.47
+ORD-11160,2024-12-04,Customer 152,Consumer,East,Odisha,Furniture,Tables,Conference Table,9,0.2,19807.06,-140.0
+ORD-11161,2024-12-26,Customer 151,Home Office,North,Haryana,Technology,Laptops,Gaming Laptop,5,0.0,14309.65,2960.36
+ORD-11162,2025-12-20,Customer 001,Consumer,West,Gujarat,Furniture,Bookcases,Metal Bookcase,10,0.1,30380.67,-141.26
+ORD-11163,2025-04-09,Customer 014,Consumer,South,Karnataka,Furniture,Chairs,Office Chair,3,0.0,7289.31,265.34
+ORD-11164,2024-10-04,Customer 101,Corporate,Central,Chhattisgarh,Office Supplies,Art,Pens,6,0.0,9495.24,63.41
+ORD-11165,2024-11-09,Customer 216,Consumer,West,Rajasthan,Office Supplies,Storage,Storage Box,9,0.0,14878.44,3540.81
+ORD-11166,2024-09-14,Customer 065,Home Office,South,Telangana,Office Supplies,Art,Markers,7,0.1,17932.19,3052.7
+ORD-11167,2024-08-24,Customer 198,Home Office,North,Haryana,Office Supplies,Art,Pens,3,0.05,638.26,145.48
+ORD-11168,2024-05-03,Customer 051,Corporate,East,Bihar,Office Supplies,Paper,A4 Paper,7,0.2,10828.22,3014.12
+ORD-11169,2026-01-08,Customer 129,Consumer,East,Bihar,Technology,Phones,Feature Phone,6,0.05,3198.44,798.62
+ORD-11170,2024-07-16,Customer 071,Home Office,Central,Chhattisgarh,Technology,Accessories,Keyboard,8,0.2,13130.5,2278.6
+ORD-11171,2024-11-19,Customer 192,Home Office,North,Haryana,Technology,Accessories,Keyboard,10,0.1,28781.82,-502.03
+ORD-11172,2024-05-02,Customer 046,Consumer,Central,Madhya Pradesh,Technology,Laptops,Gaming Laptop,10,0.0,44819.0,7799.86
+ORD-11173,2026-01-30,Customer 219,Consumer,North,Punjab,Technology,Phones,Feature Phone,1,0.15,1393.8,27.73
+ORD-11174,2025-07-02,Customer 094,Home Office,Central,Madhya Pradesh,Office Supplies,Art,Pens,3,0.15,11572.03,2082.6
+ORD-11175,2026-02-19,Customer 069,Consumer,North,Haryana,Office Supplies,Storage,File Cabinet,2,0.15,1777.2,-47.8
+ORD-11176,2025-12-07,Customer 215,Consumer,South,Tamil Nadu,Technology,Laptops,Gaming Laptop,9,0.2,15158.38,2862.78
+ORD-11177,2024-07-08,Customer 119,Consumer,East,Odisha,Furniture,Tables,Study Table,6,0.2,11446.27,-560.93
+ORD-11178,2024-07-15,Customer 197,Consumer,North,Delhi,Technology,Accessories,Headphones,3,0.2,3973.82,1063.69
+ORD-11179,2024-08-09,Customer 175,Home Office,North,Delhi,Furniture,Tables,Conference Table,2,0.0,8796.54,270.95
+ORD-11180,2026-01-26,Customer 036,Home Office,South,Telangana,Furniture,Chairs,Ergonomic Chair,1,0.05,1860.69,-29.62
+ORD-11181,2025-05-10,Customer 113,Corporate,East,Odisha,Technology,Phones,Feature Phone,4,0.05,3677.83,49.16
+ORD-11182,2024-10-10,Customer 162,Home Office,North,Punjab,Office Supplies,Art,Pens,6,0.15,19811.56,1622.22
+ORD-11183,2026-01-11,Customer 166,Home Office,South,Karnataka,Furniture,Tables,Study Table,9,0.2,20784.17,1583.49
+ORD-11184,2025-08-26,Customer 120,Corporate,East,West Bengal,Office Supplies,Art,Pens,2,0.0,5230.08,67.77
+ORD-11185,2026-02-17,Customer 145,Corporate,North,Delhi,Furniture,Bookcases,Wooden Bookcase,8,0.15,5338.61,193.67
+ORD-11186,2025-06-21,Customer 122,Corporate,Central,Madhya Pradesh,Office Supplies,Art,Markers,6,0.0,26158.26,-597.71
+ORD-11187,2025-09-03,Customer 006,Corporate,East,Bihar,Technology,Phones,Feature Phone,5,0.15,3814.16,-49.52
+ORD-11188,2024-10-16,Customer 096,Home Office,Central,Chhattisgarh,Furniture,Bookcases,Metal Bookcase,7,0.0,16943.5,185.14
+ORD-11189,2024-04-12,Customer 130,Consumer,East,Odisha,Furniture,Tables,Conference Table,1,0.0,4856.75,945.81
+ORD-11190,2026-05-02,Customer 077,Home Office,West,Gujarat,Office Supplies,Art,Pens,10,0.15,2039.32,-40.99
+ORD-11191,2024-07-17,Customer 080,Consumer,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,6,0.0,23783.94,6405.42
+ORD-11192,2024-10-30,Customer 078,Corporate,East,Odisha,Office Supplies,Paper,Notebook,1,0.0,3327.18,791.42
+ORD-11193,2024-08-20,Customer 217,Corporate,North,Delhi,Technology,Phones,Feature Phone,2,0.0,7296.52,1214.85
+ORD-11194,2025-01-04,Customer 121,Home Office,North,Punjab,Technology,Laptops,Gaming Laptop,8,0.1,20117.95,3451.45
+ORD-11195,2024-07-02,Customer 084,Corporate,West,Gujarat,Furniture,Chairs,Office Chair,7,0.0,5107.62,326.67
+ORD-11196,2024-11-05,Customer 007,Consumer,West,Rajasthan,Office Supplies,Art,Markers,6,0.2,11965.06,3221.97
+ORD-11197,2024-01-15,Customer 193,Corporate,Central,Madhya Pradesh,Technology,Laptops,Business Laptop,6,0.0,15342.78,2144.98
+ORD-11198,2025-12-26,Customer 087,Corporate,North,Haryana,Technology,Phones,Feature Phone,4,0.05,1203.88,92.39
+ORD-11199,2025-06-30,Customer 108,Consumer,South,Tamil Nadu,Technology,Laptops,Business Laptop,7,0.1,21475.69,-1448.8
+ORD-11200,2024-05-09,Customer 026,Home Office,South,Tamil Nadu,Furniture,Bookcases,Wooden Bookcase,8,0.05,30783.95,5140.42
+ORD-11201,2024-10-07,Customer 125,Home Office,West,Maharashtra,Technology,Laptops,Gaming Laptop,10,0.2,20673.28,1730.13
+ORD-11202,2024-02-16,Customer 206,Corporate,West,Gujarat,Technology,Laptops,Business Laptop,5,0.0,18680.6,2565.01
+ORD-11203,2024-02-25,Customer 109,Home Office,Central,Chhattisgarh,Office Supplies,Art,Pens,9,0.0,43755.03,8872.56
+ORD-11204,2025-07-20,Customer 051,Home Office,West,Rajasthan,Technology,Phones,Smartphone,6,0.2,22781.71,3017.55
+ORD-11205,2024-10-26,Customer 013,Home Office,Central,Chhattisgarh,Office Supplies,Paper,Notebook,5,0.1,1328.58,113.85
+ORD-11206,2025-12-15,Customer 107,Consumer,East,Odisha,Office Supplies,Storage,Storage Box,1,0.0,2759.47,70.55
+ORD-11207,2024-05-09,Customer 190,Corporate,West,Gujarat,Office Supplies,Art,Markers,10,0.2,5178.0,-345.99
+ORD-11208,2025-10-15,Customer 071,Corporate,South,Karnataka,Technology,Accessories,Headphones,3,0.2,8787.02,857.98
+ORD-11209,2026-06-08,Customer 156,Home Office,West,Rajasthan,Furniture,Chairs,Ergonomic Chair,1,0.05,451.28,-29.88
+ORD-11210,2026-02-09,Customer 103,Consumer,North,Punjab,Furniture,Bookcases,Wooden Bookcase,6,0.2,22293.41,640.15
+ORD-11211,2025-05-17,Customer 078,Home Office,South,Telangana,Office Supplies,Art,Markers,7,0.0,33804.96,4243.27
+ORD-11212,2024-04-15,Customer 177,Consumer,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,10,0.1,21755.7,411.69
+ORD-11213,2026-06-12,Customer 054,Consumer,East,Bihar,Furniture,Chairs,Ergonomic Chair,3,0.05,9756.18,-762.75
+ORD-11214,2024-01-13,Customer 057,Consumer,West,Rajasthan,Technology,Laptops,Business Laptop,8,0.2,19427.14,670.96
+ORD-11215,2025-08-10,Customer 118,Home Office,North,Haryana,Office Supplies,Paper,A4 Paper,10,0.2,12082.96,1683.81
+ORD-11216,2024-10-18,Customer 082,Corporate,West,Rajasthan,Furniture,Tables,Conference Table,8,0.0,37251.04,1619.01
+ORD-11217,2025-04-25,Customer 066,Corporate,West,Maharashtra,Office Supplies,Art,Pens,4,0.0,10831.92,1757.75
+ORD-11218,2025-05-05,Customer 136,Corporate,North,Haryana,Furniture,Chairs,Ergonomic Chair,9,0.0,44336.16,-234.16
+ORD-11219,2025-03-27,Customer 091,Home Office,East,Odisha,Office Supplies,Storage,Storage Box,1,0.15,734.32,-14.67
+ORD-11220,2024-12-14,Customer 156,Consumer,West,Gujarat,Technology,Laptops,Business Laptop,4,0.15,6592.23,-214.83
+ORD-11221,2024-07-07,Customer 189,Corporate,North,Punjab,Technology,Phones,Smartphone,10,0.0,15178.1,2976.04
+ORD-11222,2024-02-22,Customer 171,Home Office,Central,Chhattisgarh,Office Supplies,Paper,Notebook,10,0.05,13931.84,2046.58
+ORD-11223,2024-09-15,Customer 074,Corporate,East,Bihar,Furniture,Bookcases,Metal Bookcase,4,0.1,15513.77,2985.75
+ORD-11224,2026-06-01,Customer 175,Consumer,South,Karnataka,Office Supplies,Storage,File Cabinet,9,0.1,33747.35,5272.3
+ORD-11225,2025-05-04,Customer 036,Home Office,West,Rajasthan,Furniture,Tables,Conference Table,7,0.0,7178.43,1025.05
+ORD-11226,2024-04-26,Customer 161,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,1,0.0,1692.6,-33.98
+ORD-11227,2026-04-21,Customer 042,Corporate,North,Punjab,Technology,Accessories,Mouse,7,0.0,19635.56,4439.82
+ORD-11228,2024-03-07,Customer 008,Consumer,East,Bihar,Technology,Phones,Feature Phone,4,0.05,6389.13,-362.06
+ORD-11229,2025-02-14,Customer 029,Home Office,Central,Chhattisgarh,Office Supplies,Paper,Notebook,4,0.1,14414.72,1442.59
+ORD-11230,2025-05-18,Customer 134,Corporate,East,West Bengal,Technology,Laptops,Gaming Laptop,1,0.2,3014.54,493.4
+ORD-11231,2024-03-16,Customer 113,Corporate,West,Maharashtra,Office Supplies,Storage,File Cabinet,10,0.15,27801.29,4929.59
+ORD-11232,2025-08-13,Customer 113,Corporate,North,Punjab,Office Supplies,Art,Markers,6,0.15,10491.72,1537.42
+ORD-11233,2025-10-06,Customer 063,Corporate,North,Delhi,Technology,Laptops,Gaming Laptop,3,0.2,4549.63,192.63
+ORD-11234,2025-12-03,Customer 194,Corporate,South,Tamil Nadu,Technology,Laptops,Gaming Laptop,8,0.1,32443.63,6193.52
+ORD-11235,2024-02-24,Customer 010,Consumer,East,Odisha,Furniture,Tables,Conference Table,8,0.15,23989.38,458.38
+ORD-11236,2024-06-04,Customer 184,Consumer,South,Telangana,Office Supplies,Paper,A4 Paper,6,0.2,13734.43,341.14
+ORD-11237,2024-06-01,Customer 156,Corporate,Central,Chhattisgarh,Office Supplies,Art,Pens,5,0.2,3427.04,-115.56
+ORD-11238,2026-04-10,Customer 067,Corporate,West,Gujarat,Furniture,Chairs,Office Chair,4,0.0,11831.32,1541.91
+ORD-11239,2025-07-30,Customer 081,Home Office,Central,Chhattisgarh,Office Supplies,Art,Markers,6,0.15,16599.84,3767.16
+ORD-11240,2024-11-07,Customer 004,Home Office,East,Odisha,Office Supplies,Art,Markers,9,0.1,19942.69,4845.44
+ORD-11241,2024-03-28,Customer 203,Consumer,North,Punjab,Technology,Laptops,Gaming Laptop,4,0.15,2840.46,568.33
+ORD-11242,2024-09-11,Customer 171,Consumer,South,Tamil Nadu,Office Supplies,Storage,File Cabinet,9,0.2,32406.19,-229.73
+ORD-11243,2024-05-01,Customer 138,Consumer,West,Rajasthan,Technology,Laptops,Gaming Laptop,5,0.15,11947.13,2685.45
+ORD-11244,2025-07-25,Customer 167,Consumer,North,Punjab,Furniture,Bookcases,Wooden Bookcase,4,0.2,4335.2,-61.71
+ORD-11245,2026-02-21,Customer 024,Home Office,South,Telangana,Furniture,Tables,Study Table,1,0.05,4654.0,552.48
+ORD-11246,2025-03-02,Customer 149,Corporate,South,Telangana,Technology,Phones,Feature Phone,1,0.0,1117.89,146.27
+ORD-11247,2025-09-12,Customer 122,Consumer,West,Maharashtra,Furniture,Chairs,Ergonomic Chair,2,0.0,2124.98,168.05
+ORD-11248,2025-09-02,Customer 029,Home Office,North,Haryana,Furniture,Chairs,Ergonomic Chair,5,0.15,12281.27,917.56
+ORD-11249,2026-03-20,Customer 105,Home Office,West,Rajasthan,Technology,Accessories,Mouse,10,0.0,38021.6,404.14
+ORD-11250,2025-09-25,Customer 077,Corporate,East,Odisha,Furniture,Chairs,Ergonomic Chair,9,0.05,21102.0,5539.63
+ORD-11251,2024-08-19,Customer 082,Home Office,Central,Madhya Pradesh,Office Supplies,Storage,Storage Box,8,0.0,5169.6,493.85
+ORD-11252,2026-03-05,Customer 114,Corporate,West,Gujarat,Technology,Phones,Smartphone,7,0.0,23783.06,6019.64
+ORD-11253,2025-06-19,Customer 136,Corporate,Central,Madhya Pradesh,Technology,Phones,Smartphone,4,0.05,6100.06,214.76
+ORD-11254,2025-01-24,Customer 197,Corporate,North,Haryana,Office Supplies,Art,Markers,10,0.05,32226.38,-763.78
+ORD-11255,2025-04-06,Customer 202,Corporate,South,Karnataka,Furniture,Bookcases,Wooden Bookcase,6,0.1,25854.44,4014.07
+ORD-11256,2026-07-19,Customer 213,Home Office,East,West Bengal,Office Supplies,Storage,Storage Box,6,0.05,4619.45,838.96
+ORD-11257,2025-03-29,Customer 105,Corporate,East,Odisha,Office Supplies,Storage,Storage Box,7,0.1,805.14,-48.38
+ORD-11258,2024-10-31,Customer 096,Consumer,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,4,0.05,12707.47,332.01
+ORD-11259,2026-05-30,Customer 028,Consumer,East,Odisha,Office Supplies,Storage,File Cabinet,4,0.1,11253.67,2569.27
+ORD-11260,2025-08-25,Customer 100,Home Office,South,Karnataka,Office Supplies,Art,Pens,10,0.0,24023.7,4834.58
+ORD-11261,2025-03-15,Customer 138,Corporate,West,Maharashtra,Office Supplies,Art,Pens,1,0.2,477.65,20.72
+ORD-11262,2024-11-08,Customer 039,Consumer,West,Gujarat,Technology,Laptops,Gaming Laptop,2,0.2,2704.43,186.5
+ORD-11263,2025-08-05,Customer 170,Corporate,Central,Chhattisgarh,Furniture,Chairs,Office Chair,8,0.15,8850.95,1033.53
+ORD-11264,2025-09-27,Customer 081,Corporate,Central,Chhattisgarh,Furniture,Chairs,Office Chair,2,0.2,6986.48,1230.35
+ORD-11265,2024-03-02,Customer 174,Home Office,West,Rajasthan,Technology,Phones,Feature Phone,8,0.05,9238.86,368.49
+ORD-11266,2025-09-16,Customer 207,Corporate,East,Odisha,Furniture,Bookcases,Wooden Bookcase,3,0.1,1846.88,136.37
+ORD-11267,2026-01-27,Customer 205,Corporate,North,Haryana,Technology,Accessories,Keyboard,1,0.0,2872.0,762.58
+ORD-11268,2024-04-11,Customer 143,Consumer,Central,Chhattisgarh,Office Supplies,Art,Pens,2,0.15,6287.84,-294.45
+ORD-11269,2026-02-20,Customer 197,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,10,0.0,32858.5,6265.68
+ORD-11270,2024-07-31,Customer 117,Home Office,West,Gujarat,Office Supplies,Storage,File Cabinet,6,0.2,2197.58,279.27
+ORD-11271,2025-10-02,Customer 058,Corporate,West,Maharashtra,Office Supplies,Art,Pens,1,0.1,2840.47,-207.94
+ORD-11272,2024-08-04,Customer 211,Home Office,West,Maharashtra,Office Supplies,Paper,Notebook,9,0.2,16869.53,-132.94
+ORD-11273,2024-09-27,Customer 137,Home Office,East,Bihar,Furniture,Chairs,Office Chair,3,0.0,3330.33,-145.46
+ORD-11274,2025-11-07,Customer 052,Corporate,North,Delhi,Furniture,Tables,Study Table,6,0.0,26194.32,4110.94
+ORD-11275,2024-03-24,Customer 097,Consumer,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,6,0.1,1262.25,-45.04
+ORD-11276,2024-06-09,Customer 198,Corporate,West,Rajasthan,Furniture,Chairs,Ergonomic Chair,1,0.1,2060.44,-17.49
+ORD-11277,2024-09-02,Customer 190,Home Office,Central,Madhya Pradesh,Technology,Phones,Smartphone,3,0.0,11422.11,2954.33
+ORD-11278,2024-06-26,Customer 066,Home Office,East,Bihar,Office Supplies,Storage,File Cabinet,4,0.15,16752.65,830.08
+ORD-11279,2025-07-19,Customer 080,Consumer,North,Punjab,Technology,Phones,Feature Phone,7,0.0,14430.57,688.12
+ORD-11280,2024-03-17,Customer 071,Home Office,West,Rajasthan,Office Supplies,Paper,A4 Paper,7,0.0,30744.77,8069.62
+ORD-11281,2024-06-09,Customer 178,Corporate,East,West Bengal,Technology,Phones,Smartphone,10,0.15,1236.24,-29.58
+ORD-11282,2024-01-03,Customer 045,Home Office,North,Delhi,Furniture,Chairs,Ergonomic Chair,6,0.0,18756.12,1330.3
+ORD-11283,2025-02-22,Customer 079,Corporate,South,Telangana,Furniture,Chairs,Ergonomic Chair,2,0.0,7908.26,783.87
+ORD-11284,2025-04-06,Customer 037,Corporate,East,Odisha,Furniture,Tables,Study Table,1,0.1,1552.28,-105.06
+ORD-11285,2025-12-06,Customer 024,Corporate,North,Haryana,Office Supplies,Art,Markers,3,0.05,1683.1,408.97
+ORD-11286,2025-08-31,Customer 001,Corporate,North,Delhi,Office Supplies,Storage,Storage Box,9,0.15,17274.01,3651.61
+ORD-11287,2025-04-26,Customer 025,Corporate,West,Gujarat,Office Supplies,Paper,Notebook,9,0.15,14468.9,2324.22
+ORD-11288,2024-10-25,Customer 022,Home Office,West,Rajasthan,Furniture,Chairs,Office Chair,4,0.0,10488.8,12.57
+ORD-11289,2024-02-03,Customer 078,Corporate,North,Haryana,Office Supplies,Storage,File Cabinet,4,0.0,4833.96,883.7
+ORD-11290,2024-08-25,Customer 149,Home Office,West,Rajasthan,Furniture,Bookcases,Metal Bookcase,3,0.05,4864.75,768.79
+ORD-11291,2024-10-22,Customer 009,Consumer,North,Haryana,Office Supplies,Art,Markers,4,0.0,19598.8,-559.28
+ORD-11292,2025-12-24,Customer 210,Home Office,South,Tamil Nadu,Office Supplies,Paper,Notebook,8,0.0,34421.04,5037.06
+ORD-11293,2024-10-16,Customer 197,Home Office,West,Gujarat,Technology,Laptops,Business Laptop,9,0.2,16238.38,333.7
+ORD-11294,2025-12-20,Customer 172,Corporate,East,Odisha,Technology,Laptops,Business Laptop,8,0.1,27956.45,4438.63
+ORD-11295,2026-05-30,Customer 118,Consumer,Central,Chhattisgarh,Technology,Laptops,Business Laptop,1,0.0,4827.29,-221.81
+ORD-11296,2025-04-09,Customer 022,Home Office,North,Haryana,Furniture,Tables,Study Table,6,0.1,8664.03,1032.64
+ORD-11297,2024-03-13,Customer 091,Home Office,South,Tamil Nadu,Furniture,Chairs,Office Chair,4,0.0,15607.88,2872.29
+ORD-11298,2025-12-04,Customer 136,Consumer,Central,Madhya Pradesh,Furniture,Bookcases,Wooden Bookcase,9,0.0,16893.18,2867.28
+ORD-11299,2024-08-27,Customer 157,Corporate,East,West Bengal,Technology,Accessories,Headphones,10,0.2,9669.28,-244.26
+ORD-11300,2026-08-04,Customer 120,Corporate,South,Tamil Nadu,Technology,Laptops,Business Laptop,7,0.1,28442.55,6875.93
+ORD-11301,2024-09-27,Customer 188,Home Office,South,Telangana,Office Supplies,Paper,A4 Paper,5,0.2,14283.48,459.61
+ORD-11302,2026-03-17,Customer 207,Consumer,Central,Madhya Pradesh,Technology,Laptops,Gaming Laptop,3,0.0,7369.71,1438.96
+ORD-11303,2026-03-21,Customer 071,Consumer,West,Maharashtra,Furniture,Tables,Conference Table,10,0.05,9951.44,-543.43
+ORD-11304,2025-10-02,Customer 084,Consumer,West,Maharashtra,Furniture,Bookcases,Wooden Bookcase,4,0.2,7272.22,139.4
+ORD-11305,2025-08-26,Customer 211,Consumer,North,Haryana,Office Supplies,Art,Markers,10,0.2,19267.52,1498.59
+ORD-11306,2025-11-08,Customer 066,Consumer,Central,Chhattisgarh,Technology,Phones,Feature Phone,5,0.0,23762.45,1362.55
+ORD-11307,2026-04-03,Customer 188,Home Office,West,Gujarat,Furniture,Chairs,Ergonomic Chair,5,0.0,6003.5,-288.85
+ORD-11308,2026-08-14,Customer 198,Corporate,Central,Chhattisgarh,Technology,Accessories,Keyboard,7,0.2,12130.72,-511.09
+ORD-11309,2024-07-21,Customer 022,Consumer,East,Odisha,Furniture,Bookcases,Metal Bookcase,7,0.05,22398.46,6135.19
+ORD-11310,2025-03-11,Customer 200,Home Office,North,Haryana,Office Supplies,Paper,Notebook,4,0.2,9588.19,150.26
+ORD-11311,2024-04-27,Customer 155,Consumer,West,Rajasthan,Furniture,Bookcases,Metal Bookcase,10,0.2,21143.52,1220.65
+ORD-11312,2025-07-11,Customer 155,Corporate,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,4,0.2,5975.78,1047.85
+ORD-11313,2024-08-18,Customer 010,Corporate,West,Rajasthan,Furniture,Chairs,Ergonomic Chair,8,0.15,29076.39,6711.65
+ORD-11314,2025-10-25,Customer 106,Consumer,West,Rajasthan,Technology,Phones,Smartphone,1,0.05,3030.07,-134.63
+ORD-11315,2024-06-01,Customer 201,Consumer,West,Gujarat,Office Supplies,Art,Pens,6,0.0,29223.24,572.42
+ORD-11316,2026-07-19,Customer 190,Corporate,East,Odisha,Furniture,Bookcases,Metal Bookcase,3,0.15,2871.22,440.4
+ORD-11317,2024-09-29,Customer 059,Corporate,East,West Bengal,Office Supplies,Paper,Notebook,6,0.2,14977.78,3143.18
+ORD-11318,2026-04-26,Customer 098,Consumer,East,West Bengal,Furniture,Chairs,Ergonomic Chair,6,0.2,15104.74,-195.92
+ORD-11319,2024-05-25,Customer 083,Consumer,East,Bihar,Office Supplies,Storage,Storage Box,8,0.0,35914.56,9529.96
+ORD-11320,2024-03-14,Customer 020,Consumer,North,Delhi,Furniture,Tables,Conference Table,9,0.1,22173.35,3163.02
+ORD-11321,2024-03-02,Customer 102,Consumer,North,Delhi,Furniture,Bookcases,Metal Bookcase,5,0.05,3867.69,432.48
+ORD-11322,2024-06-18,Customer 063,Home Office,West,Maharashtra,Furniture,Tables,Study Table,6,0.1,26985.15,5866.79
+ORD-11323,2026-03-22,Customer 058,Corporate,South,Telangana,Office Supplies,Paper,Notebook,4,0.0,16731.68,139.32
+ORD-11324,2024-11-10,Customer 107,Home Office,South,Karnataka,Technology,Laptops,Gaming Laptop,1,0.1,3871.71,858.18
+ORD-11325,2025-09-01,Customer 181,Corporate,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,10,0.1,40087.44,7570.33
+ORD-11326,2026-02-05,Customer 035,Corporate,East,Odisha,Office Supplies,Storage,File Cabinet,6,0.0,16486.86,4367.58
+ORD-11327,2026-04-24,Customer 207,Home Office,South,Telangana,Furniture,Chairs,Office Chair,9,0.15,27317.61,897.51
+ORD-11328,2025-08-05,Customer 113,Corporate,South,Telangana,Office Supplies,Art,Markers,8,0.0,11350.0,972.54
+ORD-11329,2026-08-01,Customer 089,Corporate,Central,Chhattisgarh,Technology,Phones,Smartphone,9,0.2,16541.93,-980.66
+ORD-11330,2024-10-22,Customer 154,Corporate,South,Karnataka,Furniture,Tables,Study Table,5,0.2,11567.16,-810.54
+ORD-11331,2025-03-25,Customer 085,Consumer,West,Rajasthan,Technology,Laptops,Gaming Laptop,8,0.2,10356.1,1686.81
+ORD-11332,2024-05-07,Customer 014,Home Office,Central,Chhattisgarh,Technology,Accessories,Mouse,10,0.0,16408.5,4422.42
+ORD-11333,2025-04-24,Customer 064,Home Office,East,Bihar,Technology,Phones,Smartphone,9,0.0,19144.71,3517.27
+ORD-11334,2025-12-06,Customer 147,Home Office,South,Karnataka,Technology,Accessories,Keyboard,2,0.0,3451.54,899.52
+ORD-11335,2024-11-07,Customer 091,Consumer,West,Gujarat,Office Supplies,Art,Pens,3,0.0,12754.8,-580.21
+ORD-11336,2025-12-17,Customer 166,Home Office,West,Gujarat,Office Supplies,Paper,A4 Paper,5,0.0,10335.0,479.88
+ORD-11337,2025-02-16,Customer 016,Home Office,North,Punjab,Office Supplies,Paper,Notebook,1,0.0,4408.58,1205.85
+ORD-11338,2024-10-05,Customer 146,Home Office,East,West Bengal,Technology,Phones,Smartphone,1,0.05,1616.53,-113.23
+ORD-11339,2025-05-27,Customer 175,Consumer,East,West Bengal,Technology,Phones,Feature Phone,3,0.05,7759.27,-349.88
+ORD-11340,2025-07-06,Customer 010,Home Office,Central,Chhattisgarh,Furniture,Chairs,Ergonomic Chair,3,0.1,6981.96,-482.29
+ORD-11341,2025-05-20,Customer 128,Consumer,North,Punjab,Office Supplies,Paper,Notebook,3,0.0,8974.56,2190.54
+ORD-11342,2025-03-24,Customer 172,Home Office,Central,Madhya Pradesh,Furniture,Tables,Conference Table,9,0.1,33822.93,8788.69
+ORD-11343,2024-03-23,Customer 104,Consumer,North,Punjab,Technology,Laptops,Gaming Laptop,4,0.1,17301.24,-211.03
+ORD-11344,2025-09-04,Customer 135,Home Office,East,West Bengal,Office Supplies,Art,Markers,9,0.2,3928.82,139.08
+ORD-11345,2024-02-10,Customer 075,Home Office,Central,Chhattisgarh,Furniture,Bookcases,Wooden Bookcase,5,0.1,7512.98,1464.04
+ORD-11346,2026-06-29,Customer 124,Home Office,West,Gujarat,Office Supplies,Storage,File Cabinet,8,0.0,1734.32,61.99
+ORD-11347,2025-03-18,Customer 079,Home Office,West,Gujarat,Office Supplies,Storage,File Cabinet,9,0.0,37558.44,9796.77
+ORD-11348,2026-01-22,Customer 091,Home Office,Central,Madhya Pradesh,Furniture,Tables,Study Table,9,0.05,2026.52,118.68
+ORD-11349,2024-11-26,Customer 055,Consumer,North,Haryana,Office Supplies,Art,Markers,9,0.2,13802.69,-882.0
+ORD-11350,2025-09-10,Customer 164,Home Office,West,Maharashtra,Technology,Accessories,Keyboard,2,0.1,6477.79,-36.11
+ORD-11351,2024-09-13,Customer 213,Corporate,North,Delhi,Office Supplies,Paper,A4 Paper,5,0.0,616.1,97.01
+ORD-11352,2024-01-27,Customer 172,Corporate,South,Tamil Nadu,Technology,Laptops,Business Laptop,1,0.15,734.44,6.33
+ORD-11353,2024-04-03,Customer 070,Corporate,West,Rajasthan,Furniture,Bookcases,Metal Bookcase,4,0.2,15063.49,2789.58
+ORD-11354,2024-08-22,Customer 003,Home Office,North,Punjab,Office Supplies,Storage,Storage Box,4,0.1,14767.02,165.88
+ORD-11355,2025-11-21,Customer 203,Corporate,West,Maharashtra,Furniture,Tables,Study Table,4,0.0,1782.28,-68.62
+ORD-11356,2026-05-06,Customer 102,Corporate,North,Delhi,Furniture,Tables,Study Table,5,0.2,19124.2,4877.11
+ORD-11357,2026-05-31,Customer 052,Consumer,Central,Chhattisgarh,Office Supplies,Art,Pens,2,0.1,6891.93,1490.28
+ORD-11358,2025-08-12,Customer 214,Corporate,Central,Chhattisgarh,Technology,Phones,Smartphone,8,0.0,19569.76,45.25
+ORD-11359,2025-08-24,Customer 114,Home Office,South,Karnataka,Furniture,Chairs,Office Chair,7,0.1,19624.94,3646.41
+ORD-11360,2024-01-22,Customer 088,Corporate,North,Haryana,Furniture,Chairs,Office Chair,6,0.0,1886.46,493.29
+ORD-11361,2026-02-22,Customer 058,Consumer,South,Tamil Nadu,Office Supplies,Paper,A4 Paper,7,0.05,13048.43,1331.12
+ORD-11362,2025-11-19,Customer 155,Home Office,South,Tamil Nadu,Furniture,Bookcases,Metal Bookcase,1,0.0,4369.55,977.17
+ORD-11363,2026-04-21,Customer 137,Consumer,East,Bihar,Technology,Phones,Feature Phone,1,0.0,645.69,43.63
+ORD-11364,2024-10-02,Customer 002,Corporate,Central,Madhya Pradesh,Furniture,Tables,Conference Table,1,0.0,803.08,133.6
+ORD-11365,2025-08-13,Customer 019,Consumer,North,Haryana,Technology,Laptops,Gaming Laptop,4,0.0,15338.64,1885.27
+ORD-11366,2024-02-11,Customer 126,Home Office,West,Rajasthan,Furniture,Tables,Conference Table,10,0.2,15961.28,88.76
+ORD-11367,2026-02-20,Customer 074,Home Office,East,Odisha,Furniture,Tables,Conference Table,3,0.05,6628.22,3.86
+ORD-11368,2026-02-13,Customer 118,Corporate,South,Tamil Nadu,Office Supplies,Paper,Notebook,1,0.05,2104.73,-59.28
+ORD-11369,2024-06-28,Customer 118,Home Office,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,4,0.1,16974.79,4041.76
+ORD-11370,2025-04-26,Customer 136,Consumer,West,Gujarat,Office Supplies,Storage,Storage Box,6,0.1,9166.23,-294.04
+ORD-11371,2025-06-15,Customer 196,Corporate,South,Karnataka,Furniture,Chairs,Office Chair,10,0.1,16926.57,1986.4
+ORD-11372,2025-10-29,Customer 077,Home Office,East,Bihar,Office Supplies,Paper,Notebook,3,0.15,6130.56,949.04
+ORD-11373,2025-03-28,Customer 133,Corporate,West,Maharashtra,Technology,Phones,Feature Phone,9,0.2,32116.54,1873.83
+ORD-11374,2026-07-27,Customer 191,Home Office,South,Tamil Nadu,Technology,Accessories,Headphones,7,0.0,20161.61,370.88
+ORD-11375,2024-10-11,Customer 190,Consumer,Central,Madhya Pradesh,Furniture,Tables,Study Table,3,0.1,5711.36,48.27
+ORD-11376,2024-07-04,Customer 014,Corporate,West,Gujarat,Furniture,Bookcases,Wooden Bookcase,2,0.0,7912.24,-571.84
+ORD-11377,2025-08-22,Customer 081,Home Office,North,Punjab,Office Supplies,Paper,A4 Paper,4,0.0,6428.2,325.64
+ORD-11378,2025-03-22,Customer 039,Consumer,West,Gujarat,Office Supplies,Art,Markers,5,0.15,6739.99,-151.43
+ORD-11379,2025-10-12,Customer 072,Home Office,West,Maharashtra,Furniture,Bookcases,Metal Bookcase,3,0.2,6845.16,609.52
+ORD-11380,2026-04-13,Customer 122,Corporate,South,Karnataka,Furniture,Chairs,Ergonomic Chair,2,0.0,7605.6,1801.64
+ORD-11381,2025-05-18,Customer 115,Consumer,West,Maharashtra,Technology,Accessories,Mouse,6,0.15,23774.26,2992.89
+ORD-11382,2024-04-03,Customer 160,Corporate,West,Rajasthan,Furniture,Tables,Conference Table,2,0.0,8887.6,-143.94
+ORD-11383,2025-04-26,Customer 205,Corporate,West,Maharashtra,Technology,Accessories,Headphones,6,0.0,9195.06,438.57
+ORD-11384,2024-12-22,Customer 134,Consumer,North,Haryana,Furniture,Tables,Study Table,6,0.0,25626.84,2686.52
+ORD-11385,2025-02-22,Customer 070,Home Office,West,Gujarat,Technology,Phones,Smartphone,5,0.1,6251.67,259.48
+ORD-11386,2024-12-07,Customer 147,Consumer,West,Rajasthan,Technology,Laptops,Gaming Laptop,3,0.15,11151.15,-849.23
+ORD-11387,2024-11-24,Customer 097,Corporate,East,Odisha,Technology,Laptops,Business Laptop,7,0.2,1547.39,26.77
+ORD-11388,2025-11-17,Customer 050,Corporate,East,Bihar,Office Supplies,Storage,Storage Box,3,0.2,11328.58,160.54
+ORD-11389,2024-04-17,Customer 033,Consumer,East,Odisha,Technology,Laptops,Gaming Laptop,6,0.0,25927.5,-1859.45
+ORD-11390,2026-05-28,Customer 020,Consumer,South,Karnataka,Technology,Laptops,Gaming Laptop,3,0.0,8707.05,1744.85
+ORD-11391,2024-06-13,Customer 085,Home Office,North,Haryana,Office Supplies,Art,Markers,3,0.1,7979.85,1174.32
+ORD-11392,2024-12-03,Customer 184,Consumer,North,Haryana,Technology,Phones,Smartphone,4,0.0,18392.84,-242.66
+ORD-11393,2025-02-25,Customer 136,Consumer,North,Punjab,Furniture,Chairs,Office Chair,1,0.1,3251.88,114.94
+ORD-11394,2025-12-11,Customer 016,Corporate,West,Maharashtra,Furniture,Tables,Study Table,8,0.2,9673.66,1287.1
+ORD-11395,2025-05-22,Customer 049,Home Office,South,Telangana,Technology,Phones,Smartphone,4,0.15,4725.93,600.93
+ORD-11396,2024-10-22,Customer 163,Home Office,North,Haryana,Technology,Phones,Smartphone,6,0.0,22834.8,-491.58
+ORD-11397,2025-11-09,Customer 136,Consumer,East,Bihar,Office Supplies,Art,Pens,4,0.05,8321.85,1537.54
+ORD-11398,2025-02-14,Customer 194,Corporate,East,Odisha,Technology,Phones,Smartphone,2,0.2,4032.35,-234.9
+ORD-11399,2026-04-13,Customer 156,Home Office,North,Haryana,Furniture,Tables,Study Table,2,0.05,3154.28,540.35
+ORD-11400,2026-02-17,Customer 077,Corporate,North,Haryana,Office Supplies,Art,Pens,8,0.1,13354.2,712.58
+ORD-11401,2025-07-17,Customer 120,Corporate,East,Bihar,Furniture,Chairs,Office Chair,10,0.2,7485.68,352.14
+ORD-11402,2024-02-07,Customer 007,Consumer,East,Odisha,Office Supplies,Storage,Storage Box,3,0.1,2149.77,152.75
+ORD-11403,2025-04-10,Customer 039,Home Office,East,Odisha,Furniture,Chairs,Ergonomic Chair,6,0.2,808.13,198.74
+ORD-11404,2024-03-31,Customer 128,Corporate,South,Karnataka,Technology,Phones,Feature Phone,8,0.05,6342.28,-55.86
+ORD-11405,2024-11-18,Customer 112,Consumer,South,Tamil Nadu,Furniture,Tables,Study Table,4,0.2,7948.86,792.42
+ORD-11406,2024-09-15,Customer 075,Consumer,West,Rajasthan,Technology,Laptops,Gaming Laptop,2,0.2,7631.14,699.1
+ORD-11407,2024-11-27,Customer 087,Home Office,South,Telangana,Office Supplies,Paper,Notebook,8,0.05,1242.9,183.13
+ORD-11408,2024-04-28,Customer 096,Home Office,East,Bihar,Furniture,Tables,Study Table,10,0.05,6974.9,298.49
+ORD-11409,2026-03-02,Customer 084,Home Office,South,Tamil Nadu,Furniture,Tables,Study Table,1,0.1,2061.61,17.73
+ORD-11410,2025-02-17,Customer 033,Corporate,South,Tamil Nadu,Furniture,Tables,Conference Table,9,0.05,15131.02,2593.44
+ORD-11411,2026-06-04,Customer 081,Home Office,Central,Madhya Pradesh,Furniture,Bookcases,Wooden Bookcase,4,0.1,8978.69,2160.28
+ORD-11412,2025-06-10,Customer 187,Corporate,North,Punjab,Technology,Accessories,Keyboard,2,0.1,4847.85,663.84
+ORD-11413,2026-04-24,Customer 058,Home Office,North,Punjab,Office Supplies,Paper,Notebook,3,0.0,5647.59,511.38
+ORD-11414,2024-01-02,Customer 125,Corporate,North,Punjab,Office Supplies,Art,Pens,9,0.05,6976.71,1844.64
+ORD-11415,2025-11-04,Customer 135,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,5,0.2,14775.04,3524.11
+ORD-11416,2026-06-09,Customer 008,Home Office,East,West Bengal,Office Supplies,Storage,File Cabinet,5,0.0,6894.2,183.37
+ORD-11417,2025-07-09,Customer 114,Corporate,West,Maharashtra,Office Supplies,Storage,File Cabinet,8,0.15,21534.65,-505.8
+ORD-11418,2025-04-18,Customer 083,Consumer,North,Punjab,Office Supplies,Storage,File Cabinet,10,0.0,23213.3,3044.03
+ORD-11419,2025-02-27,Customer 007,Home Office,North,Delhi,Office Supplies,Art,Pens,6,0.2,3814.03,209.81
+ORD-11420,2024-02-25,Customer 083,Home Office,West,Rajasthan,Office Supplies,Storage,File Cabinet,6,0.0,18624.6,2825.42
+ORD-11421,2024-07-11,Customer 027,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,8,0.0,3304.0,-97.9
+ORD-11422,2025-06-14,Customer 018,Corporate,South,Telangana,Technology,Phones,Feature Phone,6,0.1,9487.64,414.48
+ORD-11423,2025-01-05,Customer 209,Consumer,West,Rajasthan,Technology,Accessories,Keyboard,7,0.15,20845.65,4507.34
+ORD-11424,2025-09-29,Customer 014,Home Office,West,Maharashtra,Technology,Laptops,Gaming Laptop,4,0.2,1206.14,145.66
+ORD-11425,2026-02-13,Customer 083,Corporate,South,Tamil Nadu,Technology,Phones,Smartphone,4,0.0,19019.32,1905.93
+ORD-11426,2025-05-25,Customer 018,Consumer,West,Maharashtra,Furniture,Tables,Conference Table,1,0.2,2705.0,187.67
+ORD-11427,2025-10-02,Customer 149,Corporate,South,Telangana,Technology,Phones,Smartphone,10,0.05,23827.71,4114.01
+ORD-11428,2025-03-28,Customer 073,Corporate,Central,Madhya Pradesh,Office Supplies,Paper,A4 Paper,9,0.2,979.27,184.04
+ORD-11429,2026-02-17,Customer 084,Corporate,Central,Chhattisgarh,Furniture,Tables,Study Table,4,0.05,14422.67,582.89
+ORD-11430,2024-02-22,Customer 198,Corporate,West,Maharashtra,Furniture,Tables,Conference Table,1,0.2,1826.53,295.65
+ORD-11431,2024-07-27,Customer 146,Home Office,South,Karnataka,Technology,Phones,Feature Phone,2,0.0,7479.58,-59.45
+ORD-11432,2024-09-30,Customer 146,Corporate,East,Bihar,Furniture,Chairs,Ergonomic Chair,6,0.2,11388.1,1655.86
+ORD-11433,2025-07-16,Customer 185,Corporate,South,Telangana,Technology,Laptops,Gaming Laptop,4,0.05,15826.92,-90.42
+ORD-11434,2024-05-14,Customer 171,Consumer,East,Odisha,Office Supplies,Art,Markers,8,0.15,16679.45,379.01
+ORD-11435,2026-08-07,Customer 001,Corporate,North,Haryana,Technology,Phones,Smartphone,10,0.0,3451.4,900.27
+ORD-11436,2024-10-21,Customer 109,Home Office,West,Gujarat,Furniture,Bookcases,Wooden Bookcase,2,0.0,724.68,110.5
+ORD-11437,2025-03-24,Customer 068,Corporate,East,West Bengal,Office Supplies,Storage,File Cabinet,5,0.0,19375.85,556.82
+ORD-11438,2026-06-20,Customer 061,Corporate,South,Karnataka,Furniture,Bookcases,Wooden Bookcase,8,0.0,7643.6,-374.58
+ORD-11439,2025-12-16,Customer 102,Home Office,Central,Chhattisgarh,Office Supplies,Paper,Notebook,2,0.0,7368.06,-17.9
+ORD-11440,2025-05-11,Customer 012,Home Office,West,Maharashtra,Technology,Laptops,Business Laptop,8,0.0,16967.04,2165.57
+ORD-11441,2024-05-04,Customer 049,Consumer,North,Punjab,Furniture,Tables,Conference Table,4,0.0,16118.04,2605.44
+ORD-11442,2024-01-30,Customer 184,Home Office,West,Maharashtra,Furniture,Chairs,Ergonomic Chair,9,0.1,38600.71,7917.27
+ORD-11443,2025-10-07,Customer 169,Corporate,North,Punjab,Office Supplies,Paper,Notebook,8,0.15,28026.2,-588.49
+ORD-11444,2025-09-15,Customer 089,Corporate,Central,Madhya Pradesh,Office Supplies,Art,Pens,7,0.1,6000.25,323.77
+ORD-11445,2026-03-29,Customer 036,Corporate,South,Telangana,Office Supplies,Art,Pens,6,0.0,28864.74,3947.97
+ORD-11446,2024-09-02,Customer 088,Home Office,East,Bihar,Office Supplies,Storage,File Cabinet,1,0.2,1426.34,-39.63
+ORD-11447,2025-12-27,Customer 140,Consumer,South,Telangana,Technology,Phones,Feature Phone,2,0.0,8269.74,2287.26
+ORD-11448,2024-06-11,Customer 176,Home Office,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Chair,9,0.0,30210.48,5628.09
+ORD-11449,2024-11-14,Customer 101,Consumer,East,Odisha,Technology,Laptops,Business Laptop,9,0.15,35885.77,5615.44
+ORD-11450,2025-07-18,Customer 178,Consumer,Central,Chhattisgarh,Furniture,Tables,Study Table,4,0.1,11657.88,-279.18
+ORD-11451,2024-01-15,Customer 104,Corporate,North,Haryana,Technology,Laptops,Gaming Laptop,2,0.05,6659.86,47.02
+ORD-11452,2025-07-19,Customer 048,Home Office,South,Telangana,Furniture,Chairs,Office Chair,1,0.05,170.51,-6.21
+ORD-11453,2025-02-21,Customer 179,Home Office,North,Delhi,Office Supplies,Storage,File Cabinet,7,0.2,26487.38,1723.81
+ORD-11454,2024-04-05,Customer 163,Home Office,East,Odisha,Office Supplies,Storage,File Cabinet,5,0.15,9349.02,2346.98
+ORD-11455,2024-08-18,Customer 122,Corporate,Central,Madhya Pradesh,Furniture,Tables,Study Table,8,0.0,13329.6,161.04
+ORD-11456,2026-05-11,Customer 125,Consumer,Central,Madhya Pradesh,Office Supplies,Art,Pens,8,0.1,35810.86,-2366.32
+ORD-11457,2026-07-23,Customer 025,Corporate,West,Gujarat,Furniture,Chairs,Office Chair,4,0.2,11676.7,1719.6
+ORD-11458,2024-04-26,Customer 219,Corporate,West,Rajasthan,Office Supplies,Paper,Notebook,1,0.15,1429.77,285.64
+ORD-11459,2025-04-17,Customer 130,Corporate,South,Telangana,Office Supplies,Paper,A4 Paper,3,0.2,7218.72,1451.69
+ORD-11460,2024-04-30,Customer 013,Corporate,North,Haryana,Technology,Laptops,Business Laptop,10,0.15,17017.6,2643.39
+ORD-11461,2025-10-25,Customer 011,Corporate,Central,Madhya Pradesh,Furniture,Bookcases,Metal Bookcase,3,0.05,12885.08,2928.52
+ORD-11462,2026-05-02,Customer 100,Home Office,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper,2,0.1,1936.26,18.7
+ORD-11463,2024-06-06,Customer 127,Consumer,South,Tamil Nadu,Technology,Laptops,Gaming Laptop,4,0.2,5652.32,735.28
+ORD-11464,2025-05-25,Customer 113,Corporate,West,Rajasthan,Technology,Phones,Smartphone,3,0.15,1904.34,233.47
+ORD-11465,2026-08-13,Customer 112,Home Office,East,Bihar,Office Supplies,Paper,Notebook,9,0.1,5030.18,-341.68
+ORD-11466,2026-01-03,Customer 036,Consumer,West,Maharashtra,Technology,Phones,Feature Phone,6,0.15,12370.92,3104.34
+ORD-11467,2024-10-25,Customer 068,Corporate,North,Delhi,Technology,Accessories,Headphones,4,0.15,7772.06,422.75
+ORD-11468,2025-06-05,Customer 077,Consumer,North,Haryana,Technology,Accessories,Keyboard,2,0.0,5684.74,-40.47
+ORD-11469,2025-12-23,Customer 003,Corporate,West,Maharashtra,Office Supplies,Paper,A4 Paper,2,0.05,5073.68,663.67
+ORD-11470,2024-10-06,Customer 026,Consumer,South,Tamil Nadu,Technology,Laptops,Gaming Laptop,4,0.1,12073.61,1114.93
+ORD-11471,2025-03-01,Customer 195,Consumer,West,Rajasthan,Furniture,Bookcases,Wooden Bookcase,3,0.15,8590.18,-237.56
+ORD-11472,2026-05-04,Customer 093,Consumer,West,Rajasthan,Technology,Accessories,Headphones,4,0.1,11419.24,2538.7
+ORD-11473,2025-05-09,Customer 186,Corporate,East,Odisha,Technology,Laptops,Gaming Laptop,6,0.0,23550.6,-251.1
+ORD-11474,2025-04-28,Customer 166,Home Office,West,Gujarat,Furniture,Chairs,Office Chair,8,0.15,21168.33,5079.3
+ORD-11475,2024-09-06,Customer 107,Consumer,South,Karnataka,Furniture,Bookcases,Metal Bookcase,8,0.1,27994.97,3805.52
+ORD-11476,2025-04-12,Customer 207,Corporate,Central,Madhya Pradesh,Furniture,Chairs,Office Chair,6,0.05,8317.5,725.47
+ORD-11477,2025-07-18,Customer 215,Home Office,East,Bihar,Furniture,Tables,Conference Table,8,0.1,18763.63,3615.2
+ORD-11478,2024-05-28,Customer 162,Consumer,Central,Madhya Pradesh,Office Supplies,Storage,File Cabinet,8,0.15,33174.55,3520.45
+ORD-11479,2025-01-27,Customer 083,Consumer,East,Bihar,Office Supplies,Storage,Storage Box,10,0.05,24854.28,6304.42
+ORD-11480,2024-07-14,Customer 154,Corporate,Central,Madhya Pradesh,Office Supplies,Storage,File Cabinet,6,0.1,14237.59,288.57
+ORD-11481,2026-08-01,Customer 142,Corporate,South,Telangana,Technology,Accessories,Keyboard,4,0.05,13173.88,2325.76
+ORD-11482,2025-09-05,Customer 053,Home Office,South,Tamil Nadu,Furniture,Bookcases,Wooden Bookcase,2,0.05,6935.95,1039.66
+ORD-11483,2025-06-04,Customer 146,Corporate,East,West Bengal,Furniture,Tables,Conference Table,4,0.2,6460.77,112.85
+ORD-11484,2026-02-03,Customer 101,Consumer,Central,Chhattisgarh,Technology,Laptops,Gaming Laptop,5,0.1,3193.65,679.36
+ORD-11485,2026-06-19,Customer 108,Consumer,North,Delhi,Office Supplies,Storage,Storage Box,9,0.05,25304.24,2631.71
+ORD-11486,2024-05-19,Customer 031,Consumer,East,West Bengal,Office Supplies,Art,Pens,10,0.1,5666.31,335.89
+ORD-11487,2026-06-03,Customer 033,Consumer,South,Karnataka,Office Supplies,Paper,A4 Paper,2,0.15,2480.37,279.49
+ORD-11488,2024-03-12,Customer 185,Corporate,West,Maharashtra,Technology,Accessories,Mouse,1,0.05,140.88,38.27
+ORD-11489,2024-10-09,Customer 091,Consumer,East,Odisha,Technology,Phones,Smartphone,10,0.05,29050.43,7379.58
+ORD-11490,2026-03-02,Customer 158,Consumer,South,Karnataka,Furniture,Bookcases,Metal Bookcase,4,0.1,3391.31,-23.3
+ORD-11491,2026-03-19,Customer 057,Consumer,South,Karnataka,Furniture,Bookcases,Metal Bookcase,8,0.0,5682.88,1274.88
+ORD-11492,2026-05-24,Customer 112,Home Office,West,Rajasthan,Technology,Phones,Smartphone,5,0.0,3131.0,506.03
+ORD-11493,2025-02-28,Customer 114,Consumer,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper,2,0.1,7653.02,1350.55
+ORD-11494,2024-12-14,Customer 135,Corporate,West,Rajasthan,Office Supplies,Paper,Notebook,4,0.1,15915.06,1228.55
+ORD-11495,2026-08-14,Customer 020,Home Office,East,West Bengal,Office Supplies,Art,Pens,8,0.05,23348.04,-653.15
+ORD-11496,2026-03-17,Customer 075,Consumer,West,Maharashtra,Office Supplies,Paper,A4 Paper,6,0.05,10436.7,99.73
+ORD-11497,2025-06-03,Customer 089,Corporate,West,Rajasthan,Office Supplies,Paper,A4 Paper,2,0.0,4632.0,277.89
+ORD-11498,2024-09-30,Customer 069,Corporate,West,Maharashtra,Office Supplies,Storage,Storage Box,7,0.05,3580.09,162.4
+ORD-11499,2026-04-20,Customer 051,Consumer,East,Odisha,Technology,Phones,Smartphone,10,0.15,27714.59,3080.12
+ORD-11500,2024-01-03,Customer 065,Consumer,West,Gujarat,Technology,Phones,Smartphone,3,0.2,1326.36,157.86
+ORD-10006,2024-09-07,Customer 192,Consumer,West,Rajasthan,Technology,Accessories,Headphones,4,0.05,12132.22,3385.78
+ORD-10016,2025-08-27,Customer 070,Consumer,East,Bihar,Office Supplies,Paper,A4 Paper,3,0.05,11268.64,1252.02
